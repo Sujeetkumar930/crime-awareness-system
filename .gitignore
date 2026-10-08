@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pkl
+*.zip
+.vscode/
+.ipynb_checkpoints/
+Fantastic Crime Awareness System.html
+Fantastic Crime Awareness System_files/
+app1.py/
+app12.py
+tempCodeRunnerFile.py

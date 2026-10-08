@@ -1,0 +1,3011 @@
+state,district,city,year,crime_type,crime_count
+andhra pradesh,None,Visakhapatnam,2020,ARSON,10
+andhra pradesh,None,Visakhapatnam,2020,ASSAULT,7
+andhra pradesh,None,Visakhapatnam,2020,BURGLARY,5
+andhra pradesh,None,Visakhapatnam,2020,COUNTERFEITING,6
+andhra pradesh,None,Visakhapatnam,2020,CYBERCRIME,7
+andhra pradesh,None,Visakhapatnam,2020,DOMESTIC VIOLENCE,10
+andhra pradesh,None,Visakhapatnam,2020,DRUG OFFENSE,11
+andhra pradesh,None,Visakhapatnam,2020,EXTORTION,5
+andhra pradesh,None,Visakhapatnam,2020,FIREARM OFFENSE,8
+andhra pradesh,None,Visakhapatnam,2020,FRAUD,9
+andhra pradesh,None,Visakhapatnam,2020,HOMICIDE,9
+andhra pradesh,None,Visakhapatnam,2020,IDENTITY THEFT,5
+andhra pradesh,None,Visakhapatnam,2020,ILLEGAL POSSESSION,9
+andhra pradesh,None,Visakhapatnam,2020,KIDNAPPING,8
+andhra pradesh,None,Visakhapatnam,2020,PUBLIC INTOXICATION,4
+andhra pradesh,None,Visakhapatnam,2020,ROBBERY,10
+andhra pradesh,None,Visakhapatnam,2020,SEXUAL ASSAULT,6
+andhra pradesh,None,Visakhapatnam,2020,SHOPLIFTING,7
+andhra pradesh,None,Visakhapatnam,2020,TRAFFIC VIOLATION,11
+andhra pradesh,None,Visakhapatnam,2020,VANDALISM,12
+andhra pradesh,None,Visakhapatnam,2020,VEHICLE - STOLEN,8
+andhra pradesh,None,Visakhapatnam,2021,ARSON,10
+andhra pradesh,None,Visakhapatnam,2021,ASSAULT,13
+andhra pradesh,None,Visakhapatnam,2021,BURGLARY,9
+andhra pradesh,None,Visakhapatnam,2021,COUNTERFEITING,2
+andhra pradesh,None,Visakhapatnam,2021,CYBERCRIME,9
+andhra pradesh,None,Visakhapatnam,2021,DOMESTIC VIOLENCE,6
+andhra pradesh,None,Visakhapatnam,2021,DRUG OFFENSE,5
+andhra pradesh,None,Visakhapatnam,2021,EXTORTION,4
+andhra pradesh,None,Visakhapatnam,2021,FIREARM OFFENSE,8
+andhra pradesh,None,Visakhapatnam,2021,FRAUD,12
+andhra pradesh,None,Visakhapatnam,2021,HOMICIDE,5
+andhra pradesh,None,Visakhapatnam,2021,IDENTITY THEFT,4
+andhra pradesh,None,Visakhapatnam,2021,ILLEGAL POSSESSION,7
+andhra pradesh,None,Visakhapatnam,2021,KIDNAPPING,5
+andhra pradesh,None,Visakhapatnam,2021,PUBLIC INTOXICATION,4
+andhra pradesh,None,Visakhapatnam,2021,ROBBERY,6
+andhra pradesh,None,Visakhapatnam,2021,SEXUAL ASSAULT,8
+andhra pradesh,None,Visakhapatnam,2021,SHOPLIFTING,6
+andhra pradesh,None,Visakhapatnam,2021,TRAFFIC VIOLATION,12
+andhra pradesh,None,Visakhapatnam,2021,VANDALISM,6
+andhra pradesh,None,Visakhapatnam,2021,VEHICLE - STOLEN,9
+andhra pradesh,None,Visakhapatnam,2022,ARSON,8
+andhra pradesh,None,Visakhapatnam,2022,ASSAULT,4
+andhra pradesh,None,Visakhapatnam,2022,BURGLARY,7
+andhra pradesh,None,Visakhapatnam,2022,COUNTERFEITING,6
+andhra pradesh,None,Visakhapatnam,2022,CYBERCRIME,13
+andhra pradesh,None,Visakhapatnam,2022,DOMESTIC VIOLENCE,6
+andhra pradesh,None,Visakhapatnam,2022,DRUG OFFENSE,5
+andhra pradesh,None,Visakhapatnam,2022,EXTORTION,7
+andhra pradesh,None,Visakhapatnam,2022,FIREARM OFFENSE,9
+andhra pradesh,None,Visakhapatnam,2022,FRAUD,10
+andhra pradesh,None,Visakhapatnam,2022,HOMICIDE,4
+andhra pradesh,None,Visakhapatnam,2022,IDENTITY THEFT,11
+andhra pradesh,None,Visakhapatnam,2022,ILLEGAL POSSESSION,5
+andhra pradesh,None,Visakhapatnam,2022,KIDNAPPING,8
+andhra pradesh,None,Visakhapatnam,2022,PUBLIC INTOXICATION,5
+andhra pradesh,None,Visakhapatnam,2022,ROBBERY,5
+andhra pradesh,None,Visakhapatnam,2022,SEXUAL ASSAULT,8
+andhra pradesh,None,Visakhapatnam,2022,SHOPLIFTING,3
+andhra pradesh,None,Visakhapatnam,2022,TRAFFIC VIOLATION,11
+andhra pradesh,None,Visakhapatnam,2022,VANDALISM,8
+andhra pradesh,None,Visakhapatnam,2022,VEHICLE - STOLEN,9
+andhra pradesh,None,Visakhapatnam,2023,ARSON,8
+andhra pradesh,None,Visakhapatnam,2023,ASSAULT,6
+andhra pradesh,None,Visakhapatnam,2023,BURGLARY,5
+andhra pradesh,None,Visakhapatnam,2023,COUNTERFEITING,4
+andhra pradesh,None,Visakhapatnam,2023,CYBERCRIME,4
+andhra pradesh,None,Visakhapatnam,2023,DOMESTIC VIOLENCE,9
+andhra pradesh,None,Visakhapatnam,2023,DRUG OFFENSE,16
+andhra pradesh,None,Visakhapatnam,2023,EXTORTION,8
+andhra pradesh,None,Visakhapatnam,2023,FIREARM OFFENSE,10
+andhra pradesh,None,Visakhapatnam,2023,FRAUD,7
+andhra pradesh,None,Visakhapatnam,2023,HOMICIDE,5
+andhra pradesh,None,Visakhapatnam,2023,IDENTITY THEFT,13
+andhra pradesh,None,Visakhapatnam,2023,ILLEGAL POSSESSION,7
+andhra pradesh,None,Visakhapatnam,2023,KIDNAPPING,6
+andhra pradesh,None,Visakhapatnam,2023,PUBLIC INTOXICATION,6
+andhra pradesh,None,Visakhapatnam,2023,ROBBERY,3
+andhra pradesh,None,Visakhapatnam,2023,SEXUAL ASSAULT,5
+andhra pradesh,None,Visakhapatnam,2023,SHOPLIFTING,3
+andhra pradesh,None,Visakhapatnam,2023,TRAFFIC VIOLATION,4
+andhra pradesh,None,Visakhapatnam,2023,VANDALISM,13
+andhra pradesh,None,Visakhapatnam,2023,VEHICLE - STOLEN,7
+andhra pradesh,None,Visakhapatnam,2024,ARSON,3
+andhra pradesh,None,Visakhapatnam,2024,ASSAULT,4
+andhra pradesh,None,Visakhapatnam,2024,BURGLARY,6
+andhra pradesh,None,Visakhapatnam,2024,COUNTERFEITING,3
+andhra pradesh,None,Visakhapatnam,2024,CYBERCRIME,6
+andhra pradesh,None,Visakhapatnam,2024,DOMESTIC VIOLENCE,4
+andhra pradesh,None,Visakhapatnam,2024,DRUG OFFENSE,5
+andhra pradesh,None,Visakhapatnam,2024,EXTORTION,5
+andhra pradesh,None,Visakhapatnam,2024,FIREARM OFFENSE,5
+andhra pradesh,None,Visakhapatnam,2024,FRAUD,6
+andhra pradesh,None,Visakhapatnam,2024,HOMICIDE,8
+andhra pradesh,None,Visakhapatnam,2024,IDENTITY THEFT,5
+andhra pradesh,None,Visakhapatnam,2024,ILLEGAL POSSESSION,5
+andhra pradesh,None,Visakhapatnam,2024,KIDNAPPING,4
+andhra pradesh,None,Visakhapatnam,2024,PUBLIC INTOXICATION,7
+andhra pradesh,None,Visakhapatnam,2024,ROBBERY,6
+andhra pradesh,None,Visakhapatnam,2024,SEXUAL ASSAULT,8
+andhra pradesh,None,Visakhapatnam,2024,SHOPLIFTING,8
+andhra pradesh,None,Visakhapatnam,2024,TRAFFIC VIOLATION,7
+andhra pradesh,None,Visakhapatnam,2024,VANDALISM,3
+andhra pradesh,None,Visakhapatnam,2024,VEHICLE - STOLEN,2
+bihar,None,Patna,2020,ARSON,8
+bihar,None,Patna,2020,ASSAULT,9
+bihar,None,Patna,2020,BURGLARY,10
+bihar,None,Patna,2020,COUNTERFEITING,4
+bihar,None,Patna,2020,CYBERCRIME,13
+bihar,None,Patna,2020,DOMESTIC VIOLENCE,9
+bihar,None,Patna,2020,DRUG OFFENSE,6
+bihar,None,Patna,2020,EXTORTION,5
+bihar,None,Patna,2020,FIREARM OFFENSE,8
+bihar,None,Patna,2020,FRAUD,5
+bihar,None,Patna,2020,HOMICIDE,5
+bihar,None,Patna,2020,IDENTITY THEFT,5
+bihar,None,Patna,2020,ILLEGAL POSSESSION,8
+bihar,None,Patna,2020,KIDNAPPING,5
+bihar,None,Patna,2020,PUBLIC INTOXICATION,9
+bihar,None,Patna,2020,ROBBERY,9
+bihar,None,Patna,2020,SEXUAL ASSAULT,6
+bihar,None,Patna,2020,SHOPLIFTING,8
+bihar,None,Patna,2020,TRAFFIC VIOLATION,6
+bihar,None,Patna,2020,VANDALISM,6
+bihar,None,Patna,2020,VEHICLE - STOLEN,5
+bihar,None,Patna,2021,ARSON,12
+bihar,None,Patna,2021,ASSAULT,5
+bihar,None,Patna,2021,BURGLARY,3
+bihar,None,Patna,2021,COUNTERFEITING,8
+bihar,None,Patna,2021,CYBERCRIME,6
+bihar,None,Patna,2021,DOMESTIC VIOLENCE,11
+bihar,None,Patna,2021,DRUG OFFENSE,7
+bihar,None,Patna,2021,EXTORTION,10
+bihar,None,Patna,2021,FIREARM OFFENSE,6
+bihar,None,Patna,2021,FRAUD,12
+bihar,None,Patna,2021,HOMICIDE,4
+bihar,None,Patna,2021,IDENTITY THEFT,10
+bihar,None,Patna,2021,ILLEGAL POSSESSION,3
+bihar,None,Patna,2021,KIDNAPPING,6
+bihar,None,Patna,2021,PUBLIC INTOXICATION,5
+bihar,None,Patna,2021,ROBBERY,7
+bihar,None,Patna,2021,SEXUAL ASSAULT,11
+bihar,None,Patna,2021,SHOPLIFTING,8
+bihar,None,Patna,2021,TRAFFIC VIOLATION,8
+bihar,None,Patna,2021,VANDALISM,8
+bihar,None,Patna,2021,VEHICLE - STOLEN,7
+bihar,None,Patna,2022,ARSON,9
+bihar,None,Patna,2022,ASSAULT,8
+bihar,None,Patna,2022,BURGLARY,7
+bihar,None,Patna,2022,COUNTERFEITING,4
+bihar,None,Patna,2022,CYBERCRIME,6
+bihar,None,Patna,2022,DOMESTIC VIOLENCE,5
+bihar,None,Patna,2022,DRUG OFFENSE,2
+bihar,None,Patna,2022,EXTORTION,10
+bihar,None,Patna,2022,FIREARM OFFENSE,10
+bihar,None,Patna,2022,FRAUD,4
+bihar,None,Patna,2022,HOMICIDE,8
+bihar,None,Patna,2022,IDENTITY THEFT,9
+bihar,None,Patna,2022,ILLEGAL POSSESSION,8
+bihar,None,Patna,2022,KIDNAPPING,9
+bihar,None,Patna,2022,PUBLIC INTOXICATION,7
+bihar,None,Patna,2022,ROBBERY,4
+bihar,None,Patna,2022,SEXUAL ASSAULT,10
+bihar,None,Patna,2022,SHOPLIFTING,5
+bihar,None,Patna,2022,TRAFFIC VIOLATION,9
+bihar,None,Patna,2022,VANDALISM,6
+bihar,None,Patna,2022,VEHICLE - STOLEN,7
+bihar,None,Patna,2023,ASSAULT,8
+bihar,None,Patna,2023,BURGLARY,7
+bihar,None,Patna,2023,COUNTERFEITING,4
+bihar,None,Patna,2023,CYBERCRIME,8
+bihar,None,Patna,2023,DOMESTIC VIOLENCE,7
+bihar,None,Patna,2023,DRUG OFFENSE,11
+bihar,None,Patna,2023,EXTORTION,6
+bihar,None,Patna,2023,FIREARM OFFENSE,4
+bihar,None,Patna,2023,FRAUD,6
+bihar,None,Patna,2023,HOMICIDE,2
+bihar,None,Patna,2023,IDENTITY THEFT,6
+bihar,None,Patna,2023,ILLEGAL POSSESSION,5
+bihar,None,Patna,2023,KIDNAPPING,6
+bihar,None,Patna,2023,PUBLIC INTOXICATION,10
+bihar,None,Patna,2023,ROBBERY,6
+bihar,None,Patna,2023,SEXUAL ASSAULT,8
+bihar,None,Patna,2023,SHOPLIFTING,5
+bihar,None,Patna,2023,TRAFFIC VIOLATION,4
+bihar,None,Patna,2023,VANDALISM,13
+bihar,None,Patna,2023,VEHICLE - STOLEN,6
+bihar,None,Patna,2024,ARSON,4
+bihar,None,Patna,2024,ASSAULT,4
+bihar,None,Patna,2024,BURGLARY,7
+bihar,None,Patna,2024,COUNTERFEITING,4
+bihar,None,Patna,2024,CYBERCRIME,5
+bihar,None,Patna,2024,DOMESTIC VIOLENCE,9
+bihar,None,Patna,2024,DRUG OFFENSE,3
+bihar,None,Patna,2024,EXTORTION,3
+bihar,None,Patna,2024,FIREARM OFFENSE,6
+bihar,None,Patna,2024,FRAUD,6
+bihar,None,Patna,2024,HOMICIDE,1
+bihar,None,Patna,2024,IDENTITY THEFT,6
+bihar,None,Patna,2024,ILLEGAL POSSESSION,6
+bihar,None,Patna,2024,KIDNAPPING,4
+bihar,None,Patna,2024,PUBLIC INTOXICATION,6
+bihar,None,Patna,2024,ROBBERY,7
+bihar,None,Patna,2024,SEXUAL ASSAULT,8
+bihar,None,Patna,2024,SHOPLIFTING,10
+bihar,None,Patna,2024,TRAFFIC VIOLATION,3
+bihar,None,Patna,2024,VANDALISM,4
+bihar,None,Patna,2024,VEHICLE - STOLEN,4
+delhi,None,Delhi,2020,ARSON,57
+delhi,None,Delhi,2020,ASSAULT,52
+delhi,None,Delhi,2020,BURGLARY,61
+delhi,None,Delhi,2020,COUNTERFEITING,51
+delhi,None,Delhi,2020,CYBERCRIME,64
+delhi,None,Delhi,2020,DOMESTIC VIOLENCE,64
+delhi,None,Delhi,2020,DRUG OFFENSE,51
+delhi,None,Delhi,2020,EXTORTION,51
+delhi,None,Delhi,2020,FIREARM OFFENSE,70
+delhi,None,Delhi,2020,FRAUD,61
+delhi,None,Delhi,2020,HOMICIDE,53
+delhi,None,Delhi,2020,IDENTITY THEFT,64
+delhi,None,Delhi,2020,ILLEGAL POSSESSION,51
+delhi,None,Delhi,2020,KIDNAPPING,57
+delhi,None,Delhi,2020,PUBLIC INTOXICATION,51
+delhi,None,Delhi,2020,ROBBERY,62
+delhi,None,Delhi,2020,SEXUAL ASSAULT,55
+delhi,None,Delhi,2020,SHOPLIFTING,54
+delhi,None,Delhi,2020,TRAFFIC VIOLATION,42
+delhi,None,Delhi,2020,VANDALISM,54
+delhi,None,Delhi,2020,VEHICLE - STOLEN,56
+delhi,None,Delhi,2021,ARSON,49
+delhi,None,Delhi,2021,ASSAULT,56
+delhi,None,Delhi,2021,BURGLARY,50
+delhi,None,Delhi,2021,COUNTERFEITING,52
+delhi,None,Delhi,2021,CYBERCRIME,67
+delhi,None,Delhi,2021,DOMESTIC VIOLENCE,65
+delhi,None,Delhi,2021,DRUG OFFENSE,55
+delhi,None,Delhi,2021,EXTORTION,62
+delhi,None,Delhi,2021,FIREARM OFFENSE,57
+delhi,None,Delhi,2021,FRAUD,60
+delhi,None,Delhi,2021,HOMICIDE,67
+delhi,None,Delhi,2021,IDENTITY THEFT,57
+delhi,None,Delhi,2021,ILLEGAL POSSESSION,56
+delhi,None,Delhi,2021,KIDNAPPING,69
+delhi,None,Delhi,2021,PUBLIC INTOXICATION,52
+delhi,None,Delhi,2021,ROBBERY,62
+delhi,None,Delhi,2021,SEXUAL ASSAULT,60
+delhi,None,Delhi,2021,SHOPLIFTING,58
+delhi,None,Delhi,2021,TRAFFIC VIOLATION,42
+delhi,None,Delhi,2021,VANDALISM,54
+delhi,None,Delhi,2021,VEHICLE - STOLEN,50
+delhi,None,Delhi,2022,ARSON,48
+delhi,None,Delhi,2022,ASSAULT,63
+delhi,None,Delhi,2022,BURGLARY,62
+delhi,None,Delhi,2022,COUNTERFEITING,57
+delhi,None,Delhi,2022,CYBERCRIME,69
+delhi,None,Delhi,2022,DOMESTIC VIOLENCE,73
+delhi,None,Delhi,2022,DRUG OFFENSE,75
+delhi,None,Delhi,2022,EXTORTION,38
+delhi,None,Delhi,2022,FIREARM OFFENSE,73
+delhi,None,Delhi,2022,FRAUD,64
+delhi,None,Delhi,2022,HOMICIDE,51
+delhi,None,Delhi,2022,IDENTITY THEFT,52
+delhi,None,Delhi,2022,ILLEGAL POSSESSION,49
+delhi,None,Delhi,2022,KIDNAPPING,49
+delhi,None,Delhi,2022,PUBLIC INTOXICATION,56
+delhi,None,Delhi,2022,ROBBERY,65
+delhi,None,Delhi,2022,SEXUAL ASSAULT,52
+delhi,None,Delhi,2022,SHOPLIFTING,49
+delhi,None,Delhi,2022,TRAFFIC VIOLATION,44
+delhi,None,Delhi,2022,VANDALISM,67
+delhi,None,Delhi,2022,VEHICLE - STOLEN,50
+delhi,None,Delhi,2023,ARSON,50
+delhi,None,Delhi,2023,ASSAULT,38
+delhi,None,Delhi,2023,BURGLARY,45
+delhi,None,Delhi,2023,COUNTERFEITING,52
+delhi,None,Delhi,2023,CYBERCRIME,58
+delhi,None,Delhi,2023,DOMESTIC VIOLENCE,38
+delhi,None,Delhi,2023,DRUG OFFENSE,74
+delhi,None,Delhi,2023,EXTORTION,60
+delhi,None,Delhi,2023,FIREARM OFFENSE,52
+delhi,None,Delhi,2023,FRAUD,54
+delhi,None,Delhi,2023,HOMICIDE,49
+delhi,None,Delhi,2023,IDENTITY THEFT,61
+delhi,None,Delhi,2023,ILLEGAL POSSESSION,55
+delhi,None,Delhi,2023,KIDNAPPING,49
+delhi,None,Delhi,2023,PUBLIC INTOXICATION,50
+delhi,None,Delhi,2023,ROBBERY,53
+delhi,None,Delhi,2023,SEXUAL ASSAULT,49
+delhi,None,Delhi,2023,SHOPLIFTING,49
+delhi,None,Delhi,2023,TRAFFIC VIOLATION,43
+delhi,None,Delhi,2023,VANDALISM,56
+delhi,None,Delhi,2023,VEHICLE - STOLEN,55
+delhi,None,Delhi,2024,ARSON,23
+delhi,None,Delhi,2024,ASSAULT,22
+delhi,None,Delhi,2024,BURGLARY,36
+delhi,None,Delhi,2024,COUNTERFEITING,42
+delhi,None,Delhi,2024,CYBERCRIME,28
+delhi,None,Delhi,2024,DOMESTIC VIOLENCE,35
+delhi,None,Delhi,2024,DRUG OFFENSE,23
+delhi,None,Delhi,2024,EXTORTION,35
+delhi,None,Delhi,2024,FIREARM OFFENSE,39
+delhi,None,Delhi,2024,FRAUD,42
+delhi,None,Delhi,2024,HOMICIDE,50
+delhi,None,Delhi,2024,IDENTITY THEFT,38
+delhi,None,Delhi,2024,ILLEGAL POSSESSION,39
+delhi,None,Delhi,2024,KIDNAPPING,36
+delhi,None,Delhi,2024,PUBLIC INTOXICATION,37
+delhi,None,Delhi,2024,ROBBERY,38
+delhi,None,Delhi,2024,SEXUAL ASSAULT,38
+delhi,None,Delhi,2024,SHOPLIFTING,34
+delhi,None,Delhi,2024,TRAFFIC VIOLATION,27
+delhi,None,Delhi,2024,VANDALISM,25
+delhi,None,Delhi,2024,VEHICLE - STOLEN,36
+gujarat,None,Ahmedabad,2020,ARSON,19
+gujarat,None,Ahmedabad,2020,ASSAULT,15
+gujarat,None,Ahmedabad,2020,BURGLARY,23
+gujarat,None,Ahmedabad,2020,COUNTERFEITING,17
+gujarat,None,Ahmedabad,2020,CYBERCRIME,18
+gujarat,None,Ahmedabad,2020,DOMESTIC VIOLENCE,24
+gujarat,None,Ahmedabad,2020,DRUG OFFENSE,14
+gujarat,None,Ahmedabad,2020,EXTORTION,18
+gujarat,None,Ahmedabad,2020,FIREARM OFFENSE,22
+gujarat,None,Ahmedabad,2020,FRAUD,21
+gujarat,None,Ahmedabad,2020,HOMICIDE,23
+gujarat,None,Ahmedabad,2020,IDENTITY THEFT,19
+gujarat,None,Ahmedabad,2020,ILLEGAL POSSESSION,16
+gujarat,None,Ahmedabad,2020,KIDNAPPING,17
+gujarat,None,Ahmedabad,2020,PUBLIC INTOXICATION,19
+gujarat,None,Ahmedabad,2020,ROBBERY,21
+gujarat,None,Ahmedabad,2020,SEXUAL ASSAULT,23
+gujarat,None,Ahmedabad,2020,SHOPLIFTING,30
+gujarat,None,Ahmedabad,2020,TRAFFIC VIOLATION,12
+gujarat,None,Ahmedabad,2020,VANDALISM,19
+gujarat,None,Ahmedabad,2020,VEHICLE - STOLEN,19
+gujarat,None,Ahmedabad,2021,ARSON,18
+gujarat,None,Ahmedabad,2021,ASSAULT,14
+gujarat,None,Ahmedabad,2021,BURGLARY,15
+gujarat,None,Ahmedabad,2021,COUNTERFEITING,25
+gujarat,None,Ahmedabad,2021,CYBERCRIME,18
+gujarat,None,Ahmedabad,2021,DOMESTIC VIOLENCE,21
+gujarat,None,Ahmedabad,2021,DRUG OFFENSE,28
+gujarat,None,Ahmedabad,2021,EXTORTION,25
+gujarat,None,Ahmedabad,2021,FIREARM OFFENSE,15
+gujarat,None,Ahmedabad,2021,FRAUD,20
+gujarat,None,Ahmedabad,2021,HOMICIDE,19
+gujarat,None,Ahmedabad,2021,IDENTITY THEFT,15
+gujarat,None,Ahmedabad,2021,ILLEGAL POSSESSION,16
+gujarat,None,Ahmedabad,2021,KIDNAPPING,28
+gujarat,None,Ahmedabad,2021,PUBLIC INTOXICATION,25
+gujarat,None,Ahmedabad,2021,ROBBERY,19
+gujarat,None,Ahmedabad,2021,SEXUAL ASSAULT,28
+gujarat,None,Ahmedabad,2021,SHOPLIFTING,19
+gujarat,None,Ahmedabad,2021,TRAFFIC VIOLATION,20
+gujarat,None,Ahmedabad,2021,VANDALISM,22
+gujarat,None,Ahmedabad,2021,VEHICLE - STOLEN,13
+gujarat,None,Ahmedabad,2022,ARSON,13
+gujarat,None,Ahmedabad,2022,ASSAULT,28
+gujarat,None,Ahmedabad,2022,BURGLARY,18
+gujarat,None,Ahmedabad,2022,COUNTERFEITING,15
+gujarat,None,Ahmedabad,2022,CYBERCRIME,15
+gujarat,None,Ahmedabad,2022,DOMESTIC VIOLENCE,16
+gujarat,None,Ahmedabad,2022,DRUG OFFENSE,17
+gujarat,None,Ahmedabad,2022,EXTORTION,10
+gujarat,None,Ahmedabad,2022,FIREARM OFFENSE,15
+gujarat,None,Ahmedabad,2022,FRAUD,14
+gujarat,None,Ahmedabad,2022,HOMICIDE,10
+gujarat,None,Ahmedabad,2022,IDENTITY THEFT,16
+gujarat,None,Ahmedabad,2022,ILLEGAL POSSESSION,20
+gujarat,None,Ahmedabad,2022,KIDNAPPING,21
+gujarat,None,Ahmedabad,2022,PUBLIC INTOXICATION,20
+gujarat,None,Ahmedabad,2022,ROBBERY,20
+gujarat,None,Ahmedabad,2022,SEXUAL ASSAULT,27
+gujarat,None,Ahmedabad,2022,SHOPLIFTING,16
+gujarat,None,Ahmedabad,2022,TRAFFIC VIOLATION,21
+gujarat,None,Ahmedabad,2022,VANDALISM,19
+gujarat,None,Ahmedabad,2022,VEHICLE - STOLEN,14
+gujarat,None,Ahmedabad,2023,ARSON,16
+gujarat,None,Ahmedabad,2023,ASSAULT,36
+gujarat,None,Ahmedabad,2023,BURGLARY,20
+gujarat,None,Ahmedabad,2023,COUNTERFEITING,18
+gujarat,None,Ahmedabad,2023,CYBERCRIME,25
+gujarat,None,Ahmedabad,2023,DOMESTIC VIOLENCE,22
+gujarat,None,Ahmedabad,2023,DRUG OFFENSE,15
+gujarat,None,Ahmedabad,2023,EXTORTION,21
+gujarat,None,Ahmedabad,2023,FIREARM OFFENSE,26
+gujarat,None,Ahmedabad,2023,FRAUD,18
+gujarat,None,Ahmedabad,2023,HOMICIDE,15
+gujarat,None,Ahmedabad,2023,IDENTITY THEFT,24
+gujarat,None,Ahmedabad,2023,ILLEGAL POSSESSION,25
+gujarat,None,Ahmedabad,2023,KIDNAPPING,16
+gujarat,None,Ahmedabad,2023,PUBLIC INTOXICATION,11
+gujarat,None,Ahmedabad,2023,ROBBERY,20
+gujarat,None,Ahmedabad,2023,SEXUAL ASSAULT,18
+gujarat,None,Ahmedabad,2023,SHOPLIFTING,11
+gujarat,None,Ahmedabad,2023,TRAFFIC VIOLATION,17
+gujarat,None,Ahmedabad,2023,VANDALISM,10
+gujarat,None,Ahmedabad,2023,VEHICLE - STOLEN,18
+gujarat,None,Ahmedabad,2024,ARSON,14
+gujarat,None,Ahmedabad,2024,ASSAULT,11
+gujarat,None,Ahmedabad,2024,BURGLARY,18
+gujarat,None,Ahmedabad,2024,COUNTERFEITING,9
+gujarat,None,Ahmedabad,2024,CYBERCRIME,11
+gujarat,None,Ahmedabad,2024,DOMESTIC VIOLENCE,19
+gujarat,None,Ahmedabad,2024,DRUG OFFENSE,8
+gujarat,None,Ahmedabad,2024,EXTORTION,9
+gujarat,None,Ahmedabad,2024,FIREARM OFFENSE,10
+gujarat,None,Ahmedabad,2024,FRAUD,12
+gujarat,None,Ahmedabad,2024,HOMICIDE,9
+gujarat,None,Ahmedabad,2024,IDENTITY THEFT,9
+gujarat,None,Ahmedabad,2024,ILLEGAL POSSESSION,12
+gujarat,None,Ahmedabad,2024,KIDNAPPING,4
+gujarat,None,Ahmedabad,2024,PUBLIC INTOXICATION,7
+gujarat,None,Ahmedabad,2024,ROBBERY,14
+gujarat,None,Ahmedabad,2024,SEXUAL ASSAULT,5
+gujarat,None,Ahmedabad,2024,SHOPLIFTING,9
+gujarat,None,Ahmedabad,2024,TRAFFIC VIOLATION,11
+gujarat,None,Ahmedabad,2024,VANDALISM,6
+gujarat,None,Ahmedabad,2024,VEHICLE - STOLEN,11
+gujarat,None,Rajkot,2020,ARSON,1
+gujarat,None,Rajkot,2020,ASSAULT,1
+gujarat,None,Rajkot,2020,BURGLARY,4
+gujarat,None,Rajkot,2020,COUNTERFEITING,1
+gujarat,None,Rajkot,2020,CYBERCRIME,7
+gujarat,None,Rajkot,2020,DOMESTIC VIOLENCE,3
+gujarat,None,Rajkot,2020,DRUG OFFENSE,2
+gujarat,None,Rajkot,2020,EXTORTION,6
+gujarat,None,Rajkot,2020,FIREARM OFFENSE,4
+gujarat,None,Rajkot,2020,FRAUD,5
+gujarat,None,Rajkot,2020,HOMICIDE,5
+gujarat,None,Rajkot,2020,IDENTITY THEFT,1
+gujarat,None,Rajkot,2020,ILLEGAL POSSESSION,3
+gujarat,None,Rajkot,2020,KIDNAPPING,3
+gujarat,None,Rajkot,2020,PUBLIC INTOXICATION,6
+gujarat,None,Rajkot,2020,ROBBERY,2
+gujarat,None,Rajkot,2020,SEXUAL ASSAULT,2
+gujarat,None,Rajkot,2020,TRAFFIC VIOLATION,2
+gujarat,None,Rajkot,2020,VANDALISM,2
+gujarat,None,Rajkot,2020,VEHICLE - STOLEN,3
+gujarat,None,Rajkot,2021,ARSON,3
+gujarat,None,Rajkot,2021,ASSAULT,1
+gujarat,None,Rajkot,2021,BURGLARY,3
+gujarat,None,Rajkot,2021,COUNTERFEITING,1
+gujarat,None,Rajkot,2021,CYBERCRIME,4
+gujarat,None,Rajkot,2021,DOMESTIC VIOLENCE,4
+gujarat,None,Rajkot,2021,DRUG OFFENSE,6
+gujarat,None,Rajkot,2021,EXTORTION,2
+gujarat,None,Rajkot,2021,FIREARM OFFENSE,1
+gujarat,None,Rajkot,2021,FRAUD,2
+gujarat,None,Rajkot,2021,HOMICIDE,3
+gujarat,None,Rajkot,2021,IDENTITY THEFT,2
+gujarat,None,Rajkot,2021,ILLEGAL POSSESSION,6
+gujarat,None,Rajkot,2021,KIDNAPPING,3
+gujarat,None,Rajkot,2021,PUBLIC INTOXICATION,1
+gujarat,None,Rajkot,2021,ROBBERY,7
+gujarat,None,Rajkot,2021,SEXUAL ASSAULT,3
+gujarat,None,Rajkot,2021,SHOPLIFTING,3
+gujarat,None,Rajkot,2021,TRAFFIC VIOLATION,3
+gujarat,None,Rajkot,2021,VANDALISM,3
+gujarat,None,Rajkot,2021,VEHICLE - STOLEN,3
+gujarat,None,Rajkot,2022,ARSON,2
+gujarat,None,Rajkot,2022,ASSAULT,3
+gujarat,None,Rajkot,2022,BURGLARY,2
+gujarat,None,Rajkot,2022,COUNTERFEITING,2
+gujarat,None,Rajkot,2022,CYBERCRIME,1
+gujarat,None,Rajkot,2022,DOMESTIC VIOLENCE,6
+gujarat,None,Rajkot,2022,DRUG OFFENSE,2
+gujarat,None,Rajkot,2022,EXTORTION,6
+gujarat,None,Rajkot,2022,FIREARM OFFENSE,1
+gujarat,None,Rajkot,2022,FRAUD,4
+gujarat,None,Rajkot,2022,HOMICIDE,5
+gujarat,None,Rajkot,2022,IDENTITY THEFT,2
+gujarat,None,Rajkot,2022,ILLEGAL POSSESSION,3
+gujarat,None,Rajkot,2022,KIDNAPPING,3
+gujarat,None,Rajkot,2022,PUBLIC INTOXICATION,4
+gujarat,None,Rajkot,2022,ROBBERY,4
+gujarat,None,Rajkot,2022,SEXUAL ASSAULT,4
+gujarat,None,Rajkot,2022,SHOPLIFTING,6
+gujarat,None,Rajkot,2022,TRAFFIC VIOLATION,4
+gujarat,None,Rajkot,2022,VANDALISM,1
+gujarat,None,Rajkot,2022,VEHICLE - STOLEN,5
+gujarat,None,Rajkot,2023,ARSON,3
+gujarat,None,Rajkot,2023,ASSAULT,4
+gujarat,None,Rajkot,2023,BURGLARY,3
+gujarat,None,Rajkot,2023,COUNTERFEITING,2
+gujarat,None,Rajkot,2023,CYBERCRIME,3
+gujarat,None,Rajkot,2023,DOMESTIC VIOLENCE,4
+gujarat,None,Rajkot,2023,DRUG OFFENSE,1
+gujarat,None,Rajkot,2023,EXTORTION,5
+gujarat,None,Rajkot,2023,FIREARM OFFENSE,5
+gujarat,None,Rajkot,2023,FRAUD,4
+gujarat,None,Rajkot,2023,HOMICIDE,4
+gujarat,None,Rajkot,2023,IDENTITY THEFT,2
+gujarat,None,Rajkot,2023,ILLEGAL POSSESSION,2
+gujarat,None,Rajkot,2023,KIDNAPPING,7
+gujarat,None,Rajkot,2023,PUBLIC INTOXICATION,3
+gujarat,None,Rajkot,2023,ROBBERY,4
+gujarat,None,Rajkot,2023,SEXUAL ASSAULT,2
+gujarat,None,Rajkot,2023,SHOPLIFTING,2
+gujarat,None,Rajkot,2023,TRAFFIC VIOLATION,5
+gujarat,None,Rajkot,2023,VANDALISM,7
+gujarat,None,Rajkot,2023,VEHICLE - STOLEN,4
+gujarat,None,Rajkot,2024,ASSAULT,2
+gujarat,None,Rajkot,2024,BURGLARY,2
+gujarat,None,Rajkot,2024,CYBERCRIME,1
+gujarat,None,Rajkot,2024,DOMESTIC VIOLENCE,1
+gujarat,None,Rajkot,2024,DRUG OFFENSE,3
+gujarat,None,Rajkot,2024,EXTORTION,1
+gujarat,None,Rajkot,2024,FIREARM OFFENSE,5
+gujarat,None,Rajkot,2024,FRAUD,3
+gujarat,None,Rajkot,2024,HOMICIDE,1
+gujarat,None,Rajkot,2024,IDENTITY THEFT,3
+gujarat,None,Rajkot,2024,ILLEGAL POSSESSION,2
+gujarat,None,Rajkot,2024,KIDNAPPING,2
+gujarat,None,Rajkot,2024,PUBLIC INTOXICATION,5
+gujarat,None,Rajkot,2024,ROBBERY,1
+gujarat,None,Rajkot,2024,SEXUAL ASSAULT,3
+gujarat,None,Rajkot,2024,SHOPLIFTING,2
+gujarat,None,Rajkot,2024,TRAFFIC VIOLATION,5
+gujarat,None,Rajkot,2024,VANDALISM,2
+gujarat,None,Rajkot,2024,VEHICLE - STOLEN,3
+gujarat,None,Surat,2020,ARSON,10
+gujarat,None,Surat,2020,ASSAULT,8
+gujarat,None,Surat,2020,BURGLARY,9
+gujarat,None,Surat,2020,COUNTERFEITING,12
+gujarat,None,Surat,2020,CYBERCRIME,12
+gujarat,None,Surat,2020,DOMESTIC VIOLENCE,15
+gujarat,None,Surat,2020,DRUG OFFENSE,13
+gujarat,None,Surat,2020,EXTORTION,15
+gujarat,None,Surat,2020,FIREARM OFFENSE,15
+gujarat,None,Surat,2020,FRAUD,14
+gujarat,None,Surat,2020,HOMICIDE,6
+gujarat,None,Surat,2020,IDENTITY THEFT,11
+gujarat,None,Surat,2020,ILLEGAL POSSESSION,11
+gujarat,None,Surat,2020,KIDNAPPING,12
+gujarat,None,Surat,2020,PUBLIC INTOXICATION,8
+gujarat,None,Surat,2020,ROBBERY,12
+gujarat,None,Surat,2020,SEXUAL ASSAULT,11
+gujarat,None,Surat,2020,SHOPLIFTING,8
+gujarat,None,Surat,2020,TRAFFIC VIOLATION,16
+gujarat,None,Surat,2020,VANDALISM,16
+gujarat,None,Surat,2020,VEHICLE - STOLEN,12
+gujarat,None,Surat,2021,ARSON,7
+gujarat,None,Surat,2021,ASSAULT,13
+gujarat,None,Surat,2021,BURGLARY,8
+gujarat,None,Surat,2021,COUNTERFEITING,7
+gujarat,None,Surat,2021,CYBERCRIME,13
+gujarat,None,Surat,2021,DOMESTIC VIOLENCE,13
+gujarat,None,Surat,2021,DRUG OFFENSE,9
+gujarat,None,Surat,2021,EXTORTION,12
+gujarat,None,Surat,2021,FIREARM OFFENSE,12
+gujarat,None,Surat,2021,FRAUD,13
+gujarat,None,Surat,2021,HOMICIDE,11
+gujarat,None,Surat,2021,IDENTITY THEFT,11
+gujarat,None,Surat,2021,ILLEGAL POSSESSION,9
+gujarat,None,Surat,2021,KIDNAPPING,7
+gujarat,None,Surat,2021,PUBLIC INTOXICATION,13
+gujarat,None,Surat,2021,ROBBERY,14
+gujarat,None,Surat,2021,SEXUAL ASSAULT,11
+gujarat,None,Surat,2021,SHOPLIFTING,9
+gujarat,None,Surat,2021,TRAFFIC VIOLATION,12
+gujarat,None,Surat,2021,VANDALISM,15
+gujarat,None,Surat,2021,VEHICLE - STOLEN,8
+gujarat,None,Surat,2022,ARSON,10
+gujarat,None,Surat,2022,ASSAULT,11
+gujarat,None,Surat,2022,BURGLARY,9
+gujarat,None,Surat,2022,COUNTERFEITING,12
+gujarat,None,Surat,2022,CYBERCRIME,13
+gujarat,None,Surat,2022,DOMESTIC VIOLENCE,14
+gujarat,None,Surat,2022,DRUG OFFENSE,11
+gujarat,None,Surat,2022,EXTORTION,11
+gujarat,None,Surat,2022,FIREARM OFFENSE,8
+gujarat,None,Surat,2022,FRAUD,13
+gujarat,None,Surat,2022,HOMICIDE,13
+gujarat,None,Surat,2022,IDENTITY THEFT,14
+gujarat,None,Surat,2022,ILLEGAL POSSESSION,10
+gujarat,None,Surat,2022,KIDNAPPING,10
+gujarat,None,Surat,2022,PUBLIC INTOXICATION,7
+gujarat,None,Surat,2022,ROBBERY,15
+gujarat,None,Surat,2022,SEXUAL ASSAULT,7
+gujarat,None,Surat,2022,SHOPLIFTING,13
+gujarat,None,Surat,2022,TRAFFIC VIOLATION,14
+gujarat,None,Surat,2022,VANDALISM,14
+gujarat,None,Surat,2022,VEHICLE - STOLEN,9
+gujarat,None,Surat,2023,ARSON,13
+gujarat,None,Surat,2023,ASSAULT,11
+gujarat,None,Surat,2023,BURGLARY,14
+gujarat,None,Surat,2023,COUNTERFEITING,13
+gujarat,None,Surat,2023,CYBERCRIME,17
+gujarat,None,Surat,2023,DOMESTIC VIOLENCE,12
+gujarat,None,Surat,2023,DRUG OFFENSE,13
+gujarat,None,Surat,2023,EXTORTION,18
+gujarat,None,Surat,2023,FIREARM OFFENSE,8
+gujarat,None,Surat,2023,FRAUD,13
+gujarat,None,Surat,2023,HOMICIDE,9
+gujarat,None,Surat,2023,IDENTITY THEFT,11
+gujarat,None,Surat,2023,ILLEGAL POSSESSION,12
+gujarat,None,Surat,2023,KIDNAPPING,4
+gujarat,None,Surat,2023,PUBLIC INTOXICATION,19
+gujarat,None,Surat,2023,ROBBERY,7
+gujarat,None,Surat,2023,SEXUAL ASSAULT,12
+gujarat,None,Surat,2023,SHOPLIFTING,10
+gujarat,None,Surat,2023,TRAFFIC VIOLATION,17
+gujarat,None,Surat,2023,VANDALISM,11
+gujarat,None,Surat,2023,VEHICLE - STOLEN,10
+gujarat,None,Surat,2024,ARSON,4
+gujarat,None,Surat,2024,ASSAULT,11
+gujarat,None,Surat,2024,BURGLARY,7
+gujarat,None,Surat,2024,COUNTERFEITING,9
+gujarat,None,Surat,2024,CYBERCRIME,7
+gujarat,None,Surat,2024,DOMESTIC VIOLENCE,5
+gujarat,None,Surat,2024,DRUG OFFENSE,7
+gujarat,None,Surat,2024,EXTORTION,7
+gujarat,None,Surat,2024,FIREARM OFFENSE,5
+gujarat,None,Surat,2024,FRAUD,6
+gujarat,None,Surat,2024,HOMICIDE,10
+gujarat,None,Surat,2024,IDENTITY THEFT,4
+gujarat,None,Surat,2024,ILLEGAL POSSESSION,6
+gujarat,None,Surat,2024,KIDNAPPING,8
+gujarat,None,Surat,2024,PUBLIC INTOXICATION,7
+gujarat,None,Surat,2024,ROBBERY,4
+gujarat,None,Surat,2024,SEXUAL ASSAULT,7
+gujarat,None,Surat,2024,SHOPLIFTING,8
+gujarat,None,Surat,2024,TRAFFIC VIOLATION,13
+gujarat,None,Surat,2024,VANDALISM,8
+gujarat,None,Surat,2024,VEHICLE - STOLEN,3
+haryana,None,Faridabad,2020,ARSON,3
+haryana,None,Faridabad,2020,ASSAULT,7
+haryana,None,Faridabad,2020,BURGLARY,1
+haryana,None,Faridabad,2020,COUNTERFEITING,4
+haryana,None,Faridabad,2020,CYBERCRIME,5
+haryana,None,Faridabad,2020,DOMESTIC VIOLENCE,6
+haryana,None,Faridabad,2020,DRUG OFFENSE,3
+haryana,None,Faridabad,2020,FIREARM OFFENSE,7
+haryana,None,Faridabad,2020,HOMICIDE,5
+haryana,None,Faridabad,2020,IDENTITY THEFT,4
+haryana,None,Faridabad,2020,ILLEGAL POSSESSION,4
+haryana,None,Faridabad,2020,KIDNAPPING,2
+haryana,None,Faridabad,2020,PUBLIC INTOXICATION,5
+haryana,None,Faridabad,2020,ROBBERY,4
+haryana,None,Faridabad,2020,SEXUAL ASSAULT,3
+haryana,None,Faridabad,2020,SHOPLIFTING,3
+haryana,None,Faridabad,2020,TRAFFIC VIOLATION,1
+haryana,None,Faridabad,2020,VANDALISM,5
+haryana,None,Faridabad,2020,VEHICLE - STOLEN,2
+haryana,None,Faridabad,2021,ARSON,4
+haryana,None,Faridabad,2021,ASSAULT,5
+haryana,None,Faridabad,2021,BURGLARY,3
+haryana,None,Faridabad,2021,COUNTERFEITING,4
+haryana,None,Faridabad,2021,CYBERCRIME,4
+haryana,None,Faridabad,2021,DOMESTIC VIOLENCE,6
+haryana,None,Faridabad,2021,DRUG OFFENSE,1
+haryana,None,Faridabad,2021,EXTORTION,2
+haryana,None,Faridabad,2021,FIREARM OFFENSE,3
+haryana,None,Faridabad,2021,FRAUD,5
+haryana,None,Faridabad,2021,HOMICIDE,4
+haryana,None,Faridabad,2021,IDENTITY THEFT,3
+haryana,None,Faridabad,2021,ILLEGAL POSSESSION,3
+haryana,None,Faridabad,2021,KIDNAPPING,4
+haryana,None,Faridabad,2021,PUBLIC INTOXICATION,4
+haryana,None,Faridabad,2021,ROBBERY,1
+haryana,None,Faridabad,2021,SEXUAL ASSAULT,1
+haryana,None,Faridabad,2021,SHOPLIFTING,2
+haryana,None,Faridabad,2021,TRAFFIC VIOLATION,6
+haryana,None,Faridabad,2021,VANDALISM,5
+haryana,None,Faridabad,2021,VEHICLE - STOLEN,3
+haryana,None,Faridabad,2022,ARSON,4
+haryana,None,Faridabad,2022,ASSAULT,3
+haryana,None,Faridabad,2022,BURGLARY,4
+haryana,None,Faridabad,2022,COUNTERFEITING,2
+haryana,None,Faridabad,2022,CYBERCRIME,1
+haryana,None,Faridabad,2022,DOMESTIC VIOLENCE,3
+haryana,None,Faridabad,2022,DRUG OFFENSE,2
+haryana,None,Faridabad,2022,EXTORTION,4
+haryana,None,Faridabad,2022,FIREARM OFFENSE,5
+haryana,None,Faridabad,2022,FRAUD,3
+haryana,None,Faridabad,2022,IDENTITY THEFT,7
+haryana,None,Faridabad,2022,ILLEGAL POSSESSION,4
+haryana,None,Faridabad,2022,KIDNAPPING,6
+haryana,None,Faridabad,2022,PUBLIC INTOXICATION,3
+haryana,None,Faridabad,2022,ROBBERY,5
+haryana,None,Faridabad,2022,SEXUAL ASSAULT,5
+haryana,None,Faridabad,2022,SHOPLIFTING,4
+haryana,None,Faridabad,2022,TRAFFIC VIOLATION,1
+haryana,None,Faridabad,2022,VANDALISM,6
+haryana,None,Faridabad,2022,VEHICLE - STOLEN,4
+haryana,None,Faridabad,2023,ARSON,3
+haryana,None,Faridabad,2023,ASSAULT,6
+haryana,None,Faridabad,2023,BURGLARY,2
+haryana,None,Faridabad,2023,COUNTERFEITING,2
+haryana,None,Faridabad,2023,CYBERCRIME,2
+haryana,None,Faridabad,2023,DOMESTIC VIOLENCE,5
+haryana,None,Faridabad,2023,DRUG OFFENSE,4
+haryana,None,Faridabad,2023,EXTORTION,5
+haryana,None,Faridabad,2023,FIREARM OFFENSE,2
+haryana,None,Faridabad,2023,FRAUD,2
+haryana,None,Faridabad,2023,HOMICIDE,3
+haryana,None,Faridabad,2023,IDENTITY THEFT,7
+haryana,None,Faridabad,2023,ILLEGAL POSSESSION,3
+haryana,None,Faridabad,2023,KIDNAPPING,7
+haryana,None,Faridabad,2023,PUBLIC INTOXICATION,5
+haryana,None,Faridabad,2023,ROBBERY,4
+haryana,None,Faridabad,2023,SEXUAL ASSAULT,3
+haryana,None,Faridabad,2023,SHOPLIFTING,4
+haryana,None,Faridabad,2023,TRAFFIC VIOLATION,6
+haryana,None,Faridabad,2023,VANDALISM,4
+haryana,None,Faridabad,2023,VEHICLE - STOLEN,1
+haryana,None,Faridabad,2024,ARSON,5
+haryana,None,Faridabad,2024,ASSAULT,4
+haryana,None,Faridabad,2024,BURGLARY,1
+haryana,None,Faridabad,2024,COUNTERFEITING,2
+haryana,None,Faridabad,2024,CYBERCRIME,1
+haryana,None,Faridabad,2024,DRUG OFFENSE,2
+haryana,None,Faridabad,2024,EXTORTION,2
+haryana,None,Faridabad,2024,FRAUD,1
+haryana,None,Faridabad,2024,HOMICIDE,3
+haryana,None,Faridabad,2024,IDENTITY THEFT,4
+haryana,None,Faridabad,2024,ILLEGAL POSSESSION,4
+haryana,None,Faridabad,2024,KIDNAPPING,2
+haryana,None,Faridabad,2024,PUBLIC INTOXICATION,1
+haryana,None,Faridabad,2024,ROBBERY,4
+haryana,None,Faridabad,2024,SEXUAL ASSAULT,2
+haryana,None,Faridabad,2024,SHOPLIFTING,3
+haryana,None,Faridabad,2024,TRAFFIC VIOLATION,4
+haryana,None,Faridabad,2024,VANDALISM,2
+haryana,None,Faridabad,2024,VEHICLE - STOLEN,4
+jammu and kashmir,None,Srinagar,2020,ARSON,5
+jammu and kashmir,None,Srinagar,2020,ASSAULT,3
+jammu and kashmir,None,Srinagar,2020,BURGLARY,3
+jammu and kashmir,None,Srinagar,2020,COUNTERFEITING,6
+jammu and kashmir,None,Srinagar,2020,CYBERCRIME,3
+jammu and kashmir,None,Srinagar,2020,DRUG OFFENSE,2
+jammu and kashmir,None,Srinagar,2020,EXTORTION,5
+jammu and kashmir,None,Srinagar,2020,FIREARM OFFENSE,6
+jammu and kashmir,None,Srinagar,2020,FRAUD,5
+jammu and kashmir,None,Srinagar,2020,HOMICIDE,6
+jammu and kashmir,None,Srinagar,2020,IDENTITY THEFT,2
+jammu and kashmir,None,Srinagar,2020,ILLEGAL POSSESSION,4
+jammu and kashmir,None,Srinagar,2020,KIDNAPPING,4
+jammu and kashmir,None,Srinagar,2020,PUBLIC INTOXICATION,5
+jammu and kashmir,None,Srinagar,2020,ROBBERY,3
+jammu and kashmir,None,Srinagar,2020,SEXUAL ASSAULT,2
+jammu and kashmir,None,Srinagar,2020,SHOPLIFTING,6
+jammu and kashmir,None,Srinagar,2020,TRAFFIC VIOLATION,7
+jammu and kashmir,None,Srinagar,2020,VANDALISM,4
+jammu and kashmir,None,Srinagar,2020,VEHICLE - STOLEN,7
+jammu and kashmir,None,Srinagar,2021,ARSON,3
+jammu and kashmir,None,Srinagar,2021,ASSAULT,4
+jammu and kashmir,None,Srinagar,2021,BURGLARY,2
+jammu and kashmir,None,Srinagar,2021,COUNTERFEITING,5
+jammu and kashmir,None,Srinagar,2021,CYBERCRIME,6
+jammu and kashmir,None,Srinagar,2021,DOMESTIC VIOLENCE,6
+jammu and kashmir,None,Srinagar,2021,DRUG OFFENSE,4
+jammu and kashmir,None,Srinagar,2021,EXTORTION,5
+jammu and kashmir,None,Srinagar,2021,FIREARM OFFENSE,2
+jammu and kashmir,None,Srinagar,2021,HOMICIDE,4
+jammu and kashmir,None,Srinagar,2021,IDENTITY THEFT,3
+jammu and kashmir,None,Srinagar,2021,ILLEGAL POSSESSION,1
+jammu and kashmir,None,Srinagar,2021,KIDNAPPING,4
+jammu and kashmir,None,Srinagar,2021,PUBLIC INTOXICATION,4
+jammu and kashmir,None,Srinagar,2021,ROBBERY,4
+jammu and kashmir,None,Srinagar,2021,SEXUAL ASSAULT,5
+jammu and kashmir,None,Srinagar,2021,SHOPLIFTING,3
+jammu and kashmir,None,Srinagar,2021,TRAFFIC VIOLATION,3
+jammu and kashmir,None,Srinagar,2021,VANDALISM,2
+jammu and kashmir,None,Srinagar,2021,VEHICLE - STOLEN,5
+jammu and kashmir,None,Srinagar,2022,ARSON,1
+jammu and kashmir,None,Srinagar,2022,ASSAULT,3
+jammu and kashmir,None,Srinagar,2022,BURGLARY,5
+jammu and kashmir,None,Srinagar,2022,COUNTERFEITING,5
+jammu and kashmir,None,Srinagar,2022,CYBERCRIME,3
+jammu and kashmir,None,Srinagar,2022,DOMESTIC VIOLENCE,1
+jammu and kashmir,None,Srinagar,2022,DRUG OFFENSE,6
+jammu and kashmir,None,Srinagar,2022,EXTORTION,4
+jammu and kashmir,None,Srinagar,2022,FIREARM OFFENSE,3
+jammu and kashmir,None,Srinagar,2022,FRAUD,6
+jammu and kashmir,None,Srinagar,2022,HOMICIDE,3
+jammu and kashmir,None,Srinagar,2022,IDENTITY THEFT,6
+jammu and kashmir,None,Srinagar,2022,ILLEGAL POSSESSION,8
+jammu and kashmir,None,Srinagar,2022,KIDNAPPING,5
+jammu and kashmir,None,Srinagar,2022,PUBLIC INTOXICATION,4
+jammu and kashmir,None,Srinagar,2022,ROBBERY,3
+jammu and kashmir,None,Srinagar,2022,SEXUAL ASSAULT,1
+jammu and kashmir,None,Srinagar,2022,SHOPLIFTING,3
+jammu and kashmir,None,Srinagar,2022,TRAFFIC VIOLATION,5
+jammu and kashmir,None,Srinagar,2022,VANDALISM,4
+jammu and kashmir,None,Srinagar,2022,VEHICLE - STOLEN,5
+jammu and kashmir,None,Srinagar,2023,ARSON,5
+jammu and kashmir,None,Srinagar,2023,ASSAULT,6
+jammu and kashmir,None,Srinagar,2023,BURGLARY,6
+jammu and kashmir,None,Srinagar,2023,COUNTERFEITING,1
+jammu and kashmir,None,Srinagar,2023,CYBERCRIME,3
+jammu and kashmir,None,Srinagar,2023,DOMESTIC VIOLENCE,3
+jammu and kashmir,None,Srinagar,2023,DRUG OFFENSE,6
+jammu and kashmir,None,Srinagar,2023,EXTORTION,4
+jammu and kashmir,None,Srinagar,2023,FIREARM OFFENSE,5
+jammu and kashmir,None,Srinagar,2023,FRAUD,2
+jammu and kashmir,None,Srinagar,2023,HOMICIDE,2
+jammu and kashmir,None,Srinagar,2023,IDENTITY THEFT,5
+jammu and kashmir,None,Srinagar,2023,KIDNAPPING,3
+jammu and kashmir,None,Srinagar,2023,PUBLIC INTOXICATION,7
+jammu and kashmir,None,Srinagar,2023,ROBBERY,5
+jammu and kashmir,None,Srinagar,2023,SEXUAL ASSAULT,2
+jammu and kashmir,None,Srinagar,2023,SHOPLIFTING,4
+jammu and kashmir,None,Srinagar,2023,TRAFFIC VIOLATION,2
+jammu and kashmir,None,Srinagar,2023,VANDALISM,1
+jammu and kashmir,None,Srinagar,2023,VEHICLE - STOLEN,6
+jammu and kashmir,None,Srinagar,2024,ARSON,5
+jammu and kashmir,None,Srinagar,2024,ASSAULT,1
+jammu and kashmir,None,Srinagar,2024,BURGLARY,4
+jammu and kashmir,None,Srinagar,2024,COUNTERFEITING,2
+jammu and kashmir,None,Srinagar,2024,DOMESTIC VIOLENCE,1
+jammu and kashmir,None,Srinagar,2024,DRUG OFFENSE,2
+jammu and kashmir,None,Srinagar,2024,EXTORTION,1
+jammu and kashmir,None,Srinagar,2024,FIREARM OFFENSE,2
+jammu and kashmir,None,Srinagar,2024,FRAUD,6
+jammu and kashmir,None,Srinagar,2024,HOMICIDE,1
+jammu and kashmir,None,Srinagar,2024,IDENTITY THEFT,2
+jammu and kashmir,None,Srinagar,2024,ILLEGAL POSSESSION,1
+jammu and kashmir,None,Srinagar,2024,KIDNAPPING,2
+jammu and kashmir,None,Srinagar,2024,PUBLIC INTOXICATION,2
+jammu and kashmir,None,Srinagar,2024,ROBBERY,2
+jammu and kashmir,None,Srinagar,2024,SEXUAL ASSAULT,2
+jammu and kashmir,None,Srinagar,2024,SHOPLIFTING,2
+jammu and kashmir,None,Srinagar,2024,TRAFFIC VIOLATION,5
+jammu and kashmir,None,Srinagar,2024,VANDALISM,2
+jammu and kashmir,None,Srinagar,2024,VEHICLE - STOLEN,1
+karnataka,None,Bangalore,2020,ARSON,30
+karnataka,None,Bangalore,2020,ASSAULT,50
+karnataka,None,Bangalore,2020,BURGLARY,45
+karnataka,None,Bangalore,2020,COUNTERFEITING,38
+karnataka,None,Bangalore,2020,CYBERCRIME,35
+karnataka,None,Bangalore,2020,DOMESTIC VIOLENCE,37
+karnataka,None,Bangalore,2020,DRUG OFFENSE,38
+karnataka,None,Bangalore,2020,EXTORTION,38
+karnataka,None,Bangalore,2020,FIREARM OFFENSE,33
+karnataka,None,Bangalore,2020,FRAUD,27
+karnataka,None,Bangalore,2020,HOMICIDE,46
+karnataka,None,Bangalore,2020,IDENTITY THEFT,38
+karnataka,None,Bangalore,2020,ILLEGAL POSSESSION,33
+karnataka,None,Bangalore,2020,KIDNAPPING,39
+karnataka,None,Bangalore,2020,PUBLIC INTOXICATION,42
+karnataka,None,Bangalore,2020,ROBBERY,29
+karnataka,None,Bangalore,2020,SEXUAL ASSAULT,25
+karnataka,None,Bangalore,2020,SHOPLIFTING,44
+karnataka,None,Bangalore,2020,TRAFFIC VIOLATION,32
+karnataka,None,Bangalore,2020,VANDALISM,43
+karnataka,None,Bangalore,2020,VEHICLE - STOLEN,29
+karnataka,None,Bangalore,2021,ARSON,23
+karnataka,None,Bangalore,2021,ASSAULT,38
+karnataka,None,Bangalore,2021,BURGLARY,43
+karnataka,None,Bangalore,2021,COUNTERFEITING,39
+karnataka,None,Bangalore,2021,CYBERCRIME,35
+karnataka,None,Bangalore,2021,DOMESTIC VIOLENCE,48
+karnataka,None,Bangalore,2021,DRUG OFFENSE,42
+karnataka,None,Bangalore,2021,EXTORTION,31
+karnataka,None,Bangalore,2021,FIREARM OFFENSE,32
+karnataka,None,Bangalore,2021,FRAUD,43
+karnataka,None,Bangalore,2021,HOMICIDE,34
+karnataka,None,Bangalore,2021,IDENTITY THEFT,38
+karnataka,None,Bangalore,2021,ILLEGAL POSSESSION,36
+karnataka,None,Bangalore,2021,KIDNAPPING,38
+karnataka,None,Bangalore,2021,PUBLIC INTOXICATION,47
+karnataka,None,Bangalore,2021,ROBBERY,44
+karnataka,None,Bangalore,2021,SEXUAL ASSAULT,30
+karnataka,None,Bangalore,2021,SHOPLIFTING,30
+karnataka,None,Bangalore,2021,TRAFFIC VIOLATION,37
+karnataka,None,Bangalore,2021,VANDALISM,42
+karnataka,None,Bangalore,2021,VEHICLE - STOLEN,40
+karnataka,None,Bangalore,2022,ARSON,43
+karnataka,None,Bangalore,2022,ASSAULT,35
+karnataka,None,Bangalore,2022,BURGLARY,31
+karnataka,None,Bangalore,2022,COUNTERFEITING,33
+karnataka,None,Bangalore,2022,CYBERCRIME,38
+karnataka,None,Bangalore,2022,DOMESTIC VIOLENCE,35
+karnataka,None,Bangalore,2022,DRUG OFFENSE,34
+karnataka,None,Bangalore,2022,EXTORTION,49
+karnataka,None,Bangalore,2022,FIREARM OFFENSE,45
+karnataka,None,Bangalore,2022,FRAUD,35
+karnataka,None,Bangalore,2022,HOMICIDE,39
+karnataka,None,Bangalore,2022,IDENTITY THEFT,36
+karnataka,None,Bangalore,2022,ILLEGAL POSSESSION,47
+karnataka,None,Bangalore,2022,KIDNAPPING,38
+karnataka,None,Bangalore,2022,PUBLIC INTOXICATION,41
+karnataka,None,Bangalore,2022,ROBBERY,28
+karnataka,None,Bangalore,2022,SEXUAL ASSAULT,44
+karnataka,None,Bangalore,2022,SHOPLIFTING,39
+karnataka,None,Bangalore,2022,TRAFFIC VIOLATION,27
+karnataka,None,Bangalore,2022,VANDALISM,39
+karnataka,None,Bangalore,2022,VEHICLE - STOLEN,37
+karnataka,None,Bangalore,2023,ARSON,45
+karnataka,None,Bangalore,2023,ASSAULT,33
+karnataka,None,Bangalore,2023,BURGLARY,48
+karnataka,None,Bangalore,2023,COUNTERFEITING,39
+karnataka,None,Bangalore,2023,CYBERCRIME,30
+karnataka,None,Bangalore,2023,DOMESTIC VIOLENCE,35
+karnataka,None,Bangalore,2023,DRUG OFFENSE,32
+karnataka,None,Bangalore,2023,EXTORTION,39
+karnataka,None,Bangalore,2023,FIREARM OFFENSE,31
+karnataka,None,Bangalore,2023,FRAUD,36
+karnataka,None,Bangalore,2023,HOMICIDE,36
+karnataka,None,Bangalore,2023,IDENTITY THEFT,40
+karnataka,None,Bangalore,2023,ILLEGAL POSSESSION,35
+karnataka,None,Bangalore,2023,KIDNAPPING,30
+karnataka,None,Bangalore,2023,PUBLIC INTOXICATION,52
+karnataka,None,Bangalore,2023,ROBBERY,42
+karnataka,None,Bangalore,2023,SEXUAL ASSAULT,35
+karnataka,None,Bangalore,2023,SHOPLIFTING,26
+karnataka,None,Bangalore,2023,TRAFFIC VIOLATION,39
+karnataka,None,Bangalore,2023,VANDALISM,34
+karnataka,None,Bangalore,2023,VEHICLE - STOLEN,42
+karnataka,None,Bangalore,2024,ARSON,13
+karnataka,None,Bangalore,2024,ASSAULT,19
+karnataka,None,Bangalore,2024,BURGLARY,20
+karnataka,None,Bangalore,2024,COUNTERFEITING,27
+karnataka,None,Bangalore,2024,CYBERCRIME,17
+karnataka,None,Bangalore,2024,DOMESTIC VIOLENCE,16
+karnataka,None,Bangalore,2024,DRUG OFFENSE,22
+karnataka,None,Bangalore,2024,EXTORTION,31
+karnataka,None,Bangalore,2024,FIREARM OFFENSE,23
+karnataka,None,Bangalore,2024,FRAUD,11
+karnataka,None,Bangalore,2024,HOMICIDE,27
+karnataka,None,Bangalore,2024,IDENTITY THEFT,25
+karnataka,None,Bangalore,2024,ILLEGAL POSSESSION,25
+karnataka,None,Bangalore,2024,KIDNAPPING,23
+karnataka,None,Bangalore,2024,PUBLIC INTOXICATION,16
+karnataka,None,Bangalore,2024,ROBBERY,24
+karnataka,None,Bangalore,2024,SEXUAL ASSAULT,22
+karnataka,None,Bangalore,2024,SHOPLIFTING,28
+karnataka,None,Bangalore,2024,TRAFFIC VIOLATION,31
+karnataka,None,Bangalore,2024,VANDALISM,21
+karnataka,None,Bangalore,2024,VEHICLE - STOLEN,14
+madhya pradesh,None,Bhopal,2020,ARSON,6
+madhya pradesh,None,Bhopal,2020,ASSAULT,11
+madhya pradesh,None,Bhopal,2020,BURGLARY,7
+madhya pradesh,None,Bhopal,2020,COUNTERFEITING,5
+madhya pradesh,None,Bhopal,2020,CYBERCRIME,5
+madhya pradesh,None,Bhopal,2020,DOMESTIC VIOLENCE,4
+madhya pradesh,None,Bhopal,2020,DRUG OFFENSE,6
+madhya pradesh,None,Bhopal,2020,EXTORTION,3
+madhya pradesh,None,Bhopal,2020,FIREARM OFFENSE,8
+madhya pradesh,None,Bhopal,2020,FRAUD,10
+madhya pradesh,None,Bhopal,2020,HOMICIDE,6
+madhya pradesh,None,Bhopal,2020,IDENTITY THEFT,7
+madhya pradesh,None,Bhopal,2020,ILLEGAL POSSESSION,6
+madhya pradesh,None,Bhopal,2020,KIDNAPPING,10
+madhya pradesh,None,Bhopal,2020,PUBLIC INTOXICATION,7
+madhya pradesh,None,Bhopal,2020,ROBBERY,10
+madhya pradesh,None,Bhopal,2020,SEXUAL ASSAULT,7
+madhya pradesh,None,Bhopal,2020,SHOPLIFTING,8
+madhya pradesh,None,Bhopal,2020,TRAFFIC VIOLATION,8
+madhya pradesh,None,Bhopal,2020,VANDALISM,9
+madhya pradesh,None,Bhopal,2020,VEHICLE - STOLEN,8
+madhya pradesh,None,Bhopal,2021,ARSON,9
+madhya pradesh,None,Bhopal,2021,ASSAULT,6
+madhya pradesh,None,Bhopal,2021,BURGLARY,4
+madhya pradesh,None,Bhopal,2021,COUNTERFEITING,9
+madhya pradesh,None,Bhopal,2021,CYBERCRIME,4
+madhya pradesh,None,Bhopal,2021,DOMESTIC VIOLENCE,11
+madhya pradesh,None,Bhopal,2021,DRUG OFFENSE,7
+madhya pradesh,None,Bhopal,2021,EXTORTION,6
+madhya pradesh,None,Bhopal,2021,FIREARM OFFENSE,4
+madhya pradesh,None,Bhopal,2021,FRAUD,10
+madhya pradesh,None,Bhopal,2021,HOMICIDE,4
+madhya pradesh,None,Bhopal,2021,IDENTITY THEFT,8
+madhya pradesh,None,Bhopal,2021,ILLEGAL POSSESSION,11
+madhya pradesh,None,Bhopal,2021,KIDNAPPING,5
+madhya pradesh,None,Bhopal,2021,PUBLIC INTOXICATION,9
+madhya pradesh,None,Bhopal,2021,ROBBERY,7
+madhya pradesh,None,Bhopal,2021,SEXUAL ASSAULT,5
+madhya pradesh,None,Bhopal,2021,SHOPLIFTING,10
+madhya pradesh,None,Bhopal,2021,TRAFFIC VIOLATION,3
+madhya pradesh,None,Bhopal,2021,VANDALISM,11
+madhya pradesh,None,Bhopal,2021,VEHICLE - STOLEN,5
+madhya pradesh,None,Bhopal,2022,ARSON,7
+madhya pradesh,None,Bhopal,2022,ASSAULT,6
+madhya pradesh,None,Bhopal,2022,BURGLARY,3
+madhya pradesh,None,Bhopal,2022,COUNTERFEITING,4
+madhya pradesh,None,Bhopal,2022,CYBERCRIME,7
+madhya pradesh,None,Bhopal,2022,DOMESTIC VIOLENCE,10
+madhya pradesh,None,Bhopal,2022,DRUG OFFENSE,6
+madhya pradesh,None,Bhopal,2022,EXTORTION,4
+madhya pradesh,None,Bhopal,2022,FIREARM OFFENSE,5
+madhya pradesh,None,Bhopal,2022,FRAUD,5
+madhya pradesh,None,Bhopal,2022,HOMICIDE,9
+madhya pradesh,None,Bhopal,2022,IDENTITY THEFT,8
+madhya pradesh,None,Bhopal,2022,ILLEGAL POSSESSION,10
+madhya pradesh,None,Bhopal,2022,KIDNAPPING,3
+madhya pradesh,None,Bhopal,2022,PUBLIC INTOXICATION,9
+madhya pradesh,None,Bhopal,2022,ROBBERY,4
+madhya pradesh,None,Bhopal,2022,SEXUAL ASSAULT,5
+madhya pradesh,None,Bhopal,2022,SHOPLIFTING,5
+madhya pradesh,None,Bhopal,2022,TRAFFIC VIOLATION,10
+madhya pradesh,None,Bhopal,2022,VANDALISM,4
+madhya pradesh,None,Bhopal,2022,VEHICLE - STOLEN,4
+madhya pradesh,None,Bhopal,2023,ARSON,9
+madhya pradesh,None,Bhopal,2023,ASSAULT,13
+madhya pradesh,None,Bhopal,2023,BURGLARY,4
+madhya pradesh,None,Bhopal,2023,COUNTERFEITING,5
+madhya pradesh,None,Bhopal,2023,CYBERCRIME,8
+madhya pradesh,None,Bhopal,2023,DOMESTIC VIOLENCE,8
+madhya pradesh,None,Bhopal,2023,DRUG OFFENSE,7
+madhya pradesh,None,Bhopal,2023,EXTORTION,11
+madhya pradesh,None,Bhopal,2023,FIREARM OFFENSE,7
+madhya pradesh,None,Bhopal,2023,FRAUD,8
+madhya pradesh,None,Bhopal,2023,HOMICIDE,9
+madhya pradesh,None,Bhopal,2023,IDENTITY THEFT,8
+madhya pradesh,None,Bhopal,2023,ILLEGAL POSSESSION,4
+madhya pradesh,None,Bhopal,2023,KIDNAPPING,20
+madhya pradesh,None,Bhopal,2023,PUBLIC INTOXICATION,9
+madhya pradesh,None,Bhopal,2023,ROBBERY,4
+madhya pradesh,None,Bhopal,2023,SEXUAL ASSAULT,7
+madhya pradesh,None,Bhopal,2023,SHOPLIFTING,5
+madhya pradesh,None,Bhopal,2023,TRAFFIC VIOLATION,5
+madhya pradesh,None,Bhopal,2023,VANDALISM,7
+madhya pradesh,None,Bhopal,2023,VEHICLE - STOLEN,9
+madhya pradesh,None,Bhopal,2024,ARSON,7
+madhya pradesh,None,Bhopal,2024,ASSAULT,7
+madhya pradesh,None,Bhopal,2024,BURGLARY,5
+madhya pradesh,None,Bhopal,2024,COUNTERFEITING,6
+madhya pradesh,None,Bhopal,2024,CYBERCRIME,7
+madhya pradesh,None,Bhopal,2024,DOMESTIC VIOLENCE,1
+madhya pradesh,None,Bhopal,2024,DRUG OFFENSE,4
+madhya pradesh,None,Bhopal,2024,EXTORTION,2
+madhya pradesh,None,Bhopal,2024,FIREARM OFFENSE,4
+madhya pradesh,None,Bhopal,2024,FRAUD,5
+madhya pradesh,None,Bhopal,2024,HOMICIDE,7
+madhya pradesh,None,Bhopal,2024,IDENTITY THEFT,4
+madhya pradesh,None,Bhopal,2024,ILLEGAL POSSESSION,2
+madhya pradesh,None,Bhopal,2024,KIDNAPPING,4
+madhya pradesh,None,Bhopal,2024,PUBLIC INTOXICATION,7
+madhya pradesh,None,Bhopal,2024,ROBBERY,3
+madhya pradesh,None,Bhopal,2024,SEXUAL ASSAULT,4
+madhya pradesh,None,Bhopal,2024,SHOPLIFTING,7
+madhya pradesh,None,Bhopal,2024,TRAFFIC VIOLATION,5
+madhya pradesh,None,Bhopal,2024,VANDALISM,2
+madhya pradesh,None,Bhopal,2024,VEHICLE - STOLEN,3
+madhya pradesh,None,Indore,2020,ARSON,4
+madhya pradesh,None,Indore,2020,ASSAULT,12
+madhya pradesh,None,Indore,2020,BURGLARY,7
+madhya pradesh,None,Indore,2020,COUNTERFEITING,6
+madhya pradesh,None,Indore,2020,CYBERCRIME,10
+madhya pradesh,None,Indore,2020,DOMESTIC VIOLENCE,10
+madhya pradesh,None,Indore,2020,DRUG OFFENSE,10
+madhya pradesh,None,Indore,2020,EXTORTION,12
+madhya pradesh,None,Indore,2020,FIREARM OFFENSE,8
+madhya pradesh,None,Indore,2020,FRAUD,5
+madhya pradesh,None,Indore,2020,HOMICIDE,8
+madhya pradesh,None,Indore,2020,IDENTITY THEFT,11
+madhya pradesh,None,Indore,2020,ILLEGAL POSSESSION,4
+madhya pradesh,None,Indore,2020,KIDNAPPING,6
+madhya pradesh,None,Indore,2020,PUBLIC INTOXICATION,6
+madhya pradesh,None,Indore,2020,ROBBERY,10
+madhya pradesh,None,Indore,2020,SEXUAL ASSAULT,8
+madhya pradesh,None,Indore,2020,SHOPLIFTING,9
+madhya pradesh,None,Indore,2020,TRAFFIC VIOLATION,7
+madhya pradesh,None,Indore,2020,VANDALISM,5
+madhya pradesh,None,Indore,2020,VEHICLE - STOLEN,6
+madhya pradesh,None,Indore,2021,ARSON,8
+madhya pradesh,None,Indore,2021,ASSAULT,8
+madhya pradesh,None,Indore,2021,BURGLARY,11
+madhya pradesh,None,Indore,2021,COUNTERFEITING,6
+madhya pradesh,None,Indore,2021,CYBERCRIME,11
+madhya pradesh,None,Indore,2021,DOMESTIC VIOLENCE,10
+madhya pradesh,None,Indore,2021,DRUG OFFENSE,6
+madhya pradesh,None,Indore,2021,EXTORTION,3
+madhya pradesh,None,Indore,2021,FIREARM OFFENSE,14
+madhya pradesh,None,Indore,2021,FRAUD,9
+madhya pradesh,None,Indore,2021,HOMICIDE,8
+madhya pradesh,None,Indore,2021,IDENTITY THEFT,7
+madhya pradesh,None,Indore,2021,ILLEGAL POSSESSION,7
+madhya pradesh,None,Indore,2021,KIDNAPPING,6
+madhya pradesh,None,Indore,2021,PUBLIC INTOXICATION,4
+madhya pradesh,None,Indore,2021,ROBBERY,6
+madhya pradesh,None,Indore,2021,SEXUAL ASSAULT,5
+madhya pradesh,None,Indore,2021,SHOPLIFTING,7
+madhya pradesh,None,Indore,2021,TRAFFIC VIOLATION,6
+madhya pradesh,None,Indore,2021,VANDALISM,2
+madhya pradesh,None,Indore,2021,VEHICLE - STOLEN,9
+madhya pradesh,None,Indore,2022,ARSON,9
+madhya pradesh,None,Indore,2022,ASSAULT,9
+madhya pradesh,None,Indore,2022,BURGLARY,6
+madhya pradesh,None,Indore,2022,COUNTERFEITING,10
+madhya pradesh,None,Indore,2022,CYBERCRIME,7
+madhya pradesh,None,Indore,2022,DOMESTIC VIOLENCE,6
+madhya pradesh,None,Indore,2022,DRUG OFFENSE,6
+madhya pradesh,None,Indore,2022,EXTORTION,7
+madhya pradesh,None,Indore,2022,FIREARM OFFENSE,7
+madhya pradesh,None,Indore,2022,FRAUD,10
+madhya pradesh,None,Indore,2022,HOMICIDE,10
+madhya pradesh,None,Indore,2022,IDENTITY THEFT,6
+madhya pradesh,None,Indore,2022,ILLEGAL POSSESSION,6
+madhya pradesh,None,Indore,2022,KIDNAPPING,3
+madhya pradesh,None,Indore,2022,PUBLIC INTOXICATION,10
+madhya pradesh,None,Indore,2022,ROBBERY,9
+madhya pradesh,None,Indore,2022,SEXUAL ASSAULT,6
+madhya pradesh,None,Indore,2022,SHOPLIFTING,3
+madhya pradesh,None,Indore,2022,TRAFFIC VIOLATION,9
+madhya pradesh,None,Indore,2022,VANDALISM,11
+madhya pradesh,None,Indore,2022,VEHICLE - STOLEN,6
+madhya pradesh,None,Indore,2023,ARSON,3
+madhya pradesh,None,Indore,2023,ASSAULT,6
+madhya pradesh,None,Indore,2023,BURGLARY,5
+madhya pradesh,None,Indore,2023,COUNTERFEITING,8
+madhya pradesh,None,Indore,2023,CYBERCRIME,3
+madhya pradesh,None,Indore,2023,DOMESTIC VIOLENCE,3
+madhya pradesh,None,Indore,2023,DRUG OFFENSE,6
+madhya pradesh,None,Indore,2023,EXTORTION,10
+madhya pradesh,None,Indore,2023,FIREARM OFFENSE,9
+madhya pradesh,None,Indore,2023,FRAUD,7
+madhya pradesh,None,Indore,2023,HOMICIDE,6
+madhya pradesh,None,Indore,2023,IDENTITY THEFT,6
+madhya pradesh,None,Indore,2023,ILLEGAL POSSESSION,10
+madhya pradesh,None,Indore,2023,KIDNAPPING,6
+madhya pradesh,None,Indore,2023,PUBLIC INTOXICATION,3
+madhya pradesh,None,Indore,2023,ROBBERY,9
+madhya pradesh,None,Indore,2023,SEXUAL ASSAULT,6
+madhya pradesh,None,Indore,2023,SHOPLIFTING,7
+madhya pradesh,None,Indore,2023,TRAFFIC VIOLATION,5
+madhya pradesh,None,Indore,2023,VANDALISM,4
+madhya pradesh,None,Indore,2023,VEHICLE - STOLEN,11
+madhya pradesh,None,Indore,2024,ARSON,4
+madhya pradesh,None,Indore,2024,ASSAULT,4
+madhya pradesh,None,Indore,2024,BURGLARY,2
+madhya pradesh,None,Indore,2024,COUNTERFEITING,2
+madhya pradesh,None,Indore,2024,CYBERCRIME,3
+madhya pradesh,None,Indore,2024,DOMESTIC VIOLENCE,4
+madhya pradesh,None,Indore,2024,DRUG OFFENSE,6
+madhya pradesh,None,Indore,2024,EXTORTION,7
+madhya pradesh,None,Indore,2024,FIREARM OFFENSE,7
+madhya pradesh,None,Indore,2024,FRAUD,2
+madhya pradesh,None,Indore,2024,HOMICIDE,2
+madhya pradesh,None,Indore,2024,IDENTITY THEFT,4
+madhya pradesh,None,Indore,2024,ILLEGAL POSSESSION,2
+madhya pradesh,None,Indore,2024,KIDNAPPING,9
+madhya pradesh,None,Indore,2024,PUBLIC INTOXICATION,3
+madhya pradesh,None,Indore,2024,ROBBERY,7
+madhya pradesh,None,Indore,2024,SEXUAL ASSAULT,5
+madhya pradesh,None,Indore,2024,SHOPLIFTING,4
+madhya pradesh,None,Indore,2024,TRAFFIC VIOLATION,5
+madhya pradesh,None,Indore,2024,VANDALISM,6
+madhya pradesh,None,Indore,2024,VEHICLE - STOLEN,5
+maharashtra,None,Kalyan,2020,ARSON,3
+maharashtra,None,Kalyan,2020,ASSAULT,3
+maharashtra,None,Kalyan,2020,BURGLARY,5
+maharashtra,None,Kalyan,2020,CYBERCRIME,2
+maharashtra,None,Kalyan,2020,DOMESTIC VIOLENCE,3
+maharashtra,None,Kalyan,2020,DRUG OFFENSE,5
+maharashtra,None,Kalyan,2020,EXTORTION,4
+maharashtra,None,Kalyan,2020,FIREARM OFFENSE,2
+maharashtra,None,Kalyan,2020,FRAUD,1
+maharashtra,None,Kalyan,2020,HOMICIDE,7
+maharashtra,None,Kalyan,2020,IDENTITY THEFT,2
+maharashtra,None,Kalyan,2020,ILLEGAL POSSESSION,1
+maharashtra,None,Kalyan,2020,KIDNAPPING,5
+maharashtra,None,Kalyan,2020,PUBLIC INTOXICATION,7
+maharashtra,None,Kalyan,2020,ROBBERY,2
+maharashtra,None,Kalyan,2020,SEXUAL ASSAULT,5
+maharashtra,None,Kalyan,2020,SHOPLIFTING,5
+maharashtra,None,Kalyan,2020,TRAFFIC VIOLATION,8
+maharashtra,None,Kalyan,2020,VANDALISM,6
+maharashtra,None,Kalyan,2020,VEHICLE - STOLEN,4
+maharashtra,None,Kalyan,2021,ARSON,1
+maharashtra,None,Kalyan,2021,ASSAULT,6
+maharashtra,None,Kalyan,2021,BURGLARY,1
+maharashtra,None,Kalyan,2021,COUNTERFEITING,5
+maharashtra,None,Kalyan,2021,CYBERCRIME,1
+maharashtra,None,Kalyan,2021,DOMESTIC VIOLENCE,3
+maharashtra,None,Kalyan,2021,DRUG OFFENSE,5
+maharashtra,None,Kalyan,2021,EXTORTION,2
+maharashtra,None,Kalyan,2021,FIREARM OFFENSE,3
+maharashtra,None,Kalyan,2021,FRAUD,5
+maharashtra,None,Kalyan,2021,HOMICIDE,2
+maharashtra,None,Kalyan,2021,IDENTITY THEFT,2
+maharashtra,None,Kalyan,2021,ILLEGAL POSSESSION,8
+maharashtra,None,Kalyan,2021,KIDNAPPING,1
+maharashtra,None,Kalyan,2021,PUBLIC INTOXICATION,2
+maharashtra,None,Kalyan,2021,ROBBERY,3
+maharashtra,None,Kalyan,2021,SEXUAL ASSAULT,5
+maharashtra,None,Kalyan,2021,SHOPLIFTING,2
+maharashtra,None,Kalyan,2021,TRAFFIC VIOLATION,5
+maharashtra,None,Kalyan,2021,VANDALISM,5
+maharashtra,None,Kalyan,2021,VEHICLE - STOLEN,3
+maharashtra,None,Kalyan,2022,ARSON,2
+maharashtra,None,Kalyan,2022,ASSAULT,5
+maharashtra,None,Kalyan,2022,BURGLARY,2
+maharashtra,None,Kalyan,2022,COUNTERFEITING,4
+maharashtra,None,Kalyan,2022,CYBERCRIME,5
+maharashtra,None,Kalyan,2022,DOMESTIC VIOLENCE,4
+maharashtra,None,Kalyan,2022,DRUG OFFENSE,4
+maharashtra,None,Kalyan,2022,EXTORTION,5
+maharashtra,None,Kalyan,2022,FIREARM OFFENSE,3
+maharashtra,None,Kalyan,2022,FRAUD,8
+maharashtra,None,Kalyan,2022,HOMICIDE,5
+maharashtra,None,Kalyan,2022,IDENTITY THEFT,2
+maharashtra,None,Kalyan,2022,ILLEGAL POSSESSION,3
+maharashtra,None,Kalyan,2022,KIDNAPPING,4
+maharashtra,None,Kalyan,2022,PUBLIC INTOXICATION,12
+maharashtra,None,Kalyan,2022,ROBBERY,4
+maharashtra,None,Kalyan,2022,SEXUAL ASSAULT,1
+maharashtra,None,Kalyan,2022,SHOPLIFTING,4
+maharashtra,None,Kalyan,2022,TRAFFIC VIOLATION,9
+maharashtra,None,Kalyan,2022,VANDALISM,4
+maharashtra,None,Kalyan,2022,VEHICLE - STOLEN,4
+maharashtra,None,Kalyan,2023,ARSON,2
+maharashtra,None,Kalyan,2023,ASSAULT,4
+maharashtra,None,Kalyan,2023,BURGLARY,4
+maharashtra,None,Kalyan,2023,COUNTERFEITING,4
+maharashtra,None,Kalyan,2023,CYBERCRIME,4
+maharashtra,None,Kalyan,2023,DRUG OFFENSE,5
+maharashtra,None,Kalyan,2023,EXTORTION,4
+maharashtra,None,Kalyan,2023,FIREARM OFFENSE,3
+maharashtra,None,Kalyan,2023,FRAUD,4
+maharashtra,None,Kalyan,2023,HOMICIDE,2
+maharashtra,None,Kalyan,2023,IDENTITY THEFT,2
+maharashtra,None,Kalyan,2023,ILLEGAL POSSESSION,3
+maharashtra,None,Kalyan,2023,KIDNAPPING,3
+maharashtra,None,Kalyan,2023,PUBLIC INTOXICATION,2
+maharashtra,None,Kalyan,2023,ROBBERY,4
+maharashtra,None,Kalyan,2023,SEXUAL ASSAULT,3
+maharashtra,None,Kalyan,2023,SHOPLIFTING,7
+maharashtra,None,Kalyan,2023,TRAFFIC VIOLATION,4
+maharashtra,None,Kalyan,2023,VANDALISM,3
+maharashtra,None,Kalyan,2023,VEHICLE - STOLEN,5
+maharashtra,None,Kalyan,2024,ARSON,5
+maharashtra,None,Kalyan,2024,ASSAULT,2
+maharashtra,None,Kalyan,2024,BURGLARY,2
+maharashtra,None,Kalyan,2024,COUNTERFEITING,3
+maharashtra,None,Kalyan,2024,CYBERCRIME,3
+maharashtra,None,Kalyan,2024,DOMESTIC VIOLENCE,1
+maharashtra,None,Kalyan,2024,EXTORTION,4
+maharashtra,None,Kalyan,2024,FIREARM OFFENSE,2
+maharashtra,None,Kalyan,2024,FRAUD,1
+maharashtra,None,Kalyan,2024,IDENTITY THEFT,2
+maharashtra,None,Kalyan,2024,ILLEGAL POSSESSION,2
+maharashtra,None,Kalyan,2024,KIDNAPPING,1
+maharashtra,None,Kalyan,2024,PUBLIC INTOXICATION,3
+maharashtra,None,Kalyan,2024,ROBBERY,1
+maharashtra,None,Kalyan,2024,SEXUAL ASSAULT,3
+maharashtra,None,Kalyan,2024,TRAFFIC VIOLATION,4
+maharashtra,None,Mumbai,2020,ARSON,42
+maharashtra,None,Mumbai,2020,ASSAULT,48
+maharashtra,None,Mumbai,2020,BURGLARY,47
+maharashtra,None,Mumbai,2020,COUNTERFEITING,43
+maharashtra,None,Mumbai,2020,CYBERCRIME,49
+maharashtra,None,Mumbai,2020,DOMESTIC VIOLENCE,49
+maharashtra,None,Mumbai,2020,DRUG OFFENSE,43
+maharashtra,None,Mumbai,2020,EXTORTION,41
+maharashtra,None,Mumbai,2020,FIREARM OFFENSE,46
+maharashtra,None,Mumbai,2020,FRAUD,55
+maharashtra,None,Mumbai,2020,HOMICIDE,48
+maharashtra,None,Mumbai,2020,IDENTITY THEFT,39
+maharashtra,None,Mumbai,2020,ILLEGAL POSSESSION,53
+maharashtra,None,Mumbai,2020,KIDNAPPING,42
+maharashtra,None,Mumbai,2020,PUBLIC INTOXICATION,29
+maharashtra,None,Mumbai,2020,ROBBERY,36
+maharashtra,None,Mumbai,2020,SEXUAL ASSAULT,48
+maharashtra,None,Mumbai,2020,SHOPLIFTING,43
+maharashtra,None,Mumbai,2020,TRAFFIC VIOLATION,46
+maharashtra,None,Mumbai,2020,VANDALISM,49
+maharashtra,None,Mumbai,2020,VEHICLE - STOLEN,37
+maharashtra,None,Mumbai,2021,ARSON,49
+maharashtra,None,Mumbai,2021,ASSAULT,43
+maharashtra,None,Mumbai,2021,BURGLARY,46
+maharashtra,None,Mumbai,2021,COUNTERFEITING,34
+maharashtra,None,Mumbai,2021,CYBERCRIME,39
+maharashtra,None,Mumbai,2021,DOMESTIC VIOLENCE,41
+maharashtra,None,Mumbai,2021,DRUG OFFENSE,47
+maharashtra,None,Mumbai,2021,EXTORTION,41
+maharashtra,None,Mumbai,2021,FIREARM OFFENSE,43
+maharashtra,None,Mumbai,2021,FRAUD,45
+maharashtra,None,Mumbai,2021,HOMICIDE,44
+maharashtra,None,Mumbai,2021,IDENTITY THEFT,57
+maharashtra,None,Mumbai,2021,ILLEGAL POSSESSION,52
+maharashtra,None,Mumbai,2021,KIDNAPPING,56
+maharashtra,None,Mumbai,2021,PUBLIC INTOXICATION,44
+maharashtra,None,Mumbai,2021,ROBBERY,48
+maharashtra,None,Mumbai,2021,SEXUAL ASSAULT,51
+maharashtra,None,Mumbai,2021,SHOPLIFTING,45
+maharashtra,None,Mumbai,2021,TRAFFIC VIOLATION,34
+maharashtra,None,Mumbai,2021,VANDALISM,46
+maharashtra,None,Mumbai,2021,VEHICLE - STOLEN,36
+maharashtra,None,Mumbai,2022,ARSON,45
+maharashtra,None,Mumbai,2022,ASSAULT,35
+maharashtra,None,Mumbai,2022,BURGLARY,58
+maharashtra,None,Mumbai,2022,COUNTERFEITING,52
+maharashtra,None,Mumbai,2022,CYBERCRIME,41
+maharashtra,None,Mumbai,2022,DOMESTIC VIOLENCE,39
+maharashtra,None,Mumbai,2022,DRUG OFFENSE,38
+maharashtra,None,Mumbai,2022,EXTORTION,32
+maharashtra,None,Mumbai,2022,FIREARM OFFENSE,41
+maharashtra,None,Mumbai,2022,FRAUD,47
+maharashtra,None,Mumbai,2022,HOMICIDE,47
+maharashtra,None,Mumbai,2022,IDENTITY THEFT,46
+maharashtra,None,Mumbai,2022,ILLEGAL POSSESSION,43
+maharashtra,None,Mumbai,2022,KIDNAPPING,41
+maharashtra,None,Mumbai,2022,PUBLIC INTOXICATION,46
+maharashtra,None,Mumbai,2022,ROBBERY,51
+maharashtra,None,Mumbai,2022,SEXUAL ASSAULT,64
+maharashtra,None,Mumbai,2022,SHOPLIFTING,68
+maharashtra,None,Mumbai,2022,TRAFFIC VIOLATION,44
+maharashtra,None,Mumbai,2022,VANDALISM,47
+maharashtra,None,Mumbai,2022,VEHICLE - STOLEN,41
+maharashtra,None,Mumbai,2023,ARSON,48
+maharashtra,None,Mumbai,2023,ASSAULT,60
+maharashtra,None,Mumbai,2023,BURGLARY,36
+maharashtra,None,Mumbai,2023,COUNTERFEITING,43
+maharashtra,None,Mumbai,2023,CYBERCRIME,47
+maharashtra,None,Mumbai,2023,DOMESTIC VIOLENCE,53
+maharashtra,None,Mumbai,2023,DRUG OFFENSE,56
+maharashtra,None,Mumbai,2023,EXTORTION,42
+maharashtra,None,Mumbai,2023,FIREARM OFFENSE,42
+maharashtra,None,Mumbai,2023,FRAUD,44
+maharashtra,None,Mumbai,2023,HOMICIDE,53
+maharashtra,None,Mumbai,2023,IDENTITY THEFT,59
+maharashtra,None,Mumbai,2023,ILLEGAL POSSESSION,52
+maharashtra,None,Mumbai,2023,KIDNAPPING,53
+maharashtra,None,Mumbai,2023,PUBLIC INTOXICATION,44
+maharashtra,None,Mumbai,2023,ROBBERY,51
+maharashtra,None,Mumbai,2023,SEXUAL ASSAULT,49
+maharashtra,None,Mumbai,2023,SHOPLIFTING,50
+maharashtra,None,Mumbai,2023,TRAFFIC VIOLATION,46
+maharashtra,None,Mumbai,2023,VANDALISM,44
+maharashtra,None,Mumbai,2023,VEHICLE - STOLEN,54
+maharashtra,None,Mumbai,2024,ARSON,37
+maharashtra,None,Mumbai,2024,ASSAULT,25
+maharashtra,None,Mumbai,2024,BURGLARY,30
+maharashtra,None,Mumbai,2024,COUNTERFEITING,23
+maharashtra,None,Mumbai,2024,CYBERCRIME,28
+maharashtra,None,Mumbai,2024,DOMESTIC VIOLENCE,23
+maharashtra,None,Mumbai,2024,DRUG OFFENSE,28
+maharashtra,None,Mumbai,2024,EXTORTION,24
+maharashtra,None,Mumbai,2024,FIREARM OFFENSE,25
+maharashtra,None,Mumbai,2024,FRAUD,36
+maharashtra,None,Mumbai,2024,HOMICIDE,23
+maharashtra,None,Mumbai,2024,IDENTITY THEFT,16
+maharashtra,None,Mumbai,2024,ILLEGAL POSSESSION,29
+maharashtra,None,Mumbai,2024,KIDNAPPING,22
+maharashtra,None,Mumbai,2024,PUBLIC INTOXICATION,29
+maharashtra,None,Mumbai,2024,ROBBERY,21
+maharashtra,None,Mumbai,2024,SEXUAL ASSAULT,31
+maharashtra,None,Mumbai,2024,SHOPLIFTING,18
+maharashtra,None,Mumbai,2024,TRAFFIC VIOLATION,33
+maharashtra,None,Mumbai,2024,VANDALISM,29
+maharashtra,None,Mumbai,2024,VEHICLE - STOLEN,19
+maharashtra,None,Nagpur,2020,ARSON,6
+maharashtra,None,Nagpur,2020,ASSAULT,10
+maharashtra,None,Nagpur,2020,BURGLARY,7
+maharashtra,None,Nagpur,2020,COUNTERFEITING,9
+maharashtra,None,Nagpur,2020,CYBERCRIME,6
+maharashtra,None,Nagpur,2020,DOMESTIC VIOLENCE,9
+maharashtra,None,Nagpur,2020,DRUG OFFENSE,7
+maharashtra,None,Nagpur,2020,EXTORTION,13
+maharashtra,None,Nagpur,2020,FIREARM OFFENSE,10
+maharashtra,None,Nagpur,2020,FRAUD,16
+maharashtra,None,Nagpur,2020,HOMICIDE,14
+maharashtra,None,Nagpur,2020,IDENTITY THEFT,8
+maharashtra,None,Nagpur,2020,ILLEGAL POSSESSION,12
+maharashtra,None,Nagpur,2020,KIDNAPPING,4
+maharashtra,None,Nagpur,2020,PUBLIC INTOXICATION,10
+maharashtra,None,Nagpur,2020,ROBBERY,14
+maharashtra,None,Nagpur,2020,SEXUAL ASSAULT,6
+maharashtra,None,Nagpur,2020,SHOPLIFTING,12
+maharashtra,None,Nagpur,2020,TRAFFIC VIOLATION,10
+maharashtra,None,Nagpur,2020,VANDALISM,7
+maharashtra,None,Nagpur,2020,VEHICLE - STOLEN,13
+maharashtra,None,Nagpur,2021,ARSON,10
+maharashtra,None,Nagpur,2021,ASSAULT,22
+maharashtra,None,Nagpur,2021,BURGLARY,13
+maharashtra,None,Nagpur,2021,COUNTERFEITING,6
+maharashtra,None,Nagpur,2021,CYBERCRIME,10
+maharashtra,None,Nagpur,2021,DOMESTIC VIOLENCE,8
+maharashtra,None,Nagpur,2021,DRUG OFFENSE,20
+maharashtra,None,Nagpur,2021,EXTORTION,12
+maharashtra,None,Nagpur,2021,FIREARM OFFENSE,10
+maharashtra,None,Nagpur,2021,FRAUD,10
+maharashtra,None,Nagpur,2021,HOMICIDE,12
+maharashtra,None,Nagpur,2021,IDENTITY THEFT,7
+maharashtra,None,Nagpur,2021,ILLEGAL POSSESSION,10
+maharashtra,None,Nagpur,2021,KIDNAPPING,6
+maharashtra,None,Nagpur,2021,PUBLIC INTOXICATION,12
+maharashtra,None,Nagpur,2021,ROBBERY,8
+maharashtra,None,Nagpur,2021,SEXUAL ASSAULT,9
+maharashtra,None,Nagpur,2021,SHOPLIFTING,15
+maharashtra,None,Nagpur,2021,TRAFFIC VIOLATION,13
+maharashtra,None,Nagpur,2021,VANDALISM,15
+maharashtra,None,Nagpur,2021,VEHICLE - STOLEN,11
+maharashtra,None,Nagpur,2022,ARSON,12
+maharashtra,None,Nagpur,2022,ASSAULT,11
+maharashtra,None,Nagpur,2022,BURGLARY,18
+maharashtra,None,Nagpur,2022,COUNTERFEITING,10
+maharashtra,None,Nagpur,2022,CYBERCRIME,15
+maharashtra,None,Nagpur,2022,DOMESTIC VIOLENCE,14
+maharashtra,None,Nagpur,2022,DRUG OFFENSE,12
+maharashtra,None,Nagpur,2022,EXTORTION,15
+maharashtra,None,Nagpur,2022,FIREARM OFFENSE,12
+maharashtra,None,Nagpur,2022,FRAUD,6
+maharashtra,None,Nagpur,2022,HOMICIDE,8
+maharashtra,None,Nagpur,2022,IDENTITY THEFT,7
+maharashtra,None,Nagpur,2022,ILLEGAL POSSESSION,15
+maharashtra,None,Nagpur,2022,KIDNAPPING,10
+maharashtra,None,Nagpur,2022,PUBLIC INTOXICATION,11
+maharashtra,None,Nagpur,2022,ROBBERY,9
+maharashtra,None,Nagpur,2022,SEXUAL ASSAULT,13
+maharashtra,None,Nagpur,2022,SHOPLIFTING,14
+maharashtra,None,Nagpur,2022,TRAFFIC VIOLATION,11
+maharashtra,None,Nagpur,2022,VANDALISM,15
+maharashtra,None,Nagpur,2022,VEHICLE - STOLEN,12
+maharashtra,None,Nagpur,2023,ARSON,18
+maharashtra,None,Nagpur,2023,ASSAULT,13
+maharashtra,None,Nagpur,2023,BURGLARY,15
+maharashtra,None,Nagpur,2023,COUNTERFEITING,12
+maharashtra,None,Nagpur,2023,CYBERCRIME,11
+maharashtra,None,Nagpur,2023,DOMESTIC VIOLENCE,16
+maharashtra,None,Nagpur,2023,DRUG OFFENSE,12
+maharashtra,None,Nagpur,2023,EXTORTION,9
+maharashtra,None,Nagpur,2023,FIREARM OFFENSE,8
+maharashtra,None,Nagpur,2023,FRAUD,8
+maharashtra,None,Nagpur,2023,HOMICIDE,12
+maharashtra,None,Nagpur,2023,IDENTITY THEFT,12
+maharashtra,None,Nagpur,2023,ILLEGAL POSSESSION,9
+maharashtra,None,Nagpur,2023,KIDNAPPING,8
+maharashtra,None,Nagpur,2023,PUBLIC INTOXICATION,7
+maharashtra,None,Nagpur,2023,ROBBERY,10
+maharashtra,None,Nagpur,2023,SEXUAL ASSAULT,8
+maharashtra,None,Nagpur,2023,SHOPLIFTING,12
+maharashtra,None,Nagpur,2023,TRAFFIC VIOLATION,16
+maharashtra,None,Nagpur,2023,VANDALISM,7
+maharashtra,None,Nagpur,2023,VEHICLE - STOLEN,12
+maharashtra,None,Nagpur,2024,ARSON,9
+maharashtra,None,Nagpur,2024,ASSAULT,5
+maharashtra,None,Nagpur,2024,BURGLARY,5
+maharashtra,None,Nagpur,2024,COUNTERFEITING,7
+maharashtra,None,Nagpur,2024,CYBERCRIME,8
+maharashtra,None,Nagpur,2024,DOMESTIC VIOLENCE,7
+maharashtra,None,Nagpur,2024,DRUG OFFENSE,2
+maharashtra,None,Nagpur,2024,EXTORTION,7
+maharashtra,None,Nagpur,2024,FIREARM OFFENSE,8
+maharashtra,None,Nagpur,2024,FRAUD,4
+maharashtra,None,Nagpur,2024,HOMICIDE,5
+maharashtra,None,Nagpur,2024,IDENTITY THEFT,4
+maharashtra,None,Nagpur,2024,ILLEGAL POSSESSION,4
+maharashtra,None,Nagpur,2024,KIDNAPPING,5
+maharashtra,None,Nagpur,2024,PUBLIC INTOXICATION,8
+maharashtra,None,Nagpur,2024,ROBBERY,7
+maharashtra,None,Nagpur,2024,SEXUAL ASSAULT,5
+maharashtra,None,Nagpur,2024,SHOPLIFTING,6
+maharashtra,None,Nagpur,2024,TRAFFIC VIOLATION,6
+maharashtra,None,Nagpur,2024,VANDALISM,7
+maharashtra,None,Nagpur,2024,VEHICLE - STOLEN,7
+maharashtra,None,Nashik,2020,ARSON,4
+maharashtra,None,Nashik,2020,ASSAULT,5
+maharashtra,None,Nashik,2020,BURGLARY,1
+maharashtra,None,Nashik,2020,COUNTERFEITING,6
+maharashtra,None,Nashik,2020,CYBERCRIME,3
+maharashtra,None,Nashik,2020,DOMESTIC VIOLENCE,4
+maharashtra,None,Nashik,2020,DRUG OFFENSE,2
+maharashtra,None,Nashik,2020,EXTORTION,7
+maharashtra,None,Nashik,2020,FIREARM OFFENSE,5
+maharashtra,None,Nashik,2020,FRAUD,2
+maharashtra,None,Nashik,2020,HOMICIDE,4
+maharashtra,None,Nashik,2020,IDENTITY THEFT,4
+maharashtra,None,Nashik,2020,ILLEGAL POSSESSION,2
+maharashtra,None,Nashik,2020,KIDNAPPING,5
+maharashtra,None,Nashik,2020,PUBLIC INTOXICATION,1
+maharashtra,None,Nashik,2020,ROBBERY,3
+maharashtra,None,Nashik,2020,SEXUAL ASSAULT,5
+maharashtra,None,Nashik,2020,SHOPLIFTING,4
+maharashtra,None,Nashik,2020,TRAFFIC VIOLATION,2
+maharashtra,None,Nashik,2020,VANDALISM,4
+maharashtra,None,Nashik,2020,VEHICLE - STOLEN,2
+maharashtra,None,Nashik,2021,ARSON,6
+maharashtra,None,Nashik,2021,ASSAULT,3
+maharashtra,None,Nashik,2021,BURGLARY,7
+maharashtra,None,Nashik,2021,COUNTERFEITING,3
+maharashtra,None,Nashik,2021,CYBERCRIME,4
+maharashtra,None,Nashik,2021,DOMESTIC VIOLENCE,2
+maharashtra,None,Nashik,2021,DRUG OFFENSE,5
+maharashtra,None,Nashik,2021,EXTORTION,2
+maharashtra,None,Nashik,2021,FIREARM OFFENSE,3
+maharashtra,None,Nashik,2021,FRAUD,3
+maharashtra,None,Nashik,2021,HOMICIDE,1
+maharashtra,None,Nashik,2021,IDENTITY THEFT,6
+maharashtra,None,Nashik,2021,ILLEGAL POSSESSION,1
+maharashtra,None,Nashik,2021,KIDNAPPING,3
+maharashtra,None,Nashik,2021,PUBLIC INTOXICATION,3
+maharashtra,None,Nashik,2021,ROBBERY,1
+maharashtra,None,Nashik,2021,SEXUAL ASSAULT,5
+maharashtra,None,Nashik,2021,SHOPLIFTING,2
+maharashtra,None,Nashik,2021,TRAFFIC VIOLATION,5
+maharashtra,None,Nashik,2021,VANDALISM,5
+maharashtra,None,Nashik,2021,VEHICLE - STOLEN,4
+maharashtra,None,Nashik,2022,ARSON,5
+maharashtra,None,Nashik,2022,ASSAULT,8
+maharashtra,None,Nashik,2022,BURGLARY,3
+maharashtra,None,Nashik,2022,COUNTERFEITING,5
+maharashtra,None,Nashik,2022,CYBERCRIME,4
+maharashtra,None,Nashik,2022,DOMESTIC VIOLENCE,5
+maharashtra,None,Nashik,2022,DRUG OFFENSE,6
+maharashtra,None,Nashik,2022,EXTORTION,3
+maharashtra,None,Nashik,2022,FIREARM OFFENSE,5
+maharashtra,None,Nashik,2022,FRAUD,2
+maharashtra,None,Nashik,2022,HOMICIDE,6
+maharashtra,None,Nashik,2022,IDENTITY THEFT,1
+maharashtra,None,Nashik,2022,ILLEGAL POSSESSION,5
+maharashtra,None,Nashik,2022,KIDNAPPING,9
+maharashtra,None,Nashik,2022,PUBLIC INTOXICATION,5
+maharashtra,None,Nashik,2022,ROBBERY,2
+maharashtra,None,Nashik,2022,SEXUAL ASSAULT,5
+maharashtra,None,Nashik,2022,SHOPLIFTING,2
+maharashtra,None,Nashik,2022,TRAFFIC VIOLATION,4
+maharashtra,None,Nashik,2022,VANDALISM,2
+maharashtra,None,Nashik,2022,VEHICLE - STOLEN,4
+maharashtra,None,Nashik,2023,ARSON,3
+maharashtra,None,Nashik,2023,ASSAULT,6
+maharashtra,None,Nashik,2023,BURGLARY,3
+maharashtra,None,Nashik,2023,CYBERCRIME,8
+maharashtra,None,Nashik,2023,DOMESTIC VIOLENCE,2
+maharashtra,None,Nashik,2023,DRUG OFFENSE,4
+maharashtra,None,Nashik,2023,EXTORTION,5
+maharashtra,None,Nashik,2023,FIREARM OFFENSE,4
+maharashtra,None,Nashik,2023,FRAUD,5
+maharashtra,None,Nashik,2023,HOMICIDE,4
+maharashtra,None,Nashik,2023,IDENTITY THEFT,2
+maharashtra,None,Nashik,2023,ILLEGAL POSSESSION,2
+maharashtra,None,Nashik,2023,KIDNAPPING,3
+maharashtra,None,Nashik,2023,PUBLIC INTOXICATION,2
+maharashtra,None,Nashik,2023,ROBBERY,5
+maharashtra,None,Nashik,2023,SEXUAL ASSAULT,6
+maharashtra,None,Nashik,2023,SHOPLIFTING,2
+maharashtra,None,Nashik,2023,TRAFFIC VIOLATION,3
+maharashtra,None,Nashik,2023,VANDALISM,3
+maharashtra,None,Nashik,2023,VEHICLE - STOLEN,7
+maharashtra,None,Nashik,2024,ARSON,4
+maharashtra,None,Nashik,2024,ASSAULT,2
+maharashtra,None,Nashik,2024,BURGLARY,4
+maharashtra,None,Nashik,2024,COUNTERFEITING,3
+maharashtra,None,Nashik,2024,CYBERCRIME,4
+maharashtra,None,Nashik,2024,EXTORTION,2
+maharashtra,None,Nashik,2024,FIREARM OFFENSE,3
+maharashtra,None,Nashik,2024,FRAUD,2
+maharashtra,None,Nashik,2024,HOMICIDE,3
+maharashtra,None,Nashik,2024,IDENTITY THEFT,1
+maharashtra,None,Nashik,2024,ILLEGAL POSSESSION,6
+maharashtra,None,Nashik,2024,KIDNAPPING,1
+maharashtra,None,Nashik,2024,PUBLIC INTOXICATION,3
+maharashtra,None,Nashik,2024,ROBBERY,2
+maharashtra,None,Nashik,2024,SEXUAL ASSAULT,2
+maharashtra,None,Nashik,2024,SHOPLIFTING,1
+maharashtra,None,Nashik,2024,TRAFFIC VIOLATION,1
+maharashtra,None,Nashik,2024,VANDALISM,1
+maharashtra,None,Nashik,2024,VEHICLE - STOLEN,2
+maharashtra,None,Pune,2020,ARSON,21
+maharashtra,None,Pune,2020,ASSAULT,21
+maharashtra,None,Pune,2020,BURGLARY,26
+maharashtra,None,Pune,2020,COUNTERFEITING,27
+maharashtra,None,Pune,2020,CYBERCRIME,17
+maharashtra,None,Pune,2020,DOMESTIC VIOLENCE,14
+maharashtra,None,Pune,2020,DRUG OFFENSE,19
+maharashtra,None,Pune,2020,EXTORTION,18
+maharashtra,None,Pune,2020,FIREARM OFFENSE,25
+maharashtra,None,Pune,2020,FRAUD,27
+maharashtra,None,Pune,2020,HOMICIDE,22
+maharashtra,None,Pune,2020,IDENTITY THEFT,25
+maharashtra,None,Pune,2020,ILLEGAL POSSESSION,19
+maharashtra,None,Pune,2020,KIDNAPPING,17
+maharashtra,None,Pune,2020,PUBLIC INTOXICATION,27
+maharashtra,None,Pune,2020,ROBBERY,22
+maharashtra,None,Pune,2020,SEXUAL ASSAULT,28
+maharashtra,None,Pune,2020,SHOPLIFTING,24
+maharashtra,None,Pune,2020,TRAFFIC VIOLATION,24
+maharashtra,None,Pune,2020,VANDALISM,35
+maharashtra,None,Pune,2020,VEHICLE - STOLEN,21
+maharashtra,None,Pune,2021,ARSON,19
+maharashtra,None,Pune,2021,ASSAULT,20
+maharashtra,None,Pune,2021,BURGLARY,19
+maharashtra,None,Pune,2021,COUNTERFEITING,16
+maharashtra,None,Pune,2021,CYBERCRIME,27
+maharashtra,None,Pune,2021,DOMESTIC VIOLENCE,15
+maharashtra,None,Pune,2021,DRUG OFFENSE,20
+maharashtra,None,Pune,2021,EXTORTION,19
+maharashtra,None,Pune,2021,FIREARM OFFENSE,19
+maharashtra,None,Pune,2021,FRAUD,23
+maharashtra,None,Pune,2021,HOMICIDE,19
+maharashtra,None,Pune,2021,IDENTITY THEFT,12
+maharashtra,None,Pune,2021,ILLEGAL POSSESSION,26
+maharashtra,None,Pune,2021,KIDNAPPING,25
+maharashtra,None,Pune,2021,PUBLIC INTOXICATION,24
+maharashtra,None,Pune,2021,ROBBERY,24
+maharashtra,None,Pune,2021,SEXUAL ASSAULT,25
+maharashtra,None,Pune,2021,SHOPLIFTING,31
+maharashtra,None,Pune,2021,TRAFFIC VIOLATION,33
+maharashtra,None,Pune,2021,VANDALISM,23
+maharashtra,None,Pune,2021,VEHICLE - STOLEN,32
+maharashtra,None,Pune,2022,ARSON,24
+maharashtra,None,Pune,2022,ASSAULT,19
+maharashtra,None,Pune,2022,BURGLARY,28
+maharashtra,None,Pune,2022,COUNTERFEITING,17
+maharashtra,None,Pune,2022,CYBERCRIME,27
+maharashtra,None,Pune,2022,DOMESTIC VIOLENCE,24
+maharashtra,None,Pune,2022,DRUG OFFENSE,20
+maharashtra,None,Pune,2022,EXTORTION,27
+maharashtra,None,Pune,2022,FIREARM OFFENSE,19
+maharashtra,None,Pune,2022,FRAUD,16
+maharashtra,None,Pune,2022,HOMICIDE,26
+maharashtra,None,Pune,2022,IDENTITY THEFT,24
+maharashtra,None,Pune,2022,ILLEGAL POSSESSION,25
+maharashtra,None,Pune,2022,KIDNAPPING,28
+maharashtra,None,Pune,2022,PUBLIC INTOXICATION,18
+maharashtra,None,Pune,2022,ROBBERY,27
+maharashtra,None,Pune,2022,SEXUAL ASSAULT,19
+maharashtra,None,Pune,2022,SHOPLIFTING,24
+maharashtra,None,Pune,2022,TRAFFIC VIOLATION,17
+maharashtra,None,Pune,2022,VANDALISM,20
+maharashtra,None,Pune,2022,VEHICLE - STOLEN,19
+maharashtra,None,Pune,2023,ARSON,18
+maharashtra,None,Pune,2023,ASSAULT,16
+maharashtra,None,Pune,2023,BURGLARY,24
+maharashtra,None,Pune,2023,COUNTERFEITING,28
+maharashtra,None,Pune,2023,CYBERCRIME,22
+maharashtra,None,Pune,2023,DOMESTIC VIOLENCE,29
+maharashtra,None,Pune,2023,DRUG OFFENSE,31
+maharashtra,None,Pune,2023,EXTORTION,31
+maharashtra,None,Pune,2023,FIREARM OFFENSE,22
+maharashtra,None,Pune,2023,FRAUD,18
+maharashtra,None,Pune,2023,HOMICIDE,15
+maharashtra,None,Pune,2023,IDENTITY THEFT,19
+maharashtra,None,Pune,2023,ILLEGAL POSSESSION,26
+maharashtra,None,Pune,2023,KIDNAPPING,17
+maharashtra,None,Pune,2023,PUBLIC INTOXICATION,22
+maharashtra,None,Pune,2023,ROBBERY,12
+maharashtra,None,Pune,2023,SEXUAL ASSAULT,25
+maharashtra,None,Pune,2023,SHOPLIFTING,25
+maharashtra,None,Pune,2023,TRAFFIC VIOLATION,22
+maharashtra,None,Pune,2023,VANDALISM,34
+maharashtra,None,Pune,2023,VEHICLE - STOLEN,29
+maharashtra,None,Pune,2024,ARSON,12
+maharashtra,None,Pune,2024,ASSAULT,20
+maharashtra,None,Pune,2024,BURGLARY,25
+maharashtra,None,Pune,2024,COUNTERFEITING,20
+maharashtra,None,Pune,2024,CYBERCRIME,13
+maharashtra,None,Pune,2024,DOMESTIC VIOLENCE,17
+maharashtra,None,Pune,2024,DRUG OFFENSE,10
+maharashtra,None,Pune,2024,EXTORTION,11
+maharashtra,None,Pune,2024,FIREARM OFFENSE,19
+maharashtra,None,Pune,2024,FRAUD,19
+maharashtra,None,Pune,2024,HOMICIDE,13
+maharashtra,None,Pune,2024,IDENTITY THEFT,13
+maharashtra,None,Pune,2024,ILLEGAL POSSESSION,8
+maharashtra,None,Pune,2024,KIDNAPPING,15
+maharashtra,None,Pune,2024,PUBLIC INTOXICATION,8
+maharashtra,None,Pune,2024,ROBBERY,7
+maharashtra,None,Pune,2024,SEXUAL ASSAULT,7
+maharashtra,None,Pune,2024,SHOPLIFTING,22
+maharashtra,None,Pune,2024,TRAFFIC VIOLATION,14
+maharashtra,None,Pune,2024,VANDALISM,19
+maharashtra,None,Pune,2024,VEHICLE - STOLEN,17
+maharashtra,None,Thane,2020,ARSON,5
+maharashtra,None,Thane,2020,ASSAULT,4
+maharashtra,None,Thane,2020,BURGLARY,7
+maharashtra,None,Thane,2020,COUNTERFEITING,9
+maharashtra,None,Thane,2020,CYBERCRIME,8
+maharashtra,None,Thane,2020,DOMESTIC VIOLENCE,12
+maharashtra,None,Thane,2020,DRUG OFFENSE,6
+maharashtra,None,Thane,2020,EXTORTION,9
+maharashtra,None,Thane,2020,FIREARM OFFENSE,6
+maharashtra,None,Thane,2020,FRAUD,11
+maharashtra,None,Thane,2020,HOMICIDE,7
+maharashtra,None,Thane,2020,IDENTITY THEFT,9
+maharashtra,None,Thane,2020,ILLEGAL POSSESSION,7
+maharashtra,None,Thane,2020,KIDNAPPING,9
+maharashtra,None,Thane,2020,PUBLIC INTOXICATION,6
+maharashtra,None,Thane,2020,ROBBERY,13
+maharashtra,None,Thane,2020,SEXUAL ASSAULT,6
+maharashtra,None,Thane,2020,SHOPLIFTING,9
+maharashtra,None,Thane,2020,TRAFFIC VIOLATION,6
+maharashtra,None,Thane,2020,VANDALISM,5
+maharashtra,None,Thane,2020,VEHICLE - STOLEN,13
+maharashtra,None,Thane,2021,ARSON,6
+maharashtra,None,Thane,2021,ASSAULT,7
+maharashtra,None,Thane,2021,BURGLARY,6
+maharashtra,None,Thane,2021,COUNTERFEITING,10
+maharashtra,None,Thane,2021,CYBERCRIME,10
+maharashtra,None,Thane,2021,DOMESTIC VIOLENCE,6
+maharashtra,None,Thane,2021,DRUG OFFENSE,9
+maharashtra,None,Thane,2021,EXTORTION,3
+maharashtra,None,Thane,2021,FIREARM OFFENSE,4
+maharashtra,None,Thane,2021,FRAUD,7
+maharashtra,None,Thane,2021,HOMICIDE,9
+maharashtra,None,Thane,2021,IDENTITY THEFT,5
+maharashtra,None,Thane,2021,ILLEGAL POSSESSION,6
+maharashtra,None,Thane,2021,KIDNAPPING,11
+maharashtra,None,Thane,2021,PUBLIC INTOXICATION,6
+maharashtra,None,Thane,2021,ROBBERY,9
+maharashtra,None,Thane,2021,SEXUAL ASSAULT,7
+maharashtra,None,Thane,2021,SHOPLIFTING,8
+maharashtra,None,Thane,2021,TRAFFIC VIOLATION,4
+maharashtra,None,Thane,2021,VANDALISM,9
+maharashtra,None,Thane,2021,VEHICLE - STOLEN,8
+maharashtra,None,Thane,2022,ARSON,9
+maharashtra,None,Thane,2022,ASSAULT,3
+maharashtra,None,Thane,2022,BURGLARY,11
+maharashtra,None,Thane,2022,COUNTERFEITING,7
+maharashtra,None,Thane,2022,CYBERCRIME,6
+maharashtra,None,Thane,2022,DOMESTIC VIOLENCE,6
+maharashtra,None,Thane,2022,DRUG OFFENSE,4
+maharashtra,None,Thane,2022,EXTORTION,11
+maharashtra,None,Thane,2022,FIREARM OFFENSE,8
+maharashtra,None,Thane,2022,FRAUD,4
+maharashtra,None,Thane,2022,HOMICIDE,8
+maharashtra,None,Thane,2022,IDENTITY THEFT,4
+maharashtra,None,Thane,2022,ILLEGAL POSSESSION,6
+maharashtra,None,Thane,2022,KIDNAPPING,8
+maharashtra,None,Thane,2022,PUBLIC INTOXICATION,10
+maharashtra,None,Thane,2022,ROBBERY,10
+maharashtra,None,Thane,2022,SEXUAL ASSAULT,11
+maharashtra,None,Thane,2022,SHOPLIFTING,4
+maharashtra,None,Thane,2022,TRAFFIC VIOLATION,8
+maharashtra,None,Thane,2022,VANDALISM,3
+maharashtra,None,Thane,2022,VEHICLE - STOLEN,6
+maharashtra,None,Thane,2023,ARSON,5
+maharashtra,None,Thane,2023,ASSAULT,6
+maharashtra,None,Thane,2023,BURGLARY,15
+maharashtra,None,Thane,2023,COUNTERFEITING,7
+maharashtra,None,Thane,2023,CYBERCRIME,20
+maharashtra,None,Thane,2023,DOMESTIC VIOLENCE,4
+maharashtra,None,Thane,2023,DRUG OFFENSE,12
+maharashtra,None,Thane,2023,EXTORTION,6
+maharashtra,None,Thane,2023,FIREARM OFFENSE,7
+maharashtra,None,Thane,2023,FRAUD,3
+maharashtra,None,Thane,2023,HOMICIDE,6
+maharashtra,None,Thane,2023,IDENTITY THEFT,8
+maharashtra,None,Thane,2023,ILLEGAL POSSESSION,5
+maharashtra,None,Thane,2023,KIDNAPPING,6
+maharashtra,None,Thane,2023,PUBLIC INTOXICATION,6
+maharashtra,None,Thane,2023,ROBBERY,6
+maharashtra,None,Thane,2023,SEXUAL ASSAULT,4
+maharashtra,None,Thane,2023,SHOPLIFTING,8
+maharashtra,None,Thane,2023,TRAFFIC VIOLATION,6
+maharashtra,None,Thane,2023,VANDALISM,6
+maharashtra,None,Thane,2023,VEHICLE - STOLEN,9
+maharashtra,None,Thane,2024,ARSON,1
+maharashtra,None,Thane,2024,ASSAULT,8
+maharashtra,None,Thane,2024,BURGLARY,6
+maharashtra,None,Thane,2024,COUNTERFEITING,5
+maharashtra,None,Thane,2024,CYBERCRIME,3
+maharashtra,None,Thane,2024,DOMESTIC VIOLENCE,4
+maharashtra,None,Thane,2024,DRUG OFFENSE,2
+maharashtra,None,Thane,2024,EXTORTION,2
+maharashtra,None,Thane,2024,FIREARM OFFENSE,4
+maharashtra,None,Thane,2024,FRAUD,4
+maharashtra,None,Thane,2024,HOMICIDE,5
+maharashtra,None,Thane,2024,IDENTITY THEFT,3
+maharashtra,None,Thane,2024,ILLEGAL POSSESSION,3
+maharashtra,None,Thane,2024,KIDNAPPING,3
+maharashtra,None,Thane,2024,PUBLIC INTOXICATION,4
+maharashtra,None,Thane,2024,ROBBERY,3
+maharashtra,None,Thane,2024,SEXUAL ASSAULT,7
+maharashtra,None,Thane,2024,SHOPLIFTING,5
+maharashtra,None,Thane,2024,TRAFFIC VIOLATION,5
+maharashtra,None,Thane,2024,VANDALISM,6
+maharashtra,None,Thane,2024,VEHICLE - STOLEN,4
+maharashtra,None,Vasai,2020,ARSON,1
+maharashtra,None,Vasai,2020,ASSAULT,5
+maharashtra,None,Vasai,2020,BURGLARY,3
+maharashtra,None,Vasai,2020,COUNTERFEITING,4
+maharashtra,None,Vasai,2020,CYBERCRIME,2
+maharashtra,None,Vasai,2020,DOMESTIC VIOLENCE,4
+maharashtra,None,Vasai,2020,DRUG OFFENSE,4
+maharashtra,None,Vasai,2020,EXTORTION,6
+maharashtra,None,Vasai,2020,FIREARM OFFENSE,4
+maharashtra,None,Vasai,2020,FRAUD,3
+maharashtra,None,Vasai,2020,HOMICIDE,7
+maharashtra,None,Vasai,2020,IDENTITY THEFT,2
+maharashtra,None,Vasai,2020,ILLEGAL POSSESSION,3
+maharashtra,None,Vasai,2020,KIDNAPPING,3
+maharashtra,None,Vasai,2020,PUBLIC INTOXICATION,3
+maharashtra,None,Vasai,2020,ROBBERY,4
+maharashtra,None,Vasai,2020,SEXUAL ASSAULT,3
+maharashtra,None,Vasai,2020,SHOPLIFTING,4
+maharashtra,None,Vasai,2020,TRAFFIC VIOLATION,3
+maharashtra,None,Vasai,2020,VANDALISM,5
+maharashtra,None,Vasai,2020,VEHICLE - STOLEN,3
+maharashtra,None,Vasai,2021,ARSON,4
+maharashtra,None,Vasai,2021,ASSAULT,2
+maharashtra,None,Vasai,2021,BURGLARY,4
+maharashtra,None,Vasai,2021,COUNTERFEITING,8
+maharashtra,None,Vasai,2021,CYBERCRIME,4
+maharashtra,None,Vasai,2021,DOMESTIC VIOLENCE,2
+maharashtra,None,Vasai,2021,DRUG OFFENSE,4
+maharashtra,None,Vasai,2021,EXTORTION,8
+maharashtra,None,Vasai,2021,FIREARM OFFENSE,5
+maharashtra,None,Vasai,2021,FRAUD,4
+maharashtra,None,Vasai,2021,HOMICIDE,1
+maharashtra,None,Vasai,2021,IDENTITY THEFT,4
+maharashtra,None,Vasai,2021,ILLEGAL POSSESSION,1
+maharashtra,None,Vasai,2021,KIDNAPPING,1
+maharashtra,None,Vasai,2021,PUBLIC INTOXICATION,4
+maharashtra,None,Vasai,2021,ROBBERY,2
+maharashtra,None,Vasai,2021,SEXUAL ASSAULT,6
+maharashtra,None,Vasai,2021,SHOPLIFTING,3
+maharashtra,None,Vasai,2021,TRAFFIC VIOLATION,8
+maharashtra,None,Vasai,2021,VANDALISM,4
+maharashtra,None,Vasai,2021,VEHICLE - STOLEN,2
+maharashtra,None,Vasai,2022,ARSON,3
+maharashtra,None,Vasai,2022,ASSAULT,5
+maharashtra,None,Vasai,2022,BURGLARY,4
+maharashtra,None,Vasai,2022,COUNTERFEITING,1
+maharashtra,None,Vasai,2022,CYBERCRIME,3
+maharashtra,None,Vasai,2022,DOMESTIC VIOLENCE,1
+maharashtra,None,Vasai,2022,DRUG OFFENSE,5
+maharashtra,None,Vasai,2022,EXTORTION,3
+maharashtra,None,Vasai,2022,FIREARM OFFENSE,2
+maharashtra,None,Vasai,2022,FRAUD,5
+maharashtra,None,Vasai,2022,HOMICIDE,5
+maharashtra,None,Vasai,2022,IDENTITY THEFT,5
+maharashtra,None,Vasai,2022,ILLEGAL POSSESSION,4
+maharashtra,None,Vasai,2022,KIDNAPPING,6
+maharashtra,None,Vasai,2022,PUBLIC INTOXICATION,6
+maharashtra,None,Vasai,2022,ROBBERY,3
+maharashtra,None,Vasai,2022,SEXUAL ASSAULT,5
+maharashtra,None,Vasai,2022,SHOPLIFTING,3
+maharashtra,None,Vasai,2022,TRAFFIC VIOLATION,7
+maharashtra,None,Vasai,2022,VANDALISM,4
+maharashtra,None,Vasai,2022,VEHICLE - STOLEN,3
+maharashtra,None,Vasai,2023,ARSON,3
+maharashtra,None,Vasai,2023,ASSAULT,5
+maharashtra,None,Vasai,2023,BURGLARY,2
+maharashtra,None,Vasai,2023,COUNTERFEITING,7
+maharashtra,None,Vasai,2023,DOMESTIC VIOLENCE,5
+maharashtra,None,Vasai,2023,DRUG OFFENSE,8
+maharashtra,None,Vasai,2023,EXTORTION,5
+maharashtra,None,Vasai,2023,FIREARM OFFENSE,4
+maharashtra,None,Vasai,2023,FRAUD,3
+maharashtra,None,Vasai,2023,HOMICIDE,5
+maharashtra,None,Vasai,2023,IDENTITY THEFT,8
+maharashtra,None,Vasai,2023,ILLEGAL POSSESSION,4
+maharashtra,None,Vasai,2023,KIDNAPPING,3
+maharashtra,None,Vasai,2023,PUBLIC INTOXICATION,4
+maharashtra,None,Vasai,2023,ROBBERY,5
+maharashtra,None,Vasai,2023,SEXUAL ASSAULT,3
+maharashtra,None,Vasai,2023,SHOPLIFTING,2
+maharashtra,None,Vasai,2023,TRAFFIC VIOLATION,2
+maharashtra,None,Vasai,2023,VANDALISM,2
+maharashtra,None,Vasai,2023,VEHICLE - STOLEN,7
+maharashtra,None,Vasai,2024,ARSON,3
+maharashtra,None,Vasai,2024,ASSAULT,3
+maharashtra,None,Vasai,2024,BURGLARY,2
+maharashtra,None,Vasai,2024,COUNTERFEITING,2
+maharashtra,None,Vasai,2024,CYBERCRIME,1
+maharashtra,None,Vasai,2024,DOMESTIC VIOLENCE,3
+maharashtra,None,Vasai,2024,FIREARM OFFENSE,2
+maharashtra,None,Vasai,2024,FRAUD,2
+maharashtra,None,Vasai,2024,HOMICIDE,1
+maharashtra,None,Vasai,2024,ILLEGAL POSSESSION,2
+maharashtra,None,Vasai,2024,KIDNAPPING,4
+maharashtra,None,Vasai,2024,PUBLIC INTOXICATION,1
+maharashtra,None,Vasai,2024,ROBBERY,1
+maharashtra,None,Vasai,2024,SEXUAL ASSAULT,3
+maharashtra,None,Vasai,2024,SHOPLIFTING,2
+maharashtra,None,Vasai,2024,TRAFFIC VIOLATION,1
+maharashtra,None,Vasai,2024,VANDALISM,1
+maharashtra,None,Vasai,2024,VEHICLE - STOLEN,1
+punjab,None,Ludhiana,2020,ARSON,6
+punjab,None,Ludhiana,2020,ASSAULT,6
+punjab,None,Ludhiana,2020,BURGLARY,9
+punjab,None,Ludhiana,2020,COUNTERFEITING,6
+punjab,None,Ludhiana,2020,CYBERCRIME,10
+punjab,None,Ludhiana,2020,DOMESTIC VIOLENCE,5
+punjab,None,Ludhiana,2020,DRUG OFFENSE,9
+punjab,None,Ludhiana,2020,EXTORTION,9
+punjab,None,Ludhiana,2020,FIREARM OFFENSE,15
+punjab,None,Ludhiana,2020,FRAUD,10
+punjab,None,Ludhiana,2020,HOMICIDE,7
+punjab,None,Ludhiana,2020,IDENTITY THEFT,7
+punjab,None,Ludhiana,2020,ILLEGAL POSSESSION,7
+punjab,None,Ludhiana,2020,KIDNAPPING,7
+punjab,None,Ludhiana,2020,PUBLIC INTOXICATION,3
+punjab,None,Ludhiana,2020,ROBBERY,5
+punjab,None,Ludhiana,2020,SEXUAL ASSAULT,6
+punjab,None,Ludhiana,2020,SHOPLIFTING,7
+punjab,None,Ludhiana,2020,TRAFFIC VIOLATION,6
+punjab,None,Ludhiana,2020,VANDALISM,8
+punjab,None,Ludhiana,2020,VEHICLE - STOLEN,9
+punjab,None,Ludhiana,2021,ARSON,10
+punjab,None,Ludhiana,2021,ASSAULT,6
+punjab,None,Ludhiana,2021,BURGLARY,7
+punjab,None,Ludhiana,2021,COUNTERFEITING,3
+punjab,None,Ludhiana,2021,CYBERCRIME,8
+punjab,None,Ludhiana,2021,DOMESTIC VIOLENCE,7
+punjab,None,Ludhiana,2021,DRUG OFFENSE,5
+punjab,None,Ludhiana,2021,EXTORTION,8
+punjab,None,Ludhiana,2021,FIREARM OFFENSE,11
+punjab,None,Ludhiana,2021,FRAUD,15
+punjab,None,Ludhiana,2021,HOMICIDE,7
+punjab,None,Ludhiana,2021,IDENTITY THEFT,10
+punjab,None,Ludhiana,2021,ILLEGAL POSSESSION,6
+punjab,None,Ludhiana,2021,KIDNAPPING,11
+punjab,None,Ludhiana,2021,PUBLIC INTOXICATION,8
+punjab,None,Ludhiana,2021,ROBBERY,8
+punjab,None,Ludhiana,2021,SEXUAL ASSAULT,9
+punjab,None,Ludhiana,2021,SHOPLIFTING,11
+punjab,None,Ludhiana,2021,TRAFFIC VIOLATION,10
+punjab,None,Ludhiana,2021,VANDALISM,7
+punjab,None,Ludhiana,2021,VEHICLE - STOLEN,7
+punjab,None,Ludhiana,2022,ARSON,11
+punjab,None,Ludhiana,2022,ASSAULT,8
+punjab,None,Ludhiana,2022,BURGLARY,6
+punjab,None,Ludhiana,2022,COUNTERFEITING,3
+punjab,None,Ludhiana,2022,CYBERCRIME,5
+punjab,None,Ludhiana,2022,DOMESTIC VIOLENCE,7
+punjab,None,Ludhiana,2022,DRUG OFFENSE,7
+punjab,None,Ludhiana,2022,EXTORTION,11
+punjab,None,Ludhiana,2022,FIREARM OFFENSE,6
+punjab,None,Ludhiana,2022,FRAUD,13
+punjab,None,Ludhiana,2022,HOMICIDE,10
+punjab,None,Ludhiana,2022,IDENTITY THEFT,6
+punjab,None,Ludhiana,2022,ILLEGAL POSSESSION,10
+punjab,None,Ludhiana,2022,KIDNAPPING,3
+punjab,None,Ludhiana,2022,PUBLIC INTOXICATION,6
+punjab,None,Ludhiana,2022,ROBBERY,8
+punjab,None,Ludhiana,2022,SEXUAL ASSAULT,11
+punjab,None,Ludhiana,2022,SHOPLIFTING,10
+punjab,None,Ludhiana,2022,TRAFFIC VIOLATION,6
+punjab,None,Ludhiana,2022,VANDALISM,6
+punjab,None,Ludhiana,2022,VEHICLE - STOLEN,3
+punjab,None,Ludhiana,2023,ARSON,9
+punjab,None,Ludhiana,2023,ASSAULT,10
+punjab,None,Ludhiana,2023,BURGLARY,10
+punjab,None,Ludhiana,2023,COUNTERFEITING,8
+punjab,None,Ludhiana,2023,CYBERCRIME,4
+punjab,None,Ludhiana,2023,DOMESTIC VIOLENCE,4
+punjab,None,Ludhiana,2023,DRUG OFFENSE,7
+punjab,None,Ludhiana,2023,EXTORTION,8
+punjab,None,Ludhiana,2023,FIREARM OFFENSE,5
+punjab,None,Ludhiana,2023,FRAUD,13
+punjab,None,Ludhiana,2023,HOMICIDE,11
+punjab,None,Ludhiana,2023,IDENTITY THEFT,5
+punjab,None,Ludhiana,2023,ILLEGAL POSSESSION,10
+punjab,None,Ludhiana,2023,KIDNAPPING,5
+punjab,None,Ludhiana,2023,PUBLIC INTOXICATION,6
+punjab,None,Ludhiana,2023,ROBBERY,15
+punjab,None,Ludhiana,2023,SEXUAL ASSAULT,11
+punjab,None,Ludhiana,2023,SHOPLIFTING,11
+punjab,None,Ludhiana,2023,TRAFFIC VIOLATION,7
+punjab,None,Ludhiana,2023,VANDALISM,10
+punjab,None,Ludhiana,2023,VEHICLE - STOLEN,7
+punjab,None,Ludhiana,2024,ARSON,6
+punjab,None,Ludhiana,2024,ASSAULT,7
+punjab,None,Ludhiana,2024,BURGLARY,8
+punjab,None,Ludhiana,2024,COUNTERFEITING,5
+punjab,None,Ludhiana,2024,CYBERCRIME,1
+punjab,None,Ludhiana,2024,DOMESTIC VIOLENCE,5
+punjab,None,Ludhiana,2024,DRUG OFFENSE,4
+punjab,None,Ludhiana,2024,EXTORTION,4
+punjab,None,Ludhiana,2024,FIREARM OFFENSE,1
+punjab,None,Ludhiana,2024,FRAUD,4
+punjab,None,Ludhiana,2024,HOMICIDE,5
+punjab,None,Ludhiana,2024,IDENTITY THEFT,4
+punjab,None,Ludhiana,2024,ILLEGAL POSSESSION,5
+punjab,None,Ludhiana,2024,KIDNAPPING,8
+punjab,None,Ludhiana,2024,PUBLIC INTOXICATION,1
+punjab,None,Ludhiana,2024,ROBBERY,2
+punjab,None,Ludhiana,2024,SEXUAL ASSAULT,7
+punjab,None,Ludhiana,2024,SHOPLIFTING,3
+punjab,None,Ludhiana,2024,TRAFFIC VIOLATION,4
+punjab,None,Ludhiana,2024,VANDALISM,5
+punjab,None,Ludhiana,2024,VEHICLE - STOLEN,9
+rajasthan,None,Jaipur,2020,ARSON,14
+rajasthan,None,Jaipur,2020,ASSAULT,10
+rajasthan,None,Jaipur,2020,BURGLARY,13
+rajasthan,None,Jaipur,2020,COUNTERFEITING,16
+rajasthan,None,Jaipur,2020,CYBERCRIME,12
+rajasthan,None,Jaipur,2020,DOMESTIC VIOLENCE,14
+rajasthan,None,Jaipur,2020,DRUG OFFENSE,16
+rajasthan,None,Jaipur,2020,EXTORTION,20
+rajasthan,None,Jaipur,2020,FIREARM OFFENSE,13
+rajasthan,None,Jaipur,2020,FRAUD,16
+rajasthan,None,Jaipur,2020,HOMICIDE,15
+rajasthan,None,Jaipur,2020,IDENTITY THEFT,22
+rajasthan,None,Jaipur,2020,ILLEGAL POSSESSION,20
+rajasthan,None,Jaipur,2020,KIDNAPPING,22
+rajasthan,None,Jaipur,2020,PUBLIC INTOXICATION,13
+rajasthan,None,Jaipur,2020,ROBBERY,15
+rajasthan,None,Jaipur,2020,SEXUAL ASSAULT,17
+rajasthan,None,Jaipur,2020,SHOPLIFTING,12
+rajasthan,None,Jaipur,2020,TRAFFIC VIOLATION,16
+rajasthan,None,Jaipur,2020,VANDALISM,19
+rajasthan,None,Jaipur,2020,VEHICLE - STOLEN,14
+rajasthan,None,Jaipur,2021,ARSON,12
+rajasthan,None,Jaipur,2021,ASSAULT,14
+rajasthan,None,Jaipur,2021,BURGLARY,13
+rajasthan,None,Jaipur,2021,COUNTERFEITING,21
+rajasthan,None,Jaipur,2021,CYBERCRIME,15
+rajasthan,None,Jaipur,2021,DOMESTIC VIOLENCE,16
+rajasthan,None,Jaipur,2021,DRUG OFFENSE,21
+rajasthan,None,Jaipur,2021,EXTORTION,14
+rajasthan,None,Jaipur,2021,FIREARM OFFENSE,24
+rajasthan,None,Jaipur,2021,FRAUD,24
+rajasthan,None,Jaipur,2021,HOMICIDE,20
+rajasthan,None,Jaipur,2021,IDENTITY THEFT,17
+rajasthan,None,Jaipur,2021,ILLEGAL POSSESSION,18
+rajasthan,None,Jaipur,2021,KIDNAPPING,16
+rajasthan,None,Jaipur,2021,PUBLIC INTOXICATION,17
+rajasthan,None,Jaipur,2021,ROBBERY,15
+rajasthan,None,Jaipur,2021,SEXUAL ASSAULT,20
+rajasthan,None,Jaipur,2021,SHOPLIFTING,16
+rajasthan,None,Jaipur,2021,TRAFFIC VIOLATION,15
+rajasthan,None,Jaipur,2021,VANDALISM,19
+rajasthan,None,Jaipur,2021,VEHICLE - STOLEN,8
+rajasthan,None,Jaipur,2022,ARSON,14
+rajasthan,None,Jaipur,2022,ASSAULT,14
+rajasthan,None,Jaipur,2022,BURGLARY,14
+rajasthan,None,Jaipur,2022,COUNTERFEITING,18
+rajasthan,None,Jaipur,2022,CYBERCRIME,17
+rajasthan,None,Jaipur,2022,DOMESTIC VIOLENCE,15
+rajasthan,None,Jaipur,2022,DRUG OFFENSE,17
+rajasthan,None,Jaipur,2022,EXTORTION,12
+rajasthan,None,Jaipur,2022,FIREARM OFFENSE,12
+rajasthan,None,Jaipur,2022,FRAUD,13
+rajasthan,None,Jaipur,2022,HOMICIDE,17
+rajasthan,None,Jaipur,2022,IDENTITY THEFT,10
+rajasthan,None,Jaipur,2022,ILLEGAL POSSESSION,14
+rajasthan,None,Jaipur,2022,KIDNAPPING,9
+rajasthan,None,Jaipur,2022,PUBLIC INTOXICATION,16
+rajasthan,None,Jaipur,2022,ROBBERY,19
+rajasthan,None,Jaipur,2022,SEXUAL ASSAULT,17
+rajasthan,None,Jaipur,2022,SHOPLIFTING,7
+rajasthan,None,Jaipur,2022,TRAFFIC VIOLATION,23
+rajasthan,None,Jaipur,2022,VANDALISM,15
+rajasthan,None,Jaipur,2022,VEHICLE - STOLEN,14
+rajasthan,None,Jaipur,2023,ARSON,11
+rajasthan,None,Jaipur,2023,ASSAULT,18
+rajasthan,None,Jaipur,2023,BURGLARY,10
+rajasthan,None,Jaipur,2023,COUNTERFEITING,18
+rajasthan,None,Jaipur,2023,CYBERCRIME,19
+rajasthan,None,Jaipur,2023,DOMESTIC VIOLENCE,14
+rajasthan,None,Jaipur,2023,DRUG OFFENSE,10
+rajasthan,None,Jaipur,2023,EXTORTION,17
+rajasthan,None,Jaipur,2023,FIREARM OFFENSE,14
+rajasthan,None,Jaipur,2023,FRAUD,18
+rajasthan,None,Jaipur,2023,HOMICIDE,10
+rajasthan,None,Jaipur,2023,IDENTITY THEFT,19
+rajasthan,None,Jaipur,2023,ILLEGAL POSSESSION,13
+rajasthan,None,Jaipur,2023,KIDNAPPING,11
+rajasthan,None,Jaipur,2023,PUBLIC INTOXICATION,5
+rajasthan,None,Jaipur,2023,ROBBERY,11
+rajasthan,None,Jaipur,2023,SEXUAL ASSAULT,17
+rajasthan,None,Jaipur,2023,SHOPLIFTING,20
+rajasthan,None,Jaipur,2023,TRAFFIC VIOLATION,18
+rajasthan,None,Jaipur,2023,VANDALISM,15
+rajasthan,None,Jaipur,2023,VEHICLE - STOLEN,10
+rajasthan,None,Jaipur,2024,ARSON,10
+rajasthan,None,Jaipur,2024,ASSAULT,7
+rajasthan,None,Jaipur,2024,BURGLARY,12
+rajasthan,None,Jaipur,2024,COUNTERFEITING,14
+rajasthan,None,Jaipur,2024,CYBERCRIME,13
+rajasthan,None,Jaipur,2024,DOMESTIC VIOLENCE,9
+rajasthan,None,Jaipur,2024,DRUG OFFENSE,10
+rajasthan,None,Jaipur,2024,EXTORTION,12
+rajasthan,None,Jaipur,2024,FIREARM OFFENSE,8
+rajasthan,None,Jaipur,2024,FRAUD,10
+rajasthan,None,Jaipur,2024,HOMICIDE,4
+rajasthan,None,Jaipur,2024,IDENTITY THEFT,10
+rajasthan,None,Jaipur,2024,ILLEGAL POSSESSION,7
+rajasthan,None,Jaipur,2024,KIDNAPPING,8
+rajasthan,None,Jaipur,2024,PUBLIC INTOXICATION,13
+rajasthan,None,Jaipur,2024,ROBBERY,9
+rajasthan,None,Jaipur,2024,SEXUAL ASSAULT,8
+rajasthan,None,Jaipur,2024,SHOPLIFTING,3
+rajasthan,None,Jaipur,2024,TRAFFIC VIOLATION,6
+rajasthan,None,Jaipur,2024,VANDALISM,8
+rajasthan,None,Jaipur,2024,VEHICLE - STOLEN,9
+tamil nadu,None,Chennai,2020,ARSON,37
+tamil nadu,None,Chennai,2020,ASSAULT,20
+tamil nadu,None,Chennai,2020,BURGLARY,31
+tamil nadu,None,Chennai,2020,COUNTERFEITING,31
+tamil nadu,None,Chennai,2020,CYBERCRIME,31
+tamil nadu,None,Chennai,2020,DOMESTIC VIOLENCE,17
+tamil nadu,None,Chennai,2020,DRUG OFFENSE,16
+tamil nadu,None,Chennai,2020,EXTORTION,31
+tamil nadu,None,Chennai,2020,FIREARM OFFENSE,24
+tamil nadu,None,Chennai,2020,FRAUD,20
+tamil nadu,None,Chennai,2020,HOMICIDE,27
+tamil nadu,None,Chennai,2020,IDENTITY THEFT,26
+tamil nadu,None,Chennai,2020,ILLEGAL POSSESSION,24
+tamil nadu,None,Chennai,2020,KIDNAPPING,20
+tamil nadu,None,Chennai,2020,PUBLIC INTOXICATION,16
+tamil nadu,None,Chennai,2020,ROBBERY,16
+tamil nadu,None,Chennai,2020,SEXUAL ASSAULT,24
+tamil nadu,None,Chennai,2020,SHOPLIFTING,27
+tamil nadu,None,Chennai,2020,TRAFFIC VIOLATION,21
+tamil nadu,None,Chennai,2020,VANDALISM,34
+tamil nadu,None,Chennai,2020,VEHICLE - STOLEN,29
+tamil nadu,None,Chennai,2021,ARSON,31
+tamil nadu,None,Chennai,2021,ASSAULT,24
+tamil nadu,None,Chennai,2021,BURGLARY,23
+tamil nadu,None,Chennai,2021,COUNTERFEITING,24
+tamil nadu,None,Chennai,2021,CYBERCRIME,18
+tamil nadu,None,Chennai,2021,DOMESTIC VIOLENCE,20
+tamil nadu,None,Chennai,2021,DRUG OFFENSE,24
+tamil nadu,None,Chennai,2021,EXTORTION,21
+tamil nadu,None,Chennai,2021,FIREARM OFFENSE,27
+tamil nadu,None,Chennai,2021,FRAUD,27
+tamil nadu,None,Chennai,2021,HOMICIDE,34
+tamil nadu,None,Chennai,2021,IDENTITY THEFT,33
+tamil nadu,None,Chennai,2021,ILLEGAL POSSESSION,23
+tamil nadu,None,Chennai,2021,KIDNAPPING,32
+tamil nadu,None,Chennai,2021,PUBLIC INTOXICATION,24
+tamil nadu,None,Chennai,2021,ROBBERY,18
+tamil nadu,None,Chennai,2021,SEXUAL ASSAULT,34
+tamil nadu,None,Chennai,2021,SHOPLIFTING,28
+tamil nadu,None,Chennai,2021,TRAFFIC VIOLATION,27
+tamil nadu,None,Chennai,2021,VANDALISM,29
+tamil nadu,None,Chennai,2021,VEHICLE - STOLEN,30
+tamil nadu,None,Chennai,2022,ARSON,30
+tamil nadu,None,Chennai,2022,ASSAULT,19
+tamil nadu,None,Chennai,2022,BURGLARY,35
+tamil nadu,None,Chennai,2022,COUNTERFEITING,32
+tamil nadu,None,Chennai,2022,CYBERCRIME,27
+tamil nadu,None,Chennai,2022,DOMESTIC VIOLENCE,28
+tamil nadu,None,Chennai,2022,DRUG OFFENSE,29
+tamil nadu,None,Chennai,2022,EXTORTION,22
+tamil nadu,None,Chennai,2022,FIREARM OFFENSE,32
+tamil nadu,None,Chennai,2022,FRAUD,27
+tamil nadu,None,Chennai,2022,HOMICIDE,28
+tamil nadu,None,Chennai,2022,IDENTITY THEFT,31
+tamil nadu,None,Chennai,2022,ILLEGAL POSSESSION,24
+tamil nadu,None,Chennai,2022,KIDNAPPING,36
+tamil nadu,None,Chennai,2022,PUBLIC INTOXICATION,23
+tamil nadu,None,Chennai,2022,ROBBERY,29
+tamil nadu,None,Chennai,2022,SEXUAL ASSAULT,27
+tamil nadu,None,Chennai,2022,SHOPLIFTING,23
+tamil nadu,None,Chennai,2022,TRAFFIC VIOLATION,24
+tamil nadu,None,Chennai,2022,VANDALISM,26
+tamil nadu,None,Chennai,2022,VEHICLE - STOLEN,29
+tamil nadu,None,Chennai,2023,ARSON,25
+tamil nadu,None,Chennai,2023,ASSAULT,26
+tamil nadu,None,Chennai,2023,BURGLARY,31
+tamil nadu,None,Chennai,2023,COUNTERFEITING,20
+tamil nadu,None,Chennai,2023,CYBERCRIME,25
+tamil nadu,None,Chennai,2023,DOMESTIC VIOLENCE,18
+tamil nadu,None,Chennai,2023,DRUG OFFENSE,26
+tamil nadu,None,Chennai,2023,EXTORTION,33
+tamil nadu,None,Chennai,2023,FIREARM OFFENSE,22
+tamil nadu,None,Chennai,2023,FRAUD,29
+tamil nadu,None,Chennai,2023,HOMICIDE,29
+tamil nadu,None,Chennai,2023,IDENTITY THEFT,26
+tamil nadu,None,Chennai,2023,ILLEGAL POSSESSION,17
+tamil nadu,None,Chennai,2023,KIDNAPPING,34
+tamil nadu,None,Chennai,2023,PUBLIC INTOXICATION,33
+tamil nadu,None,Chennai,2023,ROBBERY,28
+tamil nadu,None,Chennai,2023,SEXUAL ASSAULT,25
+tamil nadu,None,Chennai,2023,SHOPLIFTING,27
+tamil nadu,None,Chennai,2023,TRAFFIC VIOLATION,24
+tamil nadu,None,Chennai,2023,VANDALISM,25
+tamil nadu,None,Chennai,2023,VEHICLE - STOLEN,28
+tamil nadu,None,Chennai,2024,ARSON,15
+tamil nadu,None,Chennai,2024,ASSAULT,12
+tamil nadu,None,Chennai,2024,BURGLARY,14
+tamil nadu,None,Chennai,2024,COUNTERFEITING,8
+tamil nadu,None,Chennai,2024,CYBERCRIME,16
+tamil nadu,None,Chennai,2024,DOMESTIC VIOLENCE,14
+tamil nadu,None,Chennai,2024,DRUG OFFENSE,8
+tamil nadu,None,Chennai,2024,EXTORTION,15
+tamil nadu,None,Chennai,2024,FIREARM OFFENSE,17
+tamil nadu,None,Chennai,2024,FRAUD,11
+tamil nadu,None,Chennai,2024,HOMICIDE,20
+tamil nadu,None,Chennai,2024,IDENTITY THEFT,12
+tamil nadu,None,Chennai,2024,ILLEGAL POSSESSION,19
+tamil nadu,None,Chennai,2024,KIDNAPPING,13
+tamil nadu,None,Chennai,2024,PUBLIC INTOXICATION,11
+tamil nadu,None,Chennai,2024,ROBBERY,17
+tamil nadu,None,Chennai,2024,SEXUAL ASSAULT,16
+tamil nadu,None,Chennai,2024,SHOPLIFTING,11
+tamil nadu,None,Chennai,2024,TRAFFIC VIOLATION,14
+tamil nadu,None,Chennai,2024,VANDALISM,10
+tamil nadu,None,Chennai,2024,VEHICLE - STOLEN,15
+telangana,None,Hyderabad,2020,ARSON,31
+telangana,None,Hyderabad,2020,ASSAULT,24
+telangana,None,Hyderabad,2020,BURGLARY,35
+telangana,None,Hyderabad,2020,COUNTERFEITING,24
+telangana,None,Hyderabad,2020,CYBERCRIME,28
+telangana,None,Hyderabad,2020,DOMESTIC VIOLENCE,38
+telangana,None,Hyderabad,2020,DRUG OFFENSE,21
+telangana,None,Hyderabad,2020,EXTORTION,29
+telangana,None,Hyderabad,2020,FIREARM OFFENSE,28
+telangana,None,Hyderabad,2020,FRAUD,25
+telangana,None,Hyderabad,2020,HOMICIDE,33
+telangana,None,Hyderabad,2020,IDENTITY THEFT,37
+telangana,None,Hyderabad,2020,ILLEGAL POSSESSION,31
+telangana,None,Hyderabad,2020,KIDNAPPING,27
+telangana,None,Hyderabad,2020,PUBLIC INTOXICATION,33
+telangana,None,Hyderabad,2020,ROBBERY,28
+telangana,None,Hyderabad,2020,SEXUAL ASSAULT,32
+telangana,None,Hyderabad,2020,SHOPLIFTING,26
+telangana,None,Hyderabad,2020,TRAFFIC VIOLATION,25
+telangana,None,Hyderabad,2020,VANDALISM,29
+telangana,None,Hyderabad,2020,VEHICLE - STOLEN,44
+telangana,None,Hyderabad,2021,ARSON,36
+telangana,None,Hyderabad,2021,ASSAULT,23
+telangana,None,Hyderabad,2021,BURGLARY,24
+telangana,None,Hyderabad,2021,COUNTERFEITING,33
+telangana,None,Hyderabad,2021,CYBERCRIME,41
+telangana,None,Hyderabad,2021,DOMESTIC VIOLENCE,27
+telangana,None,Hyderabad,2021,DRUG OFFENSE,31
+telangana,None,Hyderabad,2021,EXTORTION,27
+telangana,None,Hyderabad,2021,FIREARM OFFENSE,35
+telangana,None,Hyderabad,2021,FRAUD,31
+telangana,None,Hyderabad,2021,HOMICIDE,29
+telangana,None,Hyderabad,2021,IDENTITY THEFT,40
+telangana,None,Hyderabad,2021,ILLEGAL POSSESSION,25
+telangana,None,Hyderabad,2021,KIDNAPPING,22
+telangana,None,Hyderabad,2021,PUBLIC INTOXICATION,30
+telangana,None,Hyderabad,2021,ROBBERY,32
+telangana,None,Hyderabad,2021,SEXUAL ASSAULT,31
+telangana,None,Hyderabad,2021,SHOPLIFTING,41
+telangana,None,Hyderabad,2021,TRAFFIC VIOLATION,35
+telangana,None,Hyderabad,2021,VANDALISM,30
+telangana,None,Hyderabad,2021,VEHICLE - STOLEN,32
+telangana,None,Hyderabad,2022,ARSON,37
+telangana,None,Hyderabad,2022,ASSAULT,29
+telangana,None,Hyderabad,2022,BURGLARY,31
+telangana,None,Hyderabad,2022,COUNTERFEITING,29
+telangana,None,Hyderabad,2022,CYBERCRIME,19
+telangana,None,Hyderabad,2022,DOMESTIC VIOLENCE,36
+telangana,None,Hyderabad,2022,DRUG OFFENSE,25
+telangana,None,Hyderabad,2022,EXTORTION,26
+telangana,None,Hyderabad,2022,FIREARM OFFENSE,26
+telangana,None,Hyderabad,2022,FRAUD,30
+telangana,None,Hyderabad,2022,HOMICIDE,30
+telangana,None,Hyderabad,2022,IDENTITY THEFT,36
+telangana,None,Hyderabad,2022,ILLEGAL POSSESSION,30
+telangana,None,Hyderabad,2022,KIDNAPPING,34
+telangana,None,Hyderabad,2022,PUBLIC INTOXICATION,28
+telangana,None,Hyderabad,2022,ROBBERY,34
+telangana,None,Hyderabad,2022,SEXUAL ASSAULT,23
+telangana,None,Hyderabad,2022,SHOPLIFTING,12
+telangana,None,Hyderabad,2022,TRAFFIC VIOLATION,23
+telangana,None,Hyderabad,2022,VANDALISM,27
+telangana,None,Hyderabad,2022,VEHICLE - STOLEN,43
+telangana,None,Hyderabad,2023,ARSON,37
+telangana,None,Hyderabad,2023,ASSAULT,27
+telangana,None,Hyderabad,2023,BURGLARY,34
+telangana,None,Hyderabad,2023,COUNTERFEITING,34
+telangana,None,Hyderabad,2023,CYBERCRIME,33
+telangana,None,Hyderabad,2023,DOMESTIC VIOLENCE,28
+telangana,None,Hyderabad,2023,DRUG OFFENSE,36
+telangana,None,Hyderabad,2023,EXTORTION,29
+telangana,None,Hyderabad,2023,FIREARM OFFENSE,34
+telangana,None,Hyderabad,2023,FRAUD,26
+telangana,None,Hyderabad,2023,HOMICIDE,33
+telangana,None,Hyderabad,2023,IDENTITY THEFT,33
+telangana,None,Hyderabad,2023,ILLEGAL POSSESSION,42
+telangana,None,Hyderabad,2023,KIDNAPPING,27
+telangana,None,Hyderabad,2023,PUBLIC INTOXICATION,31
+telangana,None,Hyderabad,2023,ROBBERY,26
+telangana,None,Hyderabad,2023,SEXUAL ASSAULT,29
+telangana,None,Hyderabad,2023,SHOPLIFTING,30
+telangana,None,Hyderabad,2023,TRAFFIC VIOLATION,36
+telangana,None,Hyderabad,2023,VANDALISM,32
+telangana,None,Hyderabad,2023,VEHICLE - STOLEN,26
+telangana,None,Hyderabad,2024,ARSON,11
+telangana,None,Hyderabad,2024,ASSAULT,18
+telangana,None,Hyderabad,2024,BURGLARY,16
+telangana,None,Hyderabad,2024,COUNTERFEITING,16
+telangana,None,Hyderabad,2024,CYBERCRIME,18
+telangana,None,Hyderabad,2024,DOMESTIC VIOLENCE,14
+telangana,None,Hyderabad,2024,DRUG OFFENSE,21
+telangana,None,Hyderabad,2024,EXTORTION,13
+telangana,None,Hyderabad,2024,FIREARM OFFENSE,15
+telangana,None,Hyderabad,2024,FRAUD,14
+telangana,None,Hyderabad,2024,HOMICIDE,15
+telangana,None,Hyderabad,2024,IDENTITY THEFT,13
+telangana,None,Hyderabad,2024,ILLEGAL POSSESSION,14
+telangana,None,Hyderabad,2024,KIDNAPPING,16
+telangana,None,Hyderabad,2024,PUBLIC INTOXICATION,21
+telangana,None,Hyderabad,2024,ROBBERY,18
+telangana,None,Hyderabad,2024,SEXUAL ASSAULT,14
+telangana,None,Hyderabad,2024,SHOPLIFTING,11
+telangana,None,Hyderabad,2024,TRAFFIC VIOLATION,16
+telangana,None,Hyderabad,2024,VANDALISM,13
+telangana,None,Hyderabad,2024,VEHICLE - STOLEN,20
+uttar pradesh,None,Agra,2020,ARSON,10
+uttar pradesh,None,Agra,2020,ASSAULT,12
+uttar pradesh,None,Agra,2020,BURGLARY,10
+uttar pradesh,None,Agra,2020,COUNTERFEITING,10
+uttar pradesh,None,Agra,2020,CYBERCRIME,5
+uttar pradesh,None,Agra,2020,DOMESTIC VIOLENCE,8
+uttar pradesh,None,Agra,2020,DRUG OFFENSE,6
+uttar pradesh,None,Agra,2020,EXTORTION,4
+uttar pradesh,None,Agra,2020,FIREARM OFFENSE,13
+uttar pradesh,None,Agra,2020,FRAUD,4
+uttar pradesh,None,Agra,2020,HOMICIDE,12
+uttar pradesh,None,Agra,2020,IDENTITY THEFT,9
+uttar pradesh,None,Agra,2020,ILLEGAL POSSESSION,5
+uttar pradesh,None,Agra,2020,KIDNAPPING,8
+uttar pradesh,None,Agra,2020,PUBLIC INTOXICATION,10
+uttar pradesh,None,Agra,2020,ROBBERY,10
+uttar pradesh,None,Agra,2020,SEXUAL ASSAULT,5
+uttar pradesh,None,Agra,2020,SHOPLIFTING,13
+uttar pradesh,None,Agra,2020,TRAFFIC VIOLATION,9
+uttar pradesh,None,Agra,2020,VANDALISM,9
+uttar pradesh,None,Agra,2020,VEHICLE - STOLEN,5
+uttar pradesh,None,Agra,2021,ARSON,6
+uttar pradesh,None,Agra,2021,ASSAULT,8
+uttar pradesh,None,Agra,2021,BURGLARY,5
+uttar pradesh,None,Agra,2021,COUNTERFEITING,8
+uttar pradesh,None,Agra,2021,CYBERCRIME,2
+uttar pradesh,None,Agra,2021,DOMESTIC VIOLENCE,12
+uttar pradesh,None,Agra,2021,DRUG OFFENSE,8
+uttar pradesh,None,Agra,2021,EXTORTION,12
+uttar pradesh,None,Agra,2021,FIREARM OFFENSE,9
+uttar pradesh,None,Agra,2021,FRAUD,5
+uttar pradesh,None,Agra,2021,HOMICIDE,3
+uttar pradesh,None,Agra,2021,IDENTITY THEFT,8
+uttar pradesh,None,Agra,2021,ILLEGAL POSSESSION,9
+uttar pradesh,None,Agra,2021,KIDNAPPING,6
+uttar pradesh,None,Agra,2021,PUBLIC INTOXICATION,12
+uttar pradesh,None,Agra,2021,ROBBERY,8
+uttar pradesh,None,Agra,2021,SEXUAL ASSAULT,8
+uttar pradesh,None,Agra,2021,SHOPLIFTING,7
+uttar pradesh,None,Agra,2021,TRAFFIC VIOLATION,6
+uttar pradesh,None,Agra,2021,VANDALISM,8
+uttar pradesh,None,Agra,2021,VEHICLE - STOLEN,6
+uttar pradesh,None,Agra,2022,ARSON,12
+uttar pradesh,None,Agra,2022,ASSAULT,8
+uttar pradesh,None,Agra,2022,BURGLARY,4
+uttar pradesh,None,Agra,2022,COUNTERFEITING,8
+uttar pradesh,None,Agra,2022,CYBERCRIME,9
+uttar pradesh,None,Agra,2022,DOMESTIC VIOLENCE,6
+uttar pradesh,None,Agra,2022,DRUG OFFENSE,6
+uttar pradesh,None,Agra,2022,EXTORTION,13
+uttar pradesh,None,Agra,2022,FIREARM OFFENSE,4
+uttar pradesh,None,Agra,2022,FRAUD,5
+uttar pradesh,None,Agra,2022,HOMICIDE,9
+uttar pradesh,None,Agra,2022,IDENTITY THEFT,8
+uttar pradesh,None,Agra,2022,ILLEGAL POSSESSION,5
+uttar pradesh,None,Agra,2022,KIDNAPPING,7
+uttar pradesh,None,Agra,2022,PUBLIC INTOXICATION,9
+uttar pradesh,None,Agra,2022,ROBBERY,9
+uttar pradesh,None,Agra,2022,SEXUAL ASSAULT,8
+uttar pradesh,None,Agra,2022,SHOPLIFTING,10
+uttar pradesh,None,Agra,2022,TRAFFIC VIOLATION,10
+uttar pradesh,None,Agra,2022,VANDALISM,4
+uttar pradesh,None,Agra,2022,VEHICLE - STOLEN,12
+uttar pradesh,None,Agra,2023,ARSON,11
+uttar pradesh,None,Agra,2023,ASSAULT,13
+uttar pradesh,None,Agra,2023,BURGLARY,8
+uttar pradesh,None,Agra,2023,COUNTERFEITING,7
+uttar pradesh,None,Agra,2023,CYBERCRIME,9
+uttar pradesh,None,Agra,2023,DOMESTIC VIOLENCE,8
+uttar pradesh,None,Agra,2023,DRUG OFFENSE,9
+uttar pradesh,None,Agra,2023,EXTORTION,3
+uttar pradesh,None,Agra,2023,FIREARM OFFENSE,9
+uttar pradesh,None,Agra,2023,FRAUD,11
+uttar pradesh,None,Agra,2023,HOMICIDE,6
+uttar pradesh,None,Agra,2023,IDENTITY THEFT,6
+uttar pradesh,None,Agra,2023,ILLEGAL POSSESSION,5
+uttar pradesh,None,Agra,2023,KIDNAPPING,10
+uttar pradesh,None,Agra,2023,PUBLIC INTOXICATION,7
+uttar pradesh,None,Agra,2023,ROBBERY,8
+uttar pradesh,None,Agra,2023,SEXUAL ASSAULT,7
+uttar pradesh,None,Agra,2023,SHOPLIFTING,3
+uttar pradesh,None,Agra,2023,TRAFFIC VIOLATION,5
+uttar pradesh,None,Agra,2023,VANDALISM,7
+uttar pradesh,None,Agra,2023,VEHICLE - STOLEN,10
+uttar pradesh,None,Agra,2024,ARSON,4
+uttar pradesh,None,Agra,2024,ASSAULT,6
+uttar pradesh,None,Agra,2024,BURGLARY,5
+uttar pradesh,None,Agra,2024,COUNTERFEITING,7
+uttar pradesh,None,Agra,2024,CYBERCRIME,7
+uttar pradesh,None,Agra,2024,DOMESTIC VIOLENCE,4
+uttar pradesh,None,Agra,2024,DRUG OFFENSE,2
+uttar pradesh,None,Agra,2024,EXTORTION,7
+uttar pradesh,None,Agra,2024,FIREARM OFFENSE,5
+uttar pradesh,None,Agra,2024,FRAUD,8
+uttar pradesh,None,Agra,2024,HOMICIDE,2
+uttar pradesh,None,Agra,2024,IDENTITY THEFT,6
+uttar pradesh,None,Agra,2024,ILLEGAL POSSESSION,6
+uttar pradesh,None,Agra,2024,KIDNAPPING,7
+uttar pradesh,None,Agra,2024,PUBLIC INTOXICATION,5
+uttar pradesh,None,Agra,2024,ROBBERY,5
+uttar pradesh,None,Agra,2024,SEXUAL ASSAULT,2
+uttar pradesh,None,Agra,2024,SHOPLIFTING,4
+uttar pradesh,None,Agra,2024,TRAFFIC VIOLATION,3
+uttar pradesh,None,Agra,2024,VANDALISM,5
+uttar pradesh,None,Agra,2024,VEHICLE - STOLEN,3
+uttar pradesh,None,Ghaziabad,2020,ARSON,6
+uttar pradesh,None,Ghaziabad,2020,ASSAULT,9
+uttar pradesh,None,Ghaziabad,2020,BURGLARY,4
+uttar pradesh,None,Ghaziabad,2020,COUNTERFEITING,11
+uttar pradesh,None,Ghaziabad,2020,CYBERCRIME,5
+uttar pradesh,None,Ghaziabad,2020,DOMESTIC VIOLENCE,6
+uttar pradesh,None,Ghaziabad,2020,DRUG OFFENSE,8
+uttar pradesh,None,Ghaziabad,2020,EXTORTION,8
+uttar pradesh,None,Ghaziabad,2020,FIREARM OFFENSE,6
+uttar pradesh,None,Ghaziabad,2020,FRAUD,7
+uttar pradesh,None,Ghaziabad,2020,HOMICIDE,5
+uttar pradesh,None,Ghaziabad,2020,IDENTITY THEFT,13
+uttar pradesh,None,Ghaziabad,2020,ILLEGAL POSSESSION,7
+uttar pradesh,None,Ghaziabad,2020,KIDNAPPING,12
+uttar pradesh,None,Ghaziabad,2020,PUBLIC INTOXICATION,9
+uttar pradesh,None,Ghaziabad,2020,ROBBERY,7
+uttar pradesh,None,Ghaziabad,2020,SEXUAL ASSAULT,5
+uttar pradesh,None,Ghaziabad,2020,SHOPLIFTING,5
+uttar pradesh,None,Ghaziabad,2020,TRAFFIC VIOLATION,8
+uttar pradesh,None,Ghaziabad,2020,VANDALISM,5
+uttar pradesh,None,Ghaziabad,2020,VEHICLE - STOLEN,12
+uttar pradesh,None,Ghaziabad,2021,ARSON,10
+uttar pradesh,None,Ghaziabad,2021,ASSAULT,2
+uttar pradesh,None,Ghaziabad,2021,BURGLARY,9
+uttar pradesh,None,Ghaziabad,2021,COUNTERFEITING,5
+uttar pradesh,None,Ghaziabad,2021,CYBERCRIME,6
+uttar pradesh,None,Ghaziabad,2021,DOMESTIC VIOLENCE,13
+uttar pradesh,None,Ghaziabad,2021,DRUG OFFENSE,10
+uttar pradesh,None,Ghaziabad,2021,EXTORTION,11
+uttar pradesh,None,Ghaziabad,2021,FIREARM OFFENSE,6
+uttar pradesh,None,Ghaziabad,2021,FRAUD,10
+uttar pradesh,None,Ghaziabad,2021,HOMICIDE,8
+uttar pradesh,None,Ghaziabad,2021,IDENTITY THEFT,5
+uttar pradesh,None,Ghaziabad,2021,ILLEGAL POSSESSION,8
+uttar pradesh,None,Ghaziabad,2021,KIDNAPPING,4
+uttar pradesh,None,Ghaziabad,2021,PUBLIC INTOXICATION,9
+uttar pradesh,None,Ghaziabad,2021,ROBBERY,11
+uttar pradesh,None,Ghaziabad,2021,SEXUAL ASSAULT,7
+uttar pradesh,None,Ghaziabad,2021,SHOPLIFTING,5
+uttar pradesh,None,Ghaziabad,2021,TRAFFIC VIOLATION,6
+uttar pradesh,None,Ghaziabad,2021,VANDALISM,6
+uttar pradesh,None,Ghaziabad,2021,VEHICLE - STOLEN,5
+uttar pradesh,None,Ghaziabad,2022,ARSON,4
+uttar pradesh,None,Ghaziabad,2022,ASSAULT,10
+uttar pradesh,None,Ghaziabad,2022,BURGLARY,9
+uttar pradesh,None,Ghaziabad,2022,COUNTERFEITING,7
+uttar pradesh,None,Ghaziabad,2022,CYBERCRIME,4
+uttar pradesh,None,Ghaziabad,2022,DOMESTIC VIOLENCE,9
+uttar pradesh,None,Ghaziabad,2022,DRUG OFFENSE,6
+uttar pradesh,None,Ghaziabad,2022,EXTORTION,6
+uttar pradesh,None,Ghaziabad,2022,FIREARM OFFENSE,6
+uttar pradesh,None,Ghaziabad,2022,FRAUD,4
+uttar pradesh,None,Ghaziabad,2022,HOMICIDE,5
+uttar pradesh,None,Ghaziabad,2022,IDENTITY THEFT,4
+uttar pradesh,None,Ghaziabad,2022,ILLEGAL POSSESSION,5
+uttar pradesh,None,Ghaziabad,2022,KIDNAPPING,9
+uttar pradesh,None,Ghaziabad,2022,PUBLIC INTOXICATION,7
+uttar pradesh,None,Ghaziabad,2022,ROBBERY,7
+uttar pradesh,None,Ghaziabad,2022,SEXUAL ASSAULT,7
+uttar pradesh,None,Ghaziabad,2022,SHOPLIFTING,8
+uttar pradesh,None,Ghaziabad,2022,TRAFFIC VIOLATION,13
+uttar pradesh,None,Ghaziabad,2022,VANDALISM,9
+uttar pradesh,None,Ghaziabad,2022,VEHICLE - STOLEN,4
+uttar pradesh,None,Ghaziabad,2023,ARSON,12
+uttar pradesh,None,Ghaziabad,2023,ASSAULT,7
+uttar pradesh,None,Ghaziabad,2023,BURGLARY,11
+uttar pradesh,None,Ghaziabad,2023,COUNTERFEITING,5
+uttar pradesh,None,Ghaziabad,2023,CYBERCRIME,7
+uttar pradesh,None,Ghaziabad,2023,DOMESTIC VIOLENCE,9
+uttar pradesh,None,Ghaziabad,2023,DRUG OFFENSE,9
+uttar pradesh,None,Ghaziabad,2023,EXTORTION,7
+uttar pradesh,None,Ghaziabad,2023,FIREARM OFFENSE,4
+uttar pradesh,None,Ghaziabad,2023,FRAUD,11
+uttar pradesh,None,Ghaziabad,2023,HOMICIDE,6
+uttar pradesh,None,Ghaziabad,2023,IDENTITY THEFT,7
+uttar pradesh,None,Ghaziabad,2023,ILLEGAL POSSESSION,9
+uttar pradesh,None,Ghaziabad,2023,KIDNAPPING,7
+uttar pradesh,None,Ghaziabad,2023,PUBLIC INTOXICATION,9
+uttar pradesh,None,Ghaziabad,2023,ROBBERY,10
+uttar pradesh,None,Ghaziabad,2023,SEXUAL ASSAULT,9
+uttar pradesh,None,Ghaziabad,2023,SHOPLIFTING,6
+uttar pradesh,None,Ghaziabad,2023,TRAFFIC VIOLATION,10
+uttar pradesh,None,Ghaziabad,2023,VANDALISM,4
+uttar pradesh,None,Ghaziabad,2023,VEHICLE - STOLEN,5
+uttar pradesh,None,Ghaziabad,2024,ARSON,3
+uttar pradesh,None,Ghaziabad,2024,ASSAULT,2
+uttar pradesh,None,Ghaziabad,2024,BURGLARY,4
+uttar pradesh,None,Ghaziabad,2024,COUNTERFEITING,4
+uttar pradesh,None,Ghaziabad,2024,CYBERCRIME,5
+uttar pradesh,None,Ghaziabad,2024,DOMESTIC VIOLENCE,3
+uttar pradesh,None,Ghaziabad,2024,DRUG OFFENSE,7
+uttar pradesh,None,Ghaziabad,2024,FIREARM OFFENSE,2
+uttar pradesh,None,Ghaziabad,2024,FRAUD,2
+uttar pradesh,None,Ghaziabad,2024,HOMICIDE,4
+uttar pradesh,None,Ghaziabad,2024,IDENTITY THEFT,4
+uttar pradesh,None,Ghaziabad,2024,ILLEGAL POSSESSION,4
+uttar pradesh,None,Ghaziabad,2024,KIDNAPPING,4
+uttar pradesh,None,Ghaziabad,2024,PUBLIC INTOXICATION,6
+uttar pradesh,None,Ghaziabad,2024,ROBBERY,6
+uttar pradesh,None,Ghaziabad,2024,SEXUAL ASSAULT,5
+uttar pradesh,None,Ghaziabad,2024,SHOPLIFTING,3
+uttar pradesh,None,Ghaziabad,2024,TRAFFIC VIOLATION,5
+uttar pradesh,None,Ghaziabad,2024,VANDALISM,7
+uttar pradesh,None,Ghaziabad,2024,VEHICLE - STOLEN,3
+uttar pradesh,None,Kanpur,2020,ARSON,12
+uttar pradesh,None,Kanpur,2020,ASSAULT,10
+uttar pradesh,None,Kanpur,2020,BURGLARY,11
+uttar pradesh,None,Kanpur,2020,COUNTERFEITING,20
+uttar pradesh,None,Kanpur,2020,CYBERCRIME,8
+uttar pradesh,None,Kanpur,2020,DOMESTIC VIOLENCE,12
+uttar pradesh,None,Kanpur,2020,DRUG OFFENSE,8
+uttar pradesh,None,Kanpur,2020,EXTORTION,18
+uttar pradesh,None,Kanpur,2020,FIREARM OFFENSE,4
+uttar pradesh,None,Kanpur,2020,FRAUD,12
+uttar pradesh,None,Kanpur,2020,HOMICIDE,7
+uttar pradesh,None,Kanpur,2020,IDENTITY THEFT,9
+uttar pradesh,None,Kanpur,2020,ILLEGAL POSSESSION,11
+uttar pradesh,None,Kanpur,2020,KIDNAPPING,16
+uttar pradesh,None,Kanpur,2020,PUBLIC INTOXICATION,10
+uttar pradesh,None,Kanpur,2020,ROBBERY,12
+uttar pradesh,None,Kanpur,2020,SEXUAL ASSAULT,10
+uttar pradesh,None,Kanpur,2020,SHOPLIFTING,14
+uttar pradesh,None,Kanpur,2020,TRAFFIC VIOLATION,11
+uttar pradesh,None,Kanpur,2020,VANDALISM,16
+uttar pradesh,None,Kanpur,2020,VEHICLE - STOLEN,12
+uttar pradesh,None,Kanpur,2021,ARSON,7
+uttar pradesh,None,Kanpur,2021,ASSAULT,10
+uttar pradesh,None,Kanpur,2021,BURGLARY,13
+uttar pradesh,None,Kanpur,2021,COUNTERFEITING,14
+uttar pradesh,None,Kanpur,2021,CYBERCRIME,5
+uttar pradesh,None,Kanpur,2021,DOMESTIC VIOLENCE,10
+uttar pradesh,None,Kanpur,2021,DRUG OFFENSE,13
+uttar pradesh,None,Kanpur,2021,EXTORTION,9
+uttar pradesh,None,Kanpur,2021,FIREARM OFFENSE,7
+uttar pradesh,None,Kanpur,2021,FRAUD,10
+uttar pradesh,None,Kanpur,2021,HOMICIDE,10
+uttar pradesh,None,Kanpur,2021,IDENTITY THEFT,14
+uttar pradesh,None,Kanpur,2021,ILLEGAL POSSESSION,9
+uttar pradesh,None,Kanpur,2021,KIDNAPPING,13
+uttar pradesh,None,Kanpur,2021,PUBLIC INTOXICATION,10
+uttar pradesh,None,Kanpur,2021,ROBBERY,9
+uttar pradesh,None,Kanpur,2021,SEXUAL ASSAULT,6
+uttar pradesh,None,Kanpur,2021,SHOPLIFTING,15
+uttar pradesh,None,Kanpur,2021,TRAFFIC VIOLATION,10
+uttar pradesh,None,Kanpur,2021,VANDALISM,17
+uttar pradesh,None,Kanpur,2021,VEHICLE - STOLEN,12
+uttar pradesh,None,Kanpur,2022,ARSON,12
+uttar pradesh,None,Kanpur,2022,ASSAULT,18
+uttar pradesh,None,Kanpur,2022,BURGLARY,9
+uttar pradesh,None,Kanpur,2022,COUNTERFEITING,10
+uttar pradesh,None,Kanpur,2022,CYBERCRIME,12
+uttar pradesh,None,Kanpur,2022,DOMESTIC VIOLENCE,13
+uttar pradesh,None,Kanpur,2022,DRUG OFFENSE,15
+uttar pradesh,None,Kanpur,2022,EXTORTION,7
+uttar pradesh,None,Kanpur,2022,FIREARM OFFENSE,15
+uttar pradesh,None,Kanpur,2022,FRAUD,12
+uttar pradesh,None,Kanpur,2022,HOMICIDE,16
+uttar pradesh,None,Kanpur,2022,IDENTITY THEFT,13
+uttar pradesh,None,Kanpur,2022,ILLEGAL POSSESSION,10
+uttar pradesh,None,Kanpur,2022,KIDNAPPING,16
+uttar pradesh,None,Kanpur,2022,PUBLIC INTOXICATION,20
+uttar pradesh,None,Kanpur,2022,ROBBERY,13
+uttar pradesh,None,Kanpur,2022,SEXUAL ASSAULT,9
+uttar pradesh,None,Kanpur,2022,SHOPLIFTING,9
+uttar pradesh,None,Kanpur,2022,TRAFFIC VIOLATION,11
+uttar pradesh,None,Kanpur,2022,VANDALISM,15
+uttar pradesh,None,Kanpur,2022,VEHICLE - STOLEN,13
+uttar pradesh,None,Kanpur,2023,ARSON,16
+uttar pradesh,None,Kanpur,2023,ASSAULT,13
+uttar pradesh,None,Kanpur,2023,BURGLARY,12
+uttar pradesh,None,Kanpur,2023,COUNTERFEITING,11
+uttar pradesh,None,Kanpur,2023,CYBERCRIME,6
+uttar pradesh,None,Kanpur,2023,DOMESTIC VIOLENCE,12
+uttar pradesh,None,Kanpur,2023,DRUG OFFENSE,14
+uttar pradesh,None,Kanpur,2023,EXTORTION,12
+uttar pradesh,None,Kanpur,2023,FIREARM OFFENSE,9
+uttar pradesh,None,Kanpur,2023,FRAUD,14
+uttar pradesh,None,Kanpur,2023,HOMICIDE,6
+uttar pradesh,None,Kanpur,2023,IDENTITY THEFT,10
+uttar pradesh,None,Kanpur,2023,ILLEGAL POSSESSION,16
+uttar pradesh,None,Kanpur,2023,KIDNAPPING,10
+uttar pradesh,None,Kanpur,2023,PUBLIC INTOXICATION,11
+uttar pradesh,None,Kanpur,2023,ROBBERY,11
+uttar pradesh,None,Kanpur,2023,SEXUAL ASSAULT,9
+uttar pradesh,None,Kanpur,2023,SHOPLIFTING,10
+uttar pradesh,None,Kanpur,2023,TRAFFIC VIOLATION,10
+uttar pradesh,None,Kanpur,2023,VANDALISM,11
+uttar pradesh,None,Kanpur,2023,VEHICLE - STOLEN,14
+uttar pradesh,None,Kanpur,2024,ARSON,10
+uttar pradesh,None,Kanpur,2024,ASSAULT,7
+uttar pradesh,None,Kanpur,2024,BURGLARY,7
+uttar pradesh,None,Kanpur,2024,COUNTERFEITING,9
+uttar pradesh,None,Kanpur,2024,CYBERCRIME,7
+uttar pradesh,None,Kanpur,2024,DOMESTIC VIOLENCE,3
+uttar pradesh,None,Kanpur,2024,DRUG OFFENSE,3
+uttar pradesh,None,Kanpur,2024,EXTORTION,6
+uttar pradesh,None,Kanpur,2024,FIREARM OFFENSE,5
+uttar pradesh,None,Kanpur,2024,FRAUD,8
+uttar pradesh,None,Kanpur,2024,HOMICIDE,7
+uttar pradesh,None,Kanpur,2024,IDENTITY THEFT,7
+uttar pradesh,None,Kanpur,2024,ILLEGAL POSSESSION,10
+uttar pradesh,None,Kanpur,2024,KIDNAPPING,8
+uttar pradesh,None,Kanpur,2024,PUBLIC INTOXICATION,7
+uttar pradesh,None,Kanpur,2024,ROBBERY,3
+uttar pradesh,None,Kanpur,2024,SEXUAL ASSAULT,5
+uttar pradesh,None,Kanpur,2024,SHOPLIFTING,5
+uttar pradesh,None,Kanpur,2024,TRAFFIC VIOLATION,5
+uttar pradesh,None,Kanpur,2024,VANDALISM,9
+uttar pradesh,None,Kanpur,2024,VEHICLE - STOLEN,10
+uttar pradesh,None,Lucknow,2020,ARSON,14
+uttar pradesh,None,Lucknow,2020,ASSAULT,20
+uttar pradesh,None,Lucknow,2020,BURGLARY,16
+uttar pradesh,None,Lucknow,2020,COUNTERFEITING,12
+uttar pradesh,None,Lucknow,2020,CYBERCRIME,19
+uttar pradesh,None,Lucknow,2020,DOMESTIC VIOLENCE,14
+uttar pradesh,None,Lucknow,2020,DRUG OFFENSE,19
+uttar pradesh,None,Lucknow,2020,EXTORTION,16
+uttar pradesh,None,Lucknow,2020,FIREARM OFFENSE,17
+uttar pradesh,None,Lucknow,2020,FRAUD,14
+uttar pradesh,None,Lucknow,2020,HOMICIDE,14
+uttar pradesh,None,Lucknow,2020,IDENTITY THEFT,15
+uttar pradesh,None,Lucknow,2020,ILLEGAL POSSESSION,11
+uttar pradesh,None,Lucknow,2020,KIDNAPPING,13
+uttar pradesh,None,Lucknow,2020,PUBLIC INTOXICATION,15
+uttar pradesh,None,Lucknow,2020,ROBBERY,13
+uttar pradesh,None,Lucknow,2020,SEXUAL ASSAULT,9
+uttar pradesh,None,Lucknow,2020,SHOPLIFTING,10
+uttar pradesh,None,Lucknow,2020,TRAFFIC VIOLATION,20
+uttar pradesh,None,Lucknow,2020,VANDALISM,12
+uttar pradesh,None,Lucknow,2020,VEHICLE - STOLEN,13
+uttar pradesh,None,Lucknow,2021,ARSON,16
+uttar pradesh,None,Lucknow,2021,ASSAULT,18
+uttar pradesh,None,Lucknow,2021,BURGLARY,21
+uttar pradesh,None,Lucknow,2021,COUNTERFEITING,9
+uttar pradesh,None,Lucknow,2021,CYBERCRIME,8
+uttar pradesh,None,Lucknow,2021,DOMESTIC VIOLENCE,12
+uttar pradesh,None,Lucknow,2021,DRUG OFFENSE,13
+uttar pradesh,None,Lucknow,2021,EXTORTION,25
+uttar pradesh,None,Lucknow,2021,FIREARM OFFENSE,12
+uttar pradesh,None,Lucknow,2021,FRAUD,16
+uttar pradesh,None,Lucknow,2021,HOMICIDE,28
+uttar pradesh,None,Lucknow,2021,IDENTITY THEFT,12
+uttar pradesh,None,Lucknow,2021,ILLEGAL POSSESSION,19
+uttar pradesh,None,Lucknow,2021,KIDNAPPING,21
+uttar pradesh,None,Lucknow,2021,PUBLIC INTOXICATION,14
+uttar pradesh,None,Lucknow,2021,ROBBERY,17
+uttar pradesh,None,Lucknow,2021,SEXUAL ASSAULT,13
+uttar pradesh,None,Lucknow,2021,SHOPLIFTING,13
+uttar pradesh,None,Lucknow,2021,TRAFFIC VIOLATION,16
+uttar pradesh,None,Lucknow,2021,VANDALISM,19
+uttar pradesh,None,Lucknow,2021,VEHICLE - STOLEN,16
+uttar pradesh,None,Lucknow,2022,ARSON,15
+uttar pradesh,None,Lucknow,2022,ASSAULT,15
+uttar pradesh,None,Lucknow,2022,BURGLARY,9
+uttar pradesh,None,Lucknow,2022,COUNTERFEITING,9
+uttar pradesh,None,Lucknow,2022,CYBERCRIME,9
+uttar pradesh,None,Lucknow,2022,DOMESTIC VIOLENCE,16
+uttar pradesh,None,Lucknow,2022,DRUG OFFENSE,17
+uttar pradesh,None,Lucknow,2022,EXTORTION,13
+uttar pradesh,None,Lucknow,2022,FIREARM OFFENSE,17
+uttar pradesh,None,Lucknow,2022,FRAUD,15
+uttar pradesh,None,Lucknow,2022,HOMICIDE,14
+uttar pradesh,None,Lucknow,2022,IDENTITY THEFT,16
+uttar pradesh,None,Lucknow,2022,ILLEGAL POSSESSION,9
+uttar pradesh,None,Lucknow,2022,KIDNAPPING,16
+uttar pradesh,None,Lucknow,2022,PUBLIC INTOXICATION,16
+uttar pradesh,None,Lucknow,2022,ROBBERY,14
+uttar pradesh,None,Lucknow,2022,SEXUAL ASSAULT,12
+uttar pradesh,None,Lucknow,2022,SHOPLIFTING,21
+uttar pradesh,None,Lucknow,2022,TRAFFIC VIOLATION,16
+uttar pradesh,None,Lucknow,2022,VANDALISM,15
+uttar pradesh,None,Lucknow,2022,VEHICLE - STOLEN,7
+uttar pradesh,None,Lucknow,2023,ARSON,20
+uttar pradesh,None,Lucknow,2023,ASSAULT,14
+uttar pradesh,None,Lucknow,2023,BURGLARY,15
+uttar pradesh,None,Lucknow,2023,COUNTERFEITING,17
+uttar pradesh,None,Lucknow,2023,CYBERCRIME,19
+uttar pradesh,None,Lucknow,2023,DOMESTIC VIOLENCE,16
+uttar pradesh,None,Lucknow,2023,DRUG OFFENSE,10
+uttar pradesh,None,Lucknow,2023,EXTORTION,9
+uttar pradesh,None,Lucknow,2023,FIREARM OFFENSE,18
+uttar pradesh,None,Lucknow,2023,FRAUD,16
+uttar pradesh,None,Lucknow,2023,HOMICIDE,18
+uttar pradesh,None,Lucknow,2023,IDENTITY THEFT,13
+uttar pradesh,None,Lucknow,2023,ILLEGAL POSSESSION,10
+uttar pradesh,None,Lucknow,2023,KIDNAPPING,17
+uttar pradesh,None,Lucknow,2023,PUBLIC INTOXICATION,22
+uttar pradesh,None,Lucknow,2023,ROBBERY,18
+uttar pradesh,None,Lucknow,2023,SEXUAL ASSAULT,18
+uttar pradesh,None,Lucknow,2023,SHOPLIFTING,19
+uttar pradesh,None,Lucknow,2023,TRAFFIC VIOLATION,24
+uttar pradesh,None,Lucknow,2023,VANDALISM,23
+uttar pradesh,None,Lucknow,2023,VEHICLE - STOLEN,15
+uttar pradesh,None,Lucknow,2024,ARSON,7
+uttar pradesh,None,Lucknow,2024,ASSAULT,4
+uttar pradesh,None,Lucknow,2024,BURGLARY,5
+uttar pradesh,None,Lucknow,2024,COUNTERFEITING,10
+uttar pradesh,None,Lucknow,2024,CYBERCRIME,7
+uttar pradesh,None,Lucknow,2024,DOMESTIC VIOLENCE,9
+uttar pradesh,None,Lucknow,2024,DRUG OFFENSE,9
+uttar pradesh,None,Lucknow,2024,EXTORTION,12
+uttar pradesh,None,Lucknow,2024,FIREARM OFFENSE,10
+uttar pradesh,None,Lucknow,2024,FRAUD,5
+uttar pradesh,None,Lucknow,2024,HOMICIDE,6
+uttar pradesh,None,Lucknow,2024,IDENTITY THEFT,7
+uttar pradesh,None,Lucknow,2024,ILLEGAL POSSESSION,9
+uttar pradesh,None,Lucknow,2024,KIDNAPPING,3
+uttar pradesh,None,Lucknow,2024,PUBLIC INTOXICATION,12
+uttar pradesh,None,Lucknow,2024,ROBBERY,10
+uttar pradesh,None,Lucknow,2024,SEXUAL ASSAULT,13
+uttar pradesh,None,Lucknow,2024,SHOPLIFTING,6
+uttar pradesh,None,Lucknow,2024,TRAFFIC VIOLATION,7
+uttar pradesh,None,Lucknow,2024,VANDALISM,8
+uttar pradesh,None,Lucknow,2024,VEHICLE - STOLEN,11
+uttar pradesh,None,Meerut,2020,ARSON,4
+uttar pradesh,None,Meerut,2020,ASSAULT,3
+uttar pradesh,None,Meerut,2020,BURGLARY,6
+uttar pradesh,None,Meerut,2020,COUNTERFEITING,6
+uttar pradesh,None,Meerut,2020,CYBERCRIME,5
+uttar pradesh,None,Meerut,2020,DOMESTIC VIOLENCE,7
+uttar pradesh,None,Meerut,2020,DRUG OFFENSE,8
+uttar pradesh,None,Meerut,2020,EXTORTION,2
+uttar pradesh,None,Meerut,2020,FIREARM OFFENSE,9
+uttar pradesh,None,Meerut,2020,FRAUD,2
+uttar pradesh,None,Meerut,2020,HOMICIDE,5
+uttar pradesh,None,Meerut,2020,IDENTITY THEFT,2
+uttar pradesh,None,Meerut,2020,ILLEGAL POSSESSION,3
+uttar pradesh,None,Meerut,2020,KIDNAPPING,7
+uttar pradesh,None,Meerut,2020,PUBLIC INTOXICATION,2
+uttar pradesh,None,Meerut,2020,ROBBERY,7
+uttar pradesh,None,Meerut,2020,SEXUAL ASSAULT,6
+uttar pradesh,None,Meerut,2020,SHOPLIFTING,3
+uttar pradesh,None,Meerut,2020,TRAFFIC VIOLATION,4
+uttar pradesh,None,Meerut,2020,VANDALISM,3
+uttar pradesh,None,Meerut,2020,VEHICLE - STOLEN,5
+uttar pradesh,None,Meerut,2021,ARSON,2
+uttar pradesh,None,Meerut,2021,ASSAULT,4
+uttar pradesh,None,Meerut,2021,BURGLARY,11
+uttar pradesh,None,Meerut,2021,COUNTERFEITING,1
+uttar pradesh,None,Meerut,2021,CYBERCRIME,2
+uttar pradesh,None,Meerut,2021,DOMESTIC VIOLENCE,3
+uttar pradesh,None,Meerut,2021,DRUG OFFENSE,4
+uttar pradesh,None,Meerut,2021,EXTORTION,3
+uttar pradesh,None,Meerut,2021,FIREARM OFFENSE,5
+uttar pradesh,None,Meerut,2021,FRAUD,1
+uttar pradesh,None,Meerut,2021,HOMICIDE,3
+uttar pradesh,None,Meerut,2021,IDENTITY THEFT,1
+uttar pradesh,None,Meerut,2021,ILLEGAL POSSESSION,2
+uttar pradesh,None,Meerut,2021,KIDNAPPING,2
+uttar pradesh,None,Meerut,2021,PUBLIC INTOXICATION,1
+uttar pradesh,None,Meerut,2021,ROBBERY,3
+uttar pradesh,None,Meerut,2021,SEXUAL ASSAULT,5
+uttar pradesh,None,Meerut,2021,SHOPLIFTING,2
+uttar pradesh,None,Meerut,2021,TRAFFIC VIOLATION,3
+uttar pradesh,None,Meerut,2021,VANDALISM,5
+uttar pradesh,None,Meerut,2022,ARSON,5
+uttar pradesh,None,Meerut,2022,ASSAULT,5
+uttar pradesh,None,Meerut,2022,BURGLARY,1
+uttar pradesh,None,Meerut,2022,COUNTERFEITING,4
+uttar pradesh,None,Meerut,2022,CYBERCRIME,5
+uttar pradesh,None,Meerut,2022,DOMESTIC VIOLENCE,5
+uttar pradesh,None,Meerut,2022,EXTORTION,4
+uttar pradesh,None,Meerut,2022,FIREARM OFFENSE,3
+uttar pradesh,None,Meerut,2022,FRAUD,6
+uttar pradesh,None,Meerut,2022,HOMICIDE,5
+uttar pradesh,None,Meerut,2022,IDENTITY THEFT,4
+uttar pradesh,None,Meerut,2022,ILLEGAL POSSESSION,4
+uttar pradesh,None,Meerut,2022,KIDNAPPING,4
+uttar pradesh,None,Meerut,2022,PUBLIC INTOXICATION,2
+uttar pradesh,None,Meerut,2022,ROBBERY,5
+uttar pradesh,None,Meerut,2022,SEXUAL ASSAULT,9
+uttar pradesh,None,Meerut,2022,SHOPLIFTING,3
+uttar pradesh,None,Meerut,2022,TRAFFIC VIOLATION,8
+uttar pradesh,None,Meerut,2022,VANDALISM,2
+uttar pradesh,None,Meerut,2022,VEHICLE - STOLEN,2
+uttar pradesh,None,Meerut,2023,ARSON,5
+uttar pradesh,None,Meerut,2023,ASSAULT,6
+uttar pradesh,None,Meerut,2023,BURGLARY,4
+uttar pradesh,None,Meerut,2023,COUNTERFEITING,2
+uttar pradesh,None,Meerut,2023,CYBERCRIME,4
+uttar pradesh,None,Meerut,2023,DOMESTIC VIOLENCE,9
+uttar pradesh,None,Meerut,2023,DRUG OFFENSE,2
+uttar pradesh,None,Meerut,2023,EXTORTION,5
+uttar pradesh,None,Meerut,2023,FIREARM OFFENSE,4
+uttar pradesh,None,Meerut,2023,FRAUD,4
+uttar pradesh,None,Meerut,2023,HOMICIDE,6
+uttar pradesh,None,Meerut,2023,IDENTITY THEFT,1
+uttar pradesh,None,Meerut,2023,ILLEGAL POSSESSION,4
+uttar pradesh,None,Meerut,2023,KIDNAPPING,4
+uttar pradesh,None,Meerut,2023,PUBLIC INTOXICATION,8
+uttar pradesh,None,Meerut,2023,ROBBERY,3
+uttar pradesh,None,Meerut,2023,SEXUAL ASSAULT,4
+uttar pradesh,None,Meerut,2023,SHOPLIFTING,1
+uttar pradesh,None,Meerut,2023,TRAFFIC VIOLATION,5
+uttar pradesh,None,Meerut,2023,VANDALISM,1
+uttar pradesh,None,Meerut,2023,VEHICLE - STOLEN,6
+uttar pradesh,None,Meerut,2024,ARSON,4
+uttar pradesh,None,Meerut,2024,ASSAULT,2
+uttar pradesh,None,Meerut,2024,BURGLARY,2
+uttar pradesh,None,Meerut,2024,COUNTERFEITING,5
+uttar pradesh,None,Meerut,2024,CYBERCRIME,1
+uttar pradesh,None,Meerut,2024,DOMESTIC VIOLENCE,2
+uttar pradesh,None,Meerut,2024,DRUG OFFENSE,5
+uttar pradesh,None,Meerut,2024,EXTORTION,1
+uttar pradesh,None,Meerut,2024,FIREARM OFFENSE,3
+uttar pradesh,None,Meerut,2024,FRAUD,2
+uttar pradesh,None,Meerut,2024,HOMICIDE,1
+uttar pradesh,None,Meerut,2024,IDENTITY THEFT,6
+uttar pradesh,None,Meerut,2024,ILLEGAL POSSESSION,1
+uttar pradesh,None,Meerut,2024,KIDNAPPING,5
+uttar pradesh,None,Meerut,2024,PUBLIC INTOXICATION,5
+uttar pradesh,None,Meerut,2024,ROBBERY,4
+uttar pradesh,None,Meerut,2024,SHOPLIFTING,2
+uttar pradesh,None,Meerut,2024,TRAFFIC VIOLATION,2
+uttar pradesh,None,Meerut,2024,VANDALISM,2
+uttar pradesh,None,Meerut,2024,VEHICLE - STOLEN,4
+uttar pradesh,None,Varanasi,2020,ARSON,5
+uttar pradesh,None,Varanasi,2020,ASSAULT,3
+uttar pradesh,None,Varanasi,2020,BURGLARY,4
+uttar pradesh,None,Varanasi,2020,COUNTERFEITING,5
+uttar pradesh,None,Varanasi,2020,CYBERCRIME,3
+uttar pradesh,None,Varanasi,2020,DOMESTIC VIOLENCE,7
+uttar pradesh,None,Varanasi,2020,DRUG OFFENSE,3
+uttar pradesh,None,Varanasi,2020,EXTORTION,1
+uttar pradesh,None,Varanasi,2020,FIREARM OFFENSE,6
+uttar pradesh,None,Varanasi,2020,FRAUD,3
+uttar pradesh,None,Varanasi,2020,HOMICIDE,4
+uttar pradesh,None,Varanasi,2020,IDENTITY THEFT,2
+uttar pradesh,None,Varanasi,2020,ILLEGAL POSSESSION,3
+uttar pradesh,None,Varanasi,2020,KIDNAPPING,5
+uttar pradesh,None,Varanasi,2020,PUBLIC INTOXICATION,3
+uttar pradesh,None,Varanasi,2020,ROBBERY,6
+uttar pradesh,None,Varanasi,2020,SEXUAL ASSAULT,3
+uttar pradesh,None,Varanasi,2020,SHOPLIFTING,6
+uttar pradesh,None,Varanasi,2020,TRAFFIC VIOLATION,6
+uttar pradesh,None,Varanasi,2020,VANDALISM,4
+uttar pradesh,None,Varanasi,2020,VEHICLE - STOLEN,4
+uttar pradesh,None,Varanasi,2021,ARSON,6
+uttar pradesh,None,Varanasi,2021,ASSAULT,4
+uttar pradesh,None,Varanasi,2021,BURGLARY,4
+uttar pradesh,None,Varanasi,2021,COUNTERFEITING,1
+uttar pradesh,None,Varanasi,2021,CYBERCRIME,3
+uttar pradesh,None,Varanasi,2021,DOMESTIC VIOLENCE,3
+uttar pradesh,None,Varanasi,2021,DRUG OFFENSE,3
+uttar pradesh,None,Varanasi,2021,EXTORTION,5
+uttar pradesh,None,Varanasi,2021,FIREARM OFFENSE,2
+uttar pradesh,None,Varanasi,2021,FRAUD,4
+uttar pradesh,None,Varanasi,2021,HOMICIDE,4
+uttar pradesh,None,Varanasi,2021,IDENTITY THEFT,1
+uttar pradesh,None,Varanasi,2021,ILLEGAL POSSESSION,2
+uttar pradesh,None,Varanasi,2021,KIDNAPPING,4
+uttar pradesh,None,Varanasi,2021,PUBLIC INTOXICATION,2
+uttar pradesh,None,Varanasi,2021,ROBBERY,8
+uttar pradesh,None,Varanasi,2021,SEXUAL ASSAULT,1
+uttar pradesh,None,Varanasi,2021,SHOPLIFTING,2
+uttar pradesh,None,Varanasi,2021,TRAFFIC VIOLATION,5
+uttar pradesh,None,Varanasi,2021,VANDALISM,5
+uttar pradesh,None,Varanasi,2021,VEHICLE - STOLEN,5
+uttar pradesh,None,Varanasi,2022,ARSON,6
+uttar pradesh,None,Varanasi,2022,ASSAULT,3
+uttar pradesh,None,Varanasi,2022,BURGLARY,7
+uttar pradesh,None,Varanasi,2022,COUNTERFEITING,5
+uttar pradesh,None,Varanasi,2022,CYBERCRIME,4
+uttar pradesh,None,Varanasi,2022,DOMESTIC VIOLENCE,4
+uttar pradesh,None,Varanasi,2022,DRUG OFFENSE,2
+uttar pradesh,None,Varanasi,2022,EXTORTION,6
+uttar pradesh,None,Varanasi,2022,FIREARM OFFENSE,3
+uttar pradesh,None,Varanasi,2022,FRAUD,6
+uttar pradesh,None,Varanasi,2022,HOMICIDE,1
+uttar pradesh,None,Varanasi,2022,IDENTITY THEFT,5
+uttar pradesh,None,Varanasi,2022,ILLEGAL POSSESSION,5
+uttar pradesh,None,Varanasi,2022,KIDNAPPING,6
+uttar pradesh,None,Varanasi,2022,PUBLIC INTOXICATION,7
+uttar pradesh,None,Varanasi,2022,SEXUAL ASSAULT,1
+uttar pradesh,None,Varanasi,2022,SHOPLIFTING,5
+uttar pradesh,None,Varanasi,2022,TRAFFIC VIOLATION,3
+uttar pradesh,None,Varanasi,2022,VANDALISM,4
+uttar pradesh,None,Varanasi,2022,VEHICLE - STOLEN,3
+uttar pradesh,None,Varanasi,2023,ARSON,2
+uttar pradesh,None,Varanasi,2023,ASSAULT,6
+uttar pradesh,None,Varanasi,2023,BURGLARY,4
+uttar pradesh,None,Varanasi,2023,COUNTERFEITING,3
+uttar pradesh,None,Varanasi,2023,CYBERCRIME,1
+uttar pradesh,None,Varanasi,2023,DOMESTIC VIOLENCE,3
+uttar pradesh,None,Varanasi,2023,DRUG OFFENSE,4
+uttar pradesh,None,Varanasi,2023,EXTORTION,1
+uttar pradesh,None,Varanasi,2023,FIREARM OFFENSE,7
+uttar pradesh,None,Varanasi,2023,FRAUD,1
+uttar pradesh,None,Varanasi,2023,HOMICIDE,2
+uttar pradesh,None,Varanasi,2023,IDENTITY THEFT,5
+uttar pradesh,None,Varanasi,2023,ILLEGAL POSSESSION,5
+uttar pradesh,None,Varanasi,2023,KIDNAPPING,3
+uttar pradesh,None,Varanasi,2023,PUBLIC INTOXICATION,5
+uttar pradesh,None,Varanasi,2023,ROBBERY,2
+uttar pradesh,None,Varanasi,2023,SEXUAL ASSAULT,2
+uttar pradesh,None,Varanasi,2023,SHOPLIFTING,2
+uttar pradesh,None,Varanasi,2023,TRAFFIC VIOLATION,1
+uttar pradesh,None,Varanasi,2023,VANDALISM,3
+uttar pradesh,None,Varanasi,2023,VEHICLE - STOLEN,2
+uttar pradesh,None,Varanasi,2024,ARSON,4
+uttar pradesh,None,Varanasi,2024,BURGLARY,2
+uttar pradesh,None,Varanasi,2024,COUNTERFEITING,3
+uttar pradesh,None,Varanasi,2024,CYBERCRIME,4
+uttar pradesh,None,Varanasi,2024,DOMESTIC VIOLENCE,2
+uttar pradesh,None,Varanasi,2024,DRUG OFFENSE,3
+uttar pradesh,None,Varanasi,2024,EXTORTION,3
+uttar pradesh,None,Varanasi,2024,FIREARM OFFENSE,2
+uttar pradesh,None,Varanasi,2024,FRAUD,1
+uttar pradesh,None,Varanasi,2024,HOMICIDE,2
+uttar pradesh,None,Varanasi,2024,ILLEGAL POSSESSION,1
+uttar pradesh,None,Varanasi,2024,KIDNAPPING,4
+uttar pradesh,None,Varanasi,2024,ROBBERY,3
+uttar pradesh,None,Varanasi,2024,SEXUAL ASSAULT,2
+uttar pradesh,None,Varanasi,2024,SHOPLIFTING,3
+uttar pradesh,None,Varanasi,2024,TRAFFIC VIOLATION,3
+uttar pradesh,None,Varanasi,2024,VANDALISM,2
+uttar pradesh,None,Varanasi,2024,VEHICLE - STOLEN,1
+west bengal,None,Kolkata,2020,ARSON,29
+west bengal,None,Kolkata,2020,ASSAULT,30
+west bengal,None,Kolkata,2020,BURGLARY,29
+west bengal,None,Kolkata,2020,COUNTERFEITING,36
+west bengal,None,Kolkata,2020,CYBERCRIME,22
+west bengal,None,Kolkata,2020,DOMESTIC VIOLENCE,22
+west bengal,None,Kolkata,2020,DRUG OFFENSE,23
+west bengal,None,Kolkata,2020,EXTORTION,14
+west bengal,None,Kolkata,2020,FIREARM OFFENSE,23
+west bengal,None,Kolkata,2020,FRAUD,30
+west bengal,None,Kolkata,2020,HOMICIDE,32
+west bengal,None,Kolkata,2020,IDENTITY THEFT,29
+west bengal,None,Kolkata,2020,ILLEGAL POSSESSION,34
+west bengal,None,Kolkata,2020,KIDNAPPING,27
+west bengal,None,Kolkata,2020,PUBLIC INTOXICATION,26
+west bengal,None,Kolkata,2020,ROBBERY,29
+west bengal,None,Kolkata,2020,SEXUAL ASSAULT,27
+west bengal,None,Kolkata,2020,SHOPLIFTING,17
+west bengal,None,Kolkata,2020,TRAFFIC VIOLATION,30
+west bengal,None,Kolkata,2020,VANDALISM,31
+west bengal,None,Kolkata,2020,VEHICLE - STOLEN,26
+west bengal,None,Kolkata,2021,ARSON,24
+west bengal,None,Kolkata,2021,ASSAULT,30
+west bengal,None,Kolkata,2021,BURGLARY,25
+west bengal,None,Kolkata,2021,COUNTERFEITING,23
+west bengal,None,Kolkata,2021,CYBERCRIME,27
+west bengal,None,Kolkata,2021,DOMESTIC VIOLENCE,29
+west bengal,None,Kolkata,2021,DRUG OFFENSE,23
+west bengal,None,Kolkata,2021,EXTORTION,18
+west bengal,None,Kolkata,2021,FIREARM OFFENSE,31
+west bengal,None,Kolkata,2021,FRAUD,34
+west bengal,None,Kolkata,2021,HOMICIDE,19
+west bengal,None,Kolkata,2021,IDENTITY THEFT,27
+west bengal,None,Kolkata,2021,ILLEGAL POSSESSION,31
+west bengal,None,Kolkata,2021,KIDNAPPING,25
+west bengal,None,Kolkata,2021,PUBLIC INTOXICATION,27
+west bengal,None,Kolkata,2021,ROBBERY,28
+west bengal,None,Kolkata,2021,SEXUAL ASSAULT,22
+west bengal,None,Kolkata,2021,SHOPLIFTING,21
+west bengal,None,Kolkata,2021,TRAFFIC VIOLATION,24
+west bengal,None,Kolkata,2021,VANDALISM,28
+west bengal,None,Kolkata,2021,VEHICLE - STOLEN,19
+west bengal,None,Kolkata,2022,ARSON,32
+west bengal,None,Kolkata,2022,ASSAULT,24
+west bengal,None,Kolkata,2022,BURGLARY,31
+west bengal,None,Kolkata,2022,COUNTERFEITING,23
+west bengal,None,Kolkata,2022,CYBERCRIME,28
+west bengal,None,Kolkata,2022,DOMESTIC VIOLENCE,32
+west bengal,None,Kolkata,2022,DRUG OFFENSE,23
+west bengal,None,Kolkata,2022,EXTORTION,20
+west bengal,None,Kolkata,2022,FIREARM OFFENSE,28
+west bengal,None,Kolkata,2022,FRAUD,26
+west bengal,None,Kolkata,2022,HOMICIDE,28
+west bengal,None,Kolkata,2022,IDENTITY THEFT,15
+west bengal,None,Kolkata,2022,ILLEGAL POSSESSION,30
+west bengal,None,Kolkata,2022,KIDNAPPING,29
+west bengal,None,Kolkata,2022,PUBLIC INTOXICATION,31
+west bengal,None,Kolkata,2022,ROBBERY,23
+west bengal,None,Kolkata,2022,SEXUAL ASSAULT,28
+west bengal,None,Kolkata,2022,SHOPLIFTING,25
+west bengal,None,Kolkata,2022,TRAFFIC VIOLATION,32
+west bengal,None,Kolkata,2022,VANDALISM,28
+west bengal,None,Kolkata,2022,VEHICLE - STOLEN,17
+west bengal,None,Kolkata,2023,ARSON,22
+west bengal,None,Kolkata,2023,ASSAULT,24
+west bengal,None,Kolkata,2023,BURGLARY,37
+west bengal,None,Kolkata,2023,COUNTERFEITING,30
+west bengal,None,Kolkata,2023,CYBERCRIME,24
+west bengal,None,Kolkata,2023,DOMESTIC VIOLENCE,27
+west bengal,None,Kolkata,2023,DRUG OFFENSE,27
+west bengal,None,Kolkata,2023,EXTORTION,26
+west bengal,None,Kolkata,2023,FIREARM OFFENSE,21
+west bengal,None,Kolkata,2023,FRAUD,35
+west bengal,None,Kolkata,2023,HOMICIDE,16
+west bengal,None,Kolkata,2023,IDENTITY THEFT,23
+west bengal,None,Kolkata,2023,ILLEGAL POSSESSION,20
+west bengal,None,Kolkata,2023,KIDNAPPING,27
+west bengal,None,Kolkata,2023,PUBLIC INTOXICATION,19
+west bengal,None,Kolkata,2023,ROBBERY,27
+west bengal,None,Kolkata,2023,SEXUAL ASSAULT,25
+west bengal,None,Kolkata,2023,SHOPLIFTING,28
+west bengal,None,Kolkata,2023,TRAFFIC VIOLATION,29
+west bengal,None,Kolkata,2023,VANDALISM,22
+west bengal,None,Kolkata,2023,VEHICLE - STOLEN,19
+west bengal,None,Kolkata,2024,ARSON,9
+west bengal,None,Kolkata,2024,ASSAULT,16
+west bengal,None,Kolkata,2024,BURGLARY,14
+west bengal,None,Kolkata,2024,COUNTERFEITING,16
+west bengal,None,Kolkata,2024,CYBERCRIME,16
+west bengal,None,Kolkata,2024,DOMESTIC VIOLENCE,18
+west bengal,None,Kolkata,2024,DRUG OFFENSE,8
+west bengal,None,Kolkata,2024,EXTORTION,12
+west bengal,None,Kolkata,2024,FIREARM OFFENSE,20
+west bengal,None,Kolkata,2024,FRAUD,19
+west bengal,None,Kolkata,2024,HOMICIDE,16
+west bengal,None,Kolkata,2024,IDENTITY THEFT,15
+west bengal,None,Kolkata,2024,ILLEGAL POSSESSION,21
+west bengal,None,Kolkata,2024,KIDNAPPING,17
+west bengal,None,Kolkata,2024,PUBLIC INTOXICATION,18
+west bengal,None,Kolkata,2024,ROBBERY,18
+west bengal,None,Kolkata,2024,SEXUAL ASSAULT,19
+west bengal,None,Kolkata,2024,SHOPLIFTING,12
+west bengal,None,Kolkata,2024,TRAFFIC VIOLATION,21
+west bengal,None,Kolkata,2024,VANDALISM,19
+west bengal,None,Kolkata,2024,VEHICLE - STOLEN,12

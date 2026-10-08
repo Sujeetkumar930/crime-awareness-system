@@ -1,0 +1,815 @@
+state,year,crime_type,crime_count
+Andhra Pradesh,2018,dowry deaths,111
+Arunachal Pradesh,2018,dowry deaths,0
+Assam,2018,dowry deaths,150
+Bihar,2018,dowry deaths,1047
+Chhattisgarh,2018,dowry deaths,71
+Goa,2018,dowry deaths,0
+Gujarat,2018,dowry deaths,7
+Haryana,2018,dowry deaths,251
+Himachal Pradesh,2018,dowry deaths,1
+Jharkhand,2018,dowry deaths,280
+Karnataka,2018,dowry deaths,178
+Kerala,2018,dowry deaths,6
+Madhya Pradesh,2018,dowry deaths,627
+Maharashtra,2018,dowry deaths,197
+Manipur,2018,dowry deaths,1
+Meghalaya,2018,dowry deaths,1
+Mizoram,2018,dowry deaths,0
+Nagaland,2018,dowry deaths,1
+Odisha,2018,dowry deaths,320
+Punjab,2018,dowry deaths,63
+Rajasthan,2018,dowry deaths,480
+Sikkim,2018,dowry deaths,0
+Tamil Nadu,2018,dowry deaths,40
+Telangana,2018,dowry deaths,175
+Tripura,2018,dowry deaths,23
+Uttar Pradesh,2018,dowry deaths,2302
+Uttarakhand,2018,dowry deaths,65
+West Bengal,2018,dowry deaths,523
+A&N Islands,2018,dowry deaths,0
+Chandigarh,2018,dowry deaths,1
+D&N Haveli and Daman & Diu,2018,dowry deaths,1
+Delhi,2018,dowry deaths,112
+Jammu & Kashmir,2018,dowry deaths,9
+Ladakh,2018,dowry deaths,0
+Lakshadweep,2018,dowry deaths,0
+Puducherry,2018,dowry deaths,2
+TOTAL ,2018,dowry deaths,7045
+Andhra Pradesh,2018,cruelty by husband or his relatives,6579
+Arunachal Pradesh,2018,cruelty by husband or his relatives,70
+Assam,2018,cruelty by husband or his relatives,11413
+Bihar,2018,cruelty by husband or his relatives,1936
+Chhattisgarh,2018,cruelty by husband or his relatives,674
+Goa,2018,cruelty by husband or his relatives,8
+Gujarat,2018,cruelty by husband or his relatives,3345
+Haryana,2018,cruelty by husband or his relatives,4122
+Himachal Pradesh,2018,cruelty by husband or his relatives,259
+Jharkhand,2018,cruelty by husband or his relatives,882
+Karnataka,2018,cruelty by husband or his relatives,2092
+Kerala,2018,cruelty by husband or his relatives,2736
+Madhya Pradesh,2018,cruelty by husband or his relatives,5540
+Maharashtra,2018,cruelty by husband or his relatives,6749
+Manipur,2018,cruelty by husband or his relatives,7
+Meghalaya,2018,cruelty by husband or his relatives,17
+Mizoram,2018,cruelty by husband or his relatives,7
+Nagaland,2018,cruelty by husband or his relatives,2
+Odisha,2018,cruelty by husband or his relatives,3659
+Punjab,2018,cruelty by husband or his relatives,1271
+Rajasthan,2018,cruelty by husband or his relatives,13896
+Sikkim,2018,cruelty by husband or his relatives,1
+Tamil Nadu,2018,cruelty by husband or his relatives,702
+Telangana,2018,cruelty by husband or his relatives,7745
+Tripura,2018,cruelty by husband or his relatives,358
+Uttar Pradesh,2018,cruelty by husband or his relatives,14533
+Uttarakhand,2018,cruelty by husband or his relatives,669
+West Bengal,2018,cruelty by husband or his relatives,19966
+A&N Islands,2018,cruelty by husband or his relatives,2
+Chandigarh,2018,cruelty by husband or his relatives,96
+D&N Haveli and Daman & Diu,2018,cruelty by husband or his relatives,4
+Delhi,2018,cruelty by husband or his relatives,2591
+Jammu & Kashmir,2018,cruelty by husband or his relatives,349
+Ladakh,2018,cruelty by husband or his relatives,3
+Lakshadweep,2018,cruelty by husband or his relatives,0
+Puducherry,2018,cruelty by husband or his relatives,9
+TOTAL ,2018,cruelty by husband or his relatives,112292
+Andhra Pradesh,2018,kidnapping & abduction of women,537
+Arunachal Pradesh,2018,kidnapping & abduction of women,48
+Assam,2018,kidnapping & abduction of women,5915
+Bihar,2018,kidnapping & abduction of women,6747
+Chhattisgarh,2018,kidnapping & abduction of women,1357
+Goa,2018,kidnapping & abduction of women,33
+Gujarat,2018,kidnapping & abduction of women,603
+Haryana,2018,kidnapping & abduction of women,2449
+Himachal Pradesh,2018,kidnapping & abduction of women,284
+Jharkhand,2018,kidnapping & abduction of women,995
+Karnataka,2018,kidnapping & abduction of women,951
+Kerala,2018,kidnapping & abduction of women,152
+Madhya Pradesh,2018,kidnapping & abduction of women,4990
+Maharashtra,2018,kidnapping & abduction of women,5332
+Manipur,2018,kidnapping & abduction of women,49
+Meghalaya,2018,kidnapping & abduction of women,29
+Mizoram,2018,kidnapping & abduction of women,1
+Nagaland,2018,kidnapping & abduction of women,6
+Odisha,2018,kidnapping & abduction of women,3775
+Punjab,2018,kidnapping & abduction of women,1260
+Rajasthan,2018,kidnapping & abduction of women,4766
+Sikkim,2018,kidnapping & abduction of women,13
+Tamil Nadu,2018,kidnapping & abduction of women,653
+Telangana,2018,kidnapping & abduction of women,1341
+Tripura,2018,kidnapping & abduction of women,110
+Uttar Pradesh,2018,kidnapping & abduction of women,9257
+Uttarakhand,2018,kidnapping & abduction of women,350
+West Bengal,2018,kidnapping & abduction of women,7805
+A&N Islands,2018,kidnapping & abduction of women,1
+Chandigarh,2018,kidnapping & abduction of women,92
+D&N Haveli and Daman & Diu,2018,kidnapping & abduction of women,0
+Delhi,2018,kidnapping & abduction of women,3009
+Jammu & Kashmir,2018,kidnapping & abduction of women,783
+Ladakh,2018,kidnapping & abduction of women,0
+Lakshadweep,2018,kidnapping & abduction of women,0
+Puducherry,2018,kidnapping & abduction of women,0
+TOTAL ,2018,kidnapping & abduction of women,63693
+Andhra Pradesh,2018,kidnapping of women for ransom,1
+Arunachal Pradesh,2018,kidnapping of women for ransom,0
+Assam,2018,kidnapping of women for ransom,13
+Bihar,2018,kidnapping of women for ransom,0
+Chhattisgarh,2018,kidnapping of women for ransom,2
+Goa,2018,kidnapping of women for ransom,0
+Gujarat,2018,kidnapping of women for ransom,3
+Haryana,2018,kidnapping of women for ransom,3
+Himachal Pradesh,2018,kidnapping of women for ransom,0
+Jharkhand,2018,kidnapping of women for ransom,8
+Karnataka,2018,kidnapping of women for ransom,1
+Kerala,2018,kidnapping of women for ransom,0
+Madhya Pradesh,2018,kidnapping of women for ransom,3
+Maharashtra,2018,kidnapping of women for ransom,0
+Manipur,2018,kidnapping of women for ransom,0
+Meghalaya,2018,kidnapping of women for ransom,0
+Mizoram,2018,kidnapping of women for ransom,0
+Nagaland,2018,kidnapping of women for ransom,0
+Odisha,2018,kidnapping of women for ransom,3
+Punjab,2018,kidnapping of women for ransom,0
+Rajasthan,2018,kidnapping of women for ransom,4
+Sikkim,2018,kidnapping of women for ransom,0
+Tamil Nadu,2018,kidnapping of women for ransom,4
+Telangana,2018,kidnapping of women for ransom,2
+Tripura,2018,kidnapping of women for ransom,0
+Uttar Pradesh,2018,kidnapping of women for ransom,6
+Uttarakhand,2018,kidnapping of women for ransom,1
+West Bengal,2018,kidnapping of women for ransom,5
+A&N Islands,2018,kidnapping of women for ransom,0
+Chandigarh,2018,kidnapping of women for ransom,0
+D&N Haveli and Daman & Diu,2018,kidnapping of women for ransom,0
+Delhi,2018,kidnapping of women for ransom,0
+Jammu & Kashmir,2018,kidnapping of women for ransom,0
+Ladakh,2018,kidnapping of women for ransom,0
+Lakshadweep,2018,kidnapping of women for ransom,0
+Puducherry,2018,kidnapping of women for ransom,0
+TOTAL ,2018,kidnapping of women for ransom,59
+Andhra Pradesh,2018,kidnapping & abduction of women to compel her for marriage,104
+Arunachal Pradesh,2018,kidnapping & abduction of women to compel her for marriage,5
+Assam,2018,kidnapping & abduction of women to compel her for marriage,2984
+Bihar,2018,kidnapping & abduction of women to compel her for marriage,5378
+Chhattisgarh,2018,kidnapping & abduction of women to compel her for marriage,245
+Goa,2018,kidnapping & abduction of women to compel her for marriage,0
+Gujarat,2018,kidnapping & abduction of women to compel her for marriage,395
+Haryana,2018,kidnapping & abduction of women to compel her for marriage,973
+Himachal Pradesh,2018,kidnapping & abduction of women to compel her for marriage,193
+Jharkhand,2018,kidnapping & abduction of women to compel her for marriage,520
+Karnataka,2018,kidnapping & abduction of women to compel her for marriage,52
+Kerala,2018,kidnapping & abduction of women to compel her for marriage,48
+Madhya Pradesh,2018,kidnapping & abduction of women to compel her for marriage,1043
+Maharashtra,2018,kidnapping & abduction of women to compel her for marriage,526
+Manipur,2018,kidnapping & abduction of women to compel her for marriage,19
+Meghalaya,2018,kidnapping & abduction of women to compel her for marriage,1
+Mizoram,2018,kidnapping & abduction of women to compel her for marriage,0
+Nagaland,2018,kidnapping & abduction of women to compel her for marriage,0
+Odisha,2018,kidnapping & abduction of women to compel her for marriage,194
+Punjab,2018,kidnapping & abduction of women to compel her for marriage,1217
+Rajasthan,2018,kidnapping & abduction of women to compel her for marriage,1156
+Sikkim,2018,kidnapping & abduction of women to compel her for marriage,0
+Tamil Nadu,2018,kidnapping & abduction of women to compel her for marriage,476
+Telangana,2018,kidnapping & abduction of women to compel her for marriage,292
+Tripura,2018,kidnapping & abduction of women to compel her for marriage,54
+Uttar Pradesh,2018,kidnapping & abduction of women to compel her for marriage,7830
+Uttarakhand,2018,kidnapping & abduction of women to compel her for marriage,64
+West Bengal,2018,kidnapping & abduction of women to compel her for marriage,852
+A&N Islands,2018,kidnapping & abduction of women to compel her for marriage,0
+Chandigarh,2018,kidnapping & abduction of women to compel her for marriage,19
+D&N Haveli and Daman & Diu,2018,kidnapping & abduction of women to compel her for marriage,0
+Delhi,2018,kidnapping & abduction of women to compel her for marriage,2
+Jammu & Kashmir,2018,kidnapping & abduction of women to compel her for marriage,456
+Ladakh,2018,kidnapping & abduction of women to compel her for marriage,0
+Lakshadweep,2018,kidnapping & abduction of women to compel her for marriage,0
+Puducherry,2018,kidnapping & abduction of women to compel her for marriage,0
+TOTAL ,2018,kidnapping & abduction of women to compel her for marriage,25098
+Andhra Pradesh,2018,kidnapping & abduction of women(above 18 yrs) to compel her for marriage,33
+Arunachal Pradesh,2018,kidnapping & abduction of women(above 18 yrs) to compel her for marriage,3
+Assam,2018,kidnapping & abduction of women(above 18 yrs) to compel her for marriage,2638
+Bihar,2018,kidnapping & abduction of women(above 18 yrs) to compel her for marriage,2620
+Chhattisgarh,2018,kidnapping & abduction of women(above 18 yrs) to compel her for marriage,6
+Goa,2018,kidnapping & abduction of women(above 18 yrs) to compel her for marriage,0
+Gujarat,2018,kidnapping & abduction of women(above 18 yrs) to compel her for marriage,31
+Haryana,2018,kidnapping & abduction of women(above 18 yrs) to compel her for marriage,839
+Himachal Pradesh,2018,kidnapping & abduction of women(above 18 yrs) to compel her for marriage,14
+Jharkhand,2018,kidnapping & abduction of women(above 18 yrs) to compel her for marriage,413
+Karnataka,2018,kidnapping & abduction of women(above 18 yrs) to compel her for marriage,24
+Kerala,2018,kidnapping & abduction of women(above 18 yrs) to compel her for marriage,6
+Madhya Pradesh,2018,kidnapping & abduction of women(above 18 yrs) to compel her for marriage,84
+Maharashtra,2018,kidnapping & abduction of women(above 18 yrs) to compel her for marriage,78
+Manipur,2018,kidnapping & abduction of women(above 18 yrs) to compel her for marriage,15
+Meghalaya,2018,kidnapping & abduction of women(above 18 yrs) to compel her for marriage,1
+Mizoram,2018,kidnapping & abduction of women(above 18 yrs) to compel her for marriage,0
+Nagaland,2018,kidnapping & abduction of women(above 18 yrs) to compel her for marriage,0
+Odisha,2018,kidnapping & abduction of women(above 18 yrs) to compel her for marriage,102
+Punjab,2018,kidnapping & abduction of women(above 18 yrs) to compel her for marriage,233
+Rajasthan,2018,kidnapping & abduction of women(above 18 yrs) to compel her for marriage,750
+Sikkim,2018,kidnapping & abduction of women(above 18 yrs) to compel her for marriage,0
+Tamil Nadu,2018,kidnapping & abduction of women(above 18 yrs) to compel her for marriage,335
+Telangana,2018,kidnapping & abduction of women(above 18 yrs) to compel her for marriage,74
+Tripura,2018,kidnapping & abduction of women(above 18 yrs) to compel her for marriage,13
+Uttar Pradesh,2018,kidnapping & abduction of women(above 18 yrs) to compel her for marriage,4887
+Uttarakhand,2018,kidnapping & abduction of women(above 18 yrs) to compel her for marriage,17
+West Bengal,2018,kidnapping & abduction of women(above 18 yrs) to compel her for marriage,205
+A&N Islands,2018,kidnapping & abduction of women(above 18 yrs) to compel her for marriage,0
+Chandigarh,2018,kidnapping & abduction of women(above 18 yrs) to compel her for marriage,0
+D&N Haveli and Daman & Diu,2018,kidnapping & abduction of women(above 18 yrs) to compel her for marriage,0
+Delhi,2018,kidnapping & abduction of women(above 18 yrs) to compel her for marriage,1
+Jammu & Kashmir,2018,kidnapping & abduction of women(above 18 yrs) to compel her for marriage,440
+Ladakh,2018,kidnapping & abduction of women(above 18 yrs) to compel her for marriage,0
+Lakshadweep,2018,kidnapping & abduction of women(above 18 yrs) to compel her for marriage,0
+Puducherry,2018,kidnapping & abduction of women(above 18 yrs) to compel her for marriage,0
+TOTAL ,2018,kidnapping & abduction of women(above 18 yrs) to compel her for marriage,13862
+Andhra Pradesh,2018,kidnapping & abduction of women(below 18 yrs) to compel her for marriage,71
+Arunachal Pradesh,2018,kidnapping & abduction of women(below 18 yrs) to compel her for marriage,2
+Assam,2018,kidnapping & abduction of women(below 18 yrs) to compel her for marriage,346
+Bihar,2018,kidnapping & abduction of women(below 18 yrs) to compel her for marriage,2758
+Chhattisgarh,2018,kidnapping & abduction of women(below 18 yrs) to compel her for marriage,239
+Goa,2018,kidnapping & abduction of women(below 18 yrs) to compel her for marriage,0
+Gujarat,2018,kidnapping & abduction of women(below 18 yrs) to compel her for marriage,364
+Haryana,2018,kidnapping & abduction of women(below 18 yrs) to compel her for marriage,134
+Himachal Pradesh,2018,kidnapping & abduction of women(below 18 yrs) to compel her for marriage,179
+Jharkhand,2018,kidnapping & abduction of women(below 18 yrs) to compel her for marriage,107
+Karnataka,2018,kidnapping & abduction of women(below 18 yrs) to compel her for marriage,28
+Kerala,2018,kidnapping & abduction of women(below 18 yrs) to compel her for marriage,42
+Madhya Pradesh,2018,kidnapping & abduction of women(below 18 yrs) to compel her for marriage,959
+Maharashtra,2018,kidnapping & abduction of women(below 18 yrs) to compel her for marriage,448
+Manipur,2018,kidnapping & abduction of women(below 18 yrs) to compel her for marriage,4
+Meghalaya,2018,kidnapping & abduction of women(below 18 yrs) to compel her for marriage,0
+Mizoram,2018,kidnapping & abduction of women(below 18 yrs) to compel her for marriage,0
+Nagaland,2018,kidnapping & abduction of women(below 18 yrs) to compel her for marriage,0
+Odisha,2018,kidnapping & abduction of women(below 18 yrs) to compel her for marriage,92
+Punjab,2018,kidnapping & abduction of women(below 18 yrs) to compel her for marriage,984
+Rajasthan,2018,kidnapping & abduction of women(below 18 yrs) to compel her for marriage,406
+Sikkim,2018,kidnapping & abduction of women(below 18 yrs) to compel her for marriage,0
+Tamil Nadu,2018,kidnapping & abduction of women(below 18 yrs) to compel her for marriage,141
+Telangana,2018,kidnapping & abduction of women(below 18 yrs) to compel her for marriage,218
+Tripura,2018,kidnapping & abduction of women(below 18 yrs) to compel her for marriage,41
+Uttar Pradesh,2018,kidnapping & abduction of women(below 18 yrs) to compel her for marriage,2943
+Uttarakhand,2018,kidnapping & abduction of women(below 18 yrs) to compel her for marriage,47
+West Bengal,2018,kidnapping & abduction of women(below 18 yrs) to compel her for marriage,647
+A&N Islands,2018,kidnapping & abduction of women(below 18 yrs) to compel her for marriage,0
+Chandigarh,2018,kidnapping & abduction of women(below 18 yrs) to compel her for marriage,19
+D&N Haveli and Daman & Diu,2018,kidnapping & abduction of women(below 18 yrs) to compel her for marriage,0
+Delhi,2018,kidnapping & abduction of women(below 18 yrs) to compel her for marriage,1
+Jammu & Kashmir,2018,kidnapping & abduction of women(below 18 yrs) to compel her for marriage,16
+Ladakh,2018,kidnapping & abduction of women(below 18 yrs) to compel her for marriage,0
+Lakshadweep,2018,kidnapping & abduction of women(below 18 yrs) to compel her for marriage,0
+Puducherry,2018,kidnapping & abduction of women(below 18 yrs) to compel her for marriage,0
+TOTAL ,2018,kidnapping & abduction of women(below 18 yrs) to compel her for marriage,11236
+Andhra Pradesh,2018,procuration of minor girls,54
+Arunachal Pradesh,2018,procuration of minor girls,2
+Assam,2018,procuration of minor girls,1055
+Bihar,2018,procuration of minor girls,0
+Chhattisgarh,2018,procuration of minor girls,0
+Goa,2018,procuration of minor girls,0
+Gujarat,2018,procuration of minor girls,0
+Haryana,2018,procuration of minor girls,789
+Himachal Pradesh,2018,procuration of minor girls,1
+Jharkhand,2018,procuration of minor girls,231
+Karnataka,2018,procuration of minor girls,26
+Kerala,2018,procuration of minor girls,5
+Madhya Pradesh,2018,procuration of minor girls,32
+Maharashtra,2018,procuration of minor girls,50
+Manipur,2018,procuration of minor girls,23
+Meghalaya,2018,procuration of minor girls,15
+Mizoram,2018,procuration of minor girls,0
+Nagaland,2018,procuration of minor girls,0
+Odisha,2018,procuration of minor girls,10
+Punjab,2018,procuration of minor girls,0
+Rajasthan,2018,procuration of minor girls,11
+Sikkim,2018,procuration of minor girls,0
+Tamil Nadu,2018,procuration of minor girls,82
+Telangana,2018,procuration of minor girls,46
+Tripura,2018,procuration of minor girls,17
+Uttar Pradesh,2018,procuration of minor girls,1
+Uttarakhand,2018,procuration of minor girls,0
+West Bengal,2018,procuration of minor girls,30
+A&N Islands,2018,procuration of minor girls,0
+Chandigarh,2018,procuration of minor girls,0
+D&N Haveli and Daman & Diu,2018,procuration of minor girls,0
+Delhi,2018,procuration of minor girls,0
+Jammu & Kashmir,2018,procuration of minor girls,0
+Ladakh,2018,procuration of minor girls,0
+Lakshadweep,2018,procuration of minor girls,0
+Puducherry,2018,procuration of minor girls,0
+TOTAL ,2018,procuration of minor girls,2480
+Andhra Pradesh,2018,importation of girls from foreign country,0
+Arunachal Pradesh,2018,importation of girls from foreign country,0
+Assam,2018,importation of girls from foreign country,0
+Bihar,2018,importation of girls from foreign country,0
+Chhattisgarh,2018,importation of girls from foreign country,0
+Goa,2018,importation of girls from foreign country,0
+Gujarat,2018,importation of girls from foreign country,0
+Haryana,2018,importation of girls from foreign country,0
+Himachal Pradesh,2018,importation of girls from foreign country,0
+Jharkhand,2018,importation of girls from foreign country,0
+Karnataka,2018,importation of girls from foreign country,0
+Kerala,2018,importation of girls from foreign country,0
+Madhya Pradesh,2018,importation of girls from foreign country,0
+Maharashtra,2018,importation of girls from foreign country,0
+Manipur,2018,importation of girls from foreign country,1
+Meghalaya,2018,importation of girls from foreign country,0
+Mizoram,2018,importation of girls from foreign country,0
+Nagaland,2018,importation of girls from foreign country,0
+Odisha,2018,importation of girls from foreign country,0
+Punjab,2018,importation of girls from foreign country,0
+Rajasthan,2018,importation of girls from foreign country,0
+Sikkim,2018,importation of girls from foreign country,0
+Tamil Nadu,2018,importation of girls from foreign country,0
+Telangana,2018,importation of girls from foreign country,0
+Tripura,2018,importation of girls from foreign country,0
+Uttar Pradesh,2018,importation of girls from foreign country,0
+Uttarakhand,2018,importation of girls from foreign country,0
+West Bengal,2018,importation of girls from foreign country,0
+A&N Islands,2018,importation of girls from foreign country,0
+Chandigarh,2018,importation of girls from foreign country,0
+D&N Haveli and Daman & Diu,2018,importation of girls from foreign country,0
+Delhi,2018,importation of girls from foreign country,0
+Jammu & Kashmir,2018,importation of girls from foreign country,0
+Ladakh,2018,importation of girls from foreign country,0
+Lakshadweep,2018,importation of girls from foreign country,0
+Puducherry,2018,importation of girls from foreign country,0
+TOTAL ,2018,importation of girls from foreign country,1
+Andhra Pradesh,2018,human trafficking,71
+Arunachal Pradesh,2018,human trafficking,3
+Assam,2018,human trafficking,100
+Bihar,2018,human trafficking,24
+Chhattisgarh,2018,human trafficking,34
+Goa,2018,human trafficking,29
+Gujarat,2018,human trafficking,6
+Haryana,2018,human trafficking,9
+Himachal Pradesh,2018,human trafficking,0
+Jharkhand,2018,human trafficking,48
+Karnataka,2018,human trafficking,32
+Kerala,2018,human trafficking,72
+Madhya Pradesh,2018,human trafficking,45
+Maharashtra,2018,human trafficking,242
+Manipur,2018,human trafficking,2
+Meghalaya,2018,human trafficking,0
+Mizoram,2018,human trafficking,0
+Nagaland,2018,human trafficking,0
+Odisha,2018,human trafficking,69
+Punjab,2018,human trafficking,2
+Rajasthan,2018,human trafficking,2
+Sikkim,2018,human trafficking,0
+Tamil Nadu,2018,human trafficking,13
+Telangana,2018,human trafficking,72
+Tripura,2018,human trafficking,0
+Uttar Pradesh,2018,human trafficking,7
+Uttarakhand,2018,human trafficking,5
+West Bengal,2018,human trafficking,29
+A&N Islands,2018,human trafficking,2
+Chandigarh,2018,human trafficking,2
+D&N Haveli and Daman & Diu,2018,human trafficking,1
+Delhi,2018,human trafficking,22
+Jammu & Kashmir,2018,human trafficking,0
+Ladakh,2018,human trafficking,0
+Lakshadweep,2018,human trafficking,0
+Puducherry,2018,human trafficking,0
+TOTAL ,2018,human trafficking,943
+Andhra Pradesh,2018,selling of minor girls,0
+Arunachal Pradesh,2018,selling of minor girls,0
+Assam,2018,selling of minor girls,1
+Bihar,2018,selling of minor girls,1
+Chhattisgarh,2018,selling of minor girls,0
+Goa,2018,selling of minor girls,0
+Gujarat,2018,selling of minor girls,2
+Haryana,2018,selling of minor girls,1
+Himachal Pradesh,2018,selling of minor girls,0
+Jharkhand,2018,selling of minor girls,1
+Karnataka,2018,selling of minor girls,0
+Kerala,2018,selling of minor girls,0
+Madhya Pradesh,2018,selling of minor girls,4
+Maharashtra,2018,selling of minor girls,0
+Manipur,2018,selling of minor girls,0
+Meghalaya,2018,selling of minor girls,0
+Mizoram,2018,selling of minor girls,0
+Nagaland,2018,selling of minor girls,0
+Odisha,2018,selling of minor girls,0
+Punjab,2018,selling of minor girls,0
+Rajasthan,2018,selling of minor girls,0
+Sikkim,2018,selling of minor girls,0
+Tamil Nadu,2018,selling of minor girls,0
+Telangana,2018,selling of minor girls,0
+Tripura,2018,selling of minor girls,0
+Uttar Pradesh,2018,selling of minor girls,0
+Uttarakhand,2018,selling of minor girls,0
+West Bengal,2018,selling of minor girls,2
+A&N Islands,2018,selling of minor girls,0
+Chandigarh,2018,selling of minor girls,0
+D&N Haveli and Daman & Diu,2018,selling of minor girls,0
+Delhi,2018,selling of minor girls,0
+Jammu & Kashmir,2018,selling of minor girls,0
+Ladakh,2018,selling of minor girls,0
+Lakshadweep,2018,selling of minor girls,0
+Puducherry,2018,selling of minor girls,0
+TOTAL ,2018,selling of minor girls,12
+Andhra Pradesh,2018,rape,1107
+Arunachal Pradesh,2018,rape,63
+Assam,2018,rape,1658
+Bihar,2018,rape,806
+Chhattisgarh,2018,rape,1212
+Goa,2018,rape,61
+Gujarat,2018,rape,486
+Haryana,2018,rape,1373
+Himachal Pradesh,2018,rape,332
+Jharkhand,2018,rape,1326
+Karnataka,2018,rape,507
+Kerala,2018,rape,647
+Madhya Pradesh,2018,rape,2341
+Maharashtra,2018,rape,2065
+Manipur,2018,rape,32
+Meghalaya,2018,rape,67
+Mizoram,2018,rape,33
+Nagaland,2018,rape,4
+Odisha,2018,rape,1211
+Punjab,2018,rape,504
+Rajasthan,2018,rape,5337
+Sikkim,2018,rape,13
+Tamil Nadu,2018,rape,390
+Telangana,2018,rape,765
+Tripura,2018,rape,79
+Uttar Pradesh,2018,rape,2796
+Uttarakhand,2018,rape,487
+West Bengal,2018,rape,1128
+A&N Islands,2018,rape,2
+Chandigarh,2018,rape,60
+D&N Haveli and Daman & Diu,2018,rape,4
+Delhi,2018,rape,997
+Jammu & Kashmir,2018,rape,247
+Ladakh,2018,rape,2
+Lakshadweep,2018,rape,3
+Puducherry,2018,rape,8
+TOTAL ,2018,rape,28153
+Andhra Pradesh,2018,rape women (18 yrs and above),520
+Arunachal Pradesh,2018,rape women (18 yrs and above),34
+Assam,2018,rape women (18 yrs and above),1640
+Bihar,2018,rape women (18 yrs and above),805
+Chhattisgarh,2018,rape women (18 yrs and above),1199
+Goa,2018,rape women (18 yrs and above),19
+Gujarat,2018,rape women (18 yrs and above),486
+Haryana,2018,rape women (18 yrs and above),1373
+Himachal Pradesh,2018,rape women (18 yrs and above),135
+Jharkhand,2018,rape women (18 yrs and above),1210
+Karnataka,2018,rape women (18 yrs and above),507
+Kerala,2018,rape women (18 yrs and above),647
+Madhya Pradesh,2018,rape women (18 yrs and above),2331
+Maharashtra,2018,rape women (18 yrs and above),2065
+Manipur,2018,rape women (18 yrs and above),30
+Meghalaya,2018,rape women (18 yrs and above),66
+Mizoram,2018,rape women (18 yrs and above),18
+Nagaland,2018,rape women (18 yrs and above),3
+Odisha,2018,rape women (18 yrs and above),1194
+Punjab,2018,rape women (18 yrs and above),442
+Rajasthan,2018,rape women (18 yrs and above),4058
+Sikkim,2018,rape women (18 yrs and above),9
+Tamil Nadu,2018,rape women (18 yrs and above),390
+Telangana,2018,rape women (18 yrs and above),765
+Tripura,2018,rape women (18 yrs and above),79
+Uttar Pradesh,2018,rape women (18 yrs and above),2590
+Uttarakhand,2018,rape women (18 yrs and above),482
+West Bengal,2018,rape women (18 yrs and above),1128
+A&N Islands,2018,rape women (18 yrs and above),2
+Chandigarh,2018,rape women (18 yrs and above),14
+D&N Haveli and Daman & Diu,2018,rape women (18 yrs and above),4
+Delhi,2018,rape women (18 yrs and above),997
+Jammu & Kashmir,2018,rape women (18 yrs and above),244
+Ladakh,2018,rape women (18 yrs and above),1
+Lakshadweep,2018,rape women (18 yrs and above),3
+Puducherry,2018,rape women (18 yrs and above),8
+TOTAL ,2018,rape women (18 yrs and above),25498
+Andhra Pradesh,2018,rape women (18 yrs below),587
+Arunachal Pradesh,2018,rape women (18 yrs below),29
+Assam,2018,rape women (18 yrs below),18
+Bihar,2018,rape women (18 yrs below),1
+Chhattisgarh,2018,rape women (18 yrs below),13
+Goa,2018,rape women (18 yrs below),42
+Gujarat,2018,rape women (18 yrs below),0
+Haryana,2018,rape women (18 yrs below),0
+Himachal Pradesh,2018,rape women (18 yrs below),197
+Jharkhand,2018,rape women (18 yrs below),116
+Karnataka,2018,rape women (18 yrs below),0
+Kerala,2018,rape women (18 yrs below),0
+Madhya Pradesh,2018,rape women (18 yrs below),10
+Maharashtra,2018,rape women (18 yrs below),0
+Manipur,2018,rape women (18 yrs below),2
+Meghalaya,2018,rape women (18 yrs below),1
+Mizoram,2018,rape women (18 yrs below),15
+Nagaland,2018,rape women (18 yrs below),1
+Odisha,2018,rape women (18 yrs below),17
+Punjab,2018,rape women (18 yrs below),62
+Rajasthan,2018,rape women (18 yrs below),1279
+Sikkim,2018,rape women (18 yrs below),4
+Tamil Nadu,2018,rape women (18 yrs below),0
+Telangana,2018,rape women (18 yrs below),0
+Tripura,2018,rape women (18 yrs below),0
+Uttar Pradesh,2018,rape women (18 yrs below),206
+Uttarakhand,2018,rape women (18 yrs below),5
+West Bengal,2018,rape women (18 yrs below),0
+A&N Islands,2018,rape women (18 yrs below),0
+Chandigarh,2018,rape women (18 yrs below),46
+D&N Haveli and Daman & Diu,2018,rape women (18 yrs below),0
+Delhi,2018,rape women (18 yrs below),0
+Jammu & Kashmir,2018,rape women (18 yrs below),3
+Ladakh,2018,rape women (18 yrs below),1
+Lakshadweep,2018,rape women (18 yrs below),0
+Puducherry,2018,rape women (18 yrs below),0
+TOTAL ,2018,rape women (18 yrs below),2655
+Andhra Pradesh,2018,assault on women with intent to outrage her modesty total,4888
+Arunachal Pradesh,2018,assault on women with intent to outrage her modesty total,76
+Assam,2018,assault on women with intent to outrage her modesty total,4654
+Bihar,2018,assault on women with intent to outrage her modesty total,587
+Chhattisgarh,2018,assault on women with intent to outrage her modesty total,1640
+Goa,2018,assault on women with intent to outrage her modesty total,71
+Gujarat,2018,assault on women with intent to outrage her modesty total,852
+Haryana,2018,assault on women with intent to outrage her modesty total,2339
+Himachal Pradesh,2018,assault on women with intent to outrage her modesty total,541
+Jharkhand,2018,assault on women with intent to outrage her modesty total,1361
+Karnataka,2018,assault on women with intent to outrage her modesty total,5248
+Kerala,2018,assault on women with intent to outrage her modesty total,3971
+Madhya Pradesh,2018,assault on women with intent to outrage her modesty total,5431
+Maharashtra,2018,assault on women with intent to outrage her modesty total,10007
+Manipur,2018,assault on women with intent to outrage her modesty total,61
+Meghalaya,2018,assault on women with intent to outrage her modesty total,86
+Mizoram,2018,assault on women with intent to outrage her modesty total,26
+Nagaland,2018,assault on women with intent to outrage her modesty total,7
+Odisha,2018,assault on women with intent to outrage her modesty total,12641
+Punjab,2018,assault on women with intent to outrage her modesty total,732
+Rajasthan,2018,assault on women with intent to outrage her modesty total,8690
+Sikkim,2018,assault on women with intent to outrage her modesty total,19
+Tamil Nadu,2018,assault on women with intent to outrage her modesty total,907
+Telangana,2018,assault on women with intent to outrage her modesty total,4928
+Tripura,2018,assault on women with intent to outrage her modesty total,118
+Uttar Pradesh,2018,assault on women with intent to outrage her modesty total,9903
+Uttarakhand,2018,assault on women with intent to outrage her modesty total,474
+West Bengal,2018,assault on women with intent to outrage her modesty total,2784
+A&N Islands,2018,assault on women with intent to outrage her modesty total,15
+Chandigarh,2018,assault on women with intent to outrage her modesty total,43
+D&N Haveli and Daman & Diu,2018,assault on women with intent to outrage her modesty total,6
+Delhi,2018,assault on women with intent to outrage her modesty total,1841
+Jammu & Kashmir,2018,assault on women with intent to outrage her modesty total,1766
+Ladakh,2018,assault on women with intent to outrage her modesty total,4
+Lakshadweep,2018,assault on women with intent to outrage her modesty total,3
+Puducherry,2018,assault on women with intent to outrage her modesty total,25
+TOTAL ,2018,assault on women with intent to outrage her modesty total,86745
+Andhra Pradesh,2018,assault on women with intent to outrage her modesty above 18,4375
+Arunachal Pradesh,2018,assault on women with intent to outrage her modesty above 18,73
+Assam,2018,assault on women with intent to outrage her modesty above 18,4640
+Bihar,2018,assault on women with intent to outrage her modesty above 18,544
+Chhattisgarh,2018,assault on women with intent to outrage her modesty above 18,1559
+Goa,2018,assault on women with intent to outrage her modesty above 18,61
+Gujarat,2018,assault on women with intent to outrage her modesty above 18,835
+Haryana,2018,assault on women with intent to outrage her modesty above 18,2339
+Himachal Pradesh,2018,assault on women with intent to outrage her modesty above 18,471
+Jharkhand,2018,assault on women with intent to outrage her modesty above 18,1297
+Karnataka,2018,assault on women with intent to outrage her modesty above 18,5242
+Kerala,2018,assault on women with intent to outrage her modesty above 18,3340
+Madhya Pradesh,2018,assault on women with intent to outrage her modesty above 18,5304
+Maharashtra,2018,assault on women with intent to outrage her modesty above 18,10007
+Manipur,2018,assault on women with intent to outrage her modesty above 18,60
+Meghalaya,2018,assault on women with intent to outrage her modesty above 18,76
+Mizoram,2018,assault on women with intent to outrage her modesty above 18,26
+Nagaland,2018,assault on women with intent to outrage her modesty above 18,7
+Odisha,2018,assault on women with intent to outrage her modesty above 18,12641
+Punjab,2018,assault on women with intent to outrage her modesty above 18,714
+Rajasthan,2018,assault on women with intent to outrage her modesty above 18,7672
+Sikkim,2018,assault on women with intent to outrage her modesty above 18,18
+Tamil Nadu,2018,assault on women with intent to outrage her modesty above 18,885
+Telangana,2018,assault on women with intent to outrage her modesty above 18,4775
+Tripura,2018,assault on women with intent to outrage her modesty above 18,117
+Uttar Pradesh,2018,assault on women with intent to outrage her modesty above 18,8639
+Uttarakhand,2018,assault on women with intent to outrage her modesty above 18,448
+West Bengal,2018,assault on women with intent to outrage her modesty above 18,2784
+A&N Islands,2018,assault on women with intent to outrage her modesty above 18,15
+Chandigarh,2018,assault on women with intent to outrage her modesty above 18,32
+D&N Haveli and Daman & Diu,2018,assault on women with intent to outrage her modesty above 18,6
+Delhi,2018,assault on women with intent to outrage her modesty above 18,1841
+Jammu & Kashmir,2018,assault on women with intent to outrage her modesty above 18,1733
+Ladakh,2018,assault on women with intent to outrage her modesty above 18,4
+Lakshadweep,2018,assault on women with intent to outrage her modesty above 18,3
+Puducherry,2018,assault on women with intent to outrage her modesty above 18,25
+TOTAL ,2018,assault on women with intent to outrage her modesty above 18,82608
+Andhra Pradesh,2018,assault on women with intent to outrage her modesty below 18,513
+Arunachal Pradesh,2018,assault on women with intent to outrage her modesty below 18,3
+Assam,2018,assault on women with intent to outrage her modesty below 18,14
+Bihar,2018,assault on women with intent to outrage her modesty below 18,43
+Chhattisgarh,2018,assault on women with intent to outrage her modesty below 18,81
+Goa,2018,assault on women with intent to outrage her modesty below 18,10
+Gujarat,2018,assault on women with intent to outrage her modesty below 18,17
+Haryana,2018,assault on women with intent to outrage her modesty below 18,0
+Himachal Pradesh,2018,assault on women with intent to outrage her modesty below 18,70
+Jharkhand,2018,assault on women with intent to outrage her modesty below 18,64
+Karnataka,2018,assault on women with intent to outrage her modesty below 18,6
+Kerala,2018,assault on women with intent to outrage her modesty below 18,631
+Madhya Pradesh,2018,assault on women with intent to outrage her modesty below 18,127
+Maharashtra,2018,assault on women with intent to outrage her modesty below 18,0
+Manipur,2018,assault on women with intent to outrage her modesty below 18,1
+Meghalaya,2018,assault on women with intent to outrage her modesty below 18,10
+Mizoram,2018,assault on women with intent to outrage her modesty below 18,0
+Nagaland,2018,assault on women with intent to outrage her modesty below 18,0
+Odisha,2018,assault on women with intent to outrage her modesty below 18,0
+Punjab,2018,assault on women with intent to outrage her modesty below 18,18
+Rajasthan,2018,assault on women with intent to outrage her modesty below 18,1018
+Sikkim,2018,assault on women with intent to outrage her modesty below 18,1
+Tamil Nadu,2018,assault on women with intent to outrage her modesty below 18,22
+Telangana,2018,assault on women with intent to outrage her modesty below 18,153
+Tripura,2018,assault on women with intent to outrage her modesty below 18,1
+Uttar Pradesh,2018,assault on women with intent to outrage her modesty below 18,1264
+Uttarakhand,2018,assault on women with intent to outrage her modesty below 18,26
+West Bengal,2018,assault on women with intent to outrage her modesty below 18,0
+A&N Islands,2018,assault on women with intent to outrage her modesty below 18,0
+Chandigarh,2018,assault on women with intent to outrage her modesty below 18,11
+D&N Haveli and Daman & Diu,2018,assault on women with intent to outrage her modesty below 18,0
+Delhi,2018,assault on women with intent to outrage her modesty below 18,0
+Jammu & Kashmir,2018,assault on women with intent to outrage her modesty below 18,33
+Ladakh,2018,assault on women with intent to outrage her modesty below 18,0
+Lakshadweep,2018,assault on women with intent to outrage her modesty below 18,0
+Puducherry,2018,assault on women with intent to outrage her modesty below 18,0
+TOTAL ,2018,assault on women with intent to outrage her modesty below 18,4137
+Andhra Pradesh,2018,insult to the modesty of women total,2371
+Arunachal Pradesh,2018,insult to the modesty of women total,3
+Assam,2018,insult to the modesty of women total,90
+Bihar,2018,insult to the modesty of women total,6
+Chhattisgarh,2018,insult to the modesty of women total,279
+Goa,2018,insult to the modesty of women total,35
+Gujarat,2018,insult to the modesty of women total,18
+Haryana,2018,insult to the modesty of women total,183
+Himachal Pradesh,2018,insult to the modesty of women total,88
+Jharkhand,2018,insult to the modesty of women total,6
+Karnataka,2018,insult to the modesty of women total,71
+Kerala,2018,insult to the modesty of women total,454
+Madhya Pradesh,2018,insult to the modesty of women total,200
+Maharashtra,2018,insult to the modesty of women total,969
+Manipur,2018,insult to the modesty of women total,8
+Meghalaya,2018,insult to the modesty of women total,18
+Mizoram,2018,insult to the modesty of women total,3
+Nagaland,2018,insult to the modesty of women total,2
+Odisha,2018,insult to the modesty of women total,615
+Punjab,2018,insult to the modesty of women total,29
+Rajasthan,2018,insult to the modesty of women total,86
+Sikkim,2018,insult to the modesty of women total,0
+Tamil Nadu,2018,insult to the modesty of women total,31
+Telangana,2018,insult to the modesty of women total,701
+Tripura,2018,insult to the modesty of women total,3
+Uttar Pradesh,2018,insult to the modesty of women total,28
+Uttarakhand,2018,insult to the modesty of women total,43
+West Bengal,2018,insult to the modesty of women total,446
+A&N Islands,2018,insult to the modesty of women total,3
+Chandigarh,2018,insult to the modesty of women total,4
+D&N Haveli and Daman & Diu,2018,insult to the modesty of women total,3
+Delhi,2018,insult to the modesty of women total,418
+Jammu & Kashmir,2018,insult to the modesty of women total,35
+Ladakh,2018,insult to the modesty of women total,0
+Lakshadweep,2018,insult to the modesty of women total,1
+Puducherry,2018,insult to the modesty of women total,0
+TOTAL ,2018,insult to the modesty of women total,7250
+Andhra Pradesh,2018,insult to the modesty of women above 18,2338
+Arunachal Pradesh,2018,insult to the modesty of women above 18,3
+Assam,2018,insult to the modesty of women above 18,90
+Bihar,2018,insult to the modesty of women above 18,6
+Chhattisgarh,2018,insult to the modesty of women above 18,272
+Goa,2018,insult to the modesty of women above 18,33
+Gujarat,2018,insult to the modesty of women above 18,18
+Haryana,2018,insult to the modesty of women above 18,183
+Himachal Pradesh,2018,insult to the modesty of women above 18,88
+Jharkhand,2018,insult to the modesty of women above 18,6
+Karnataka,2018,insult to the modesty of women above 18,71
+Kerala,2018,insult to the modesty of women above 18,419
+Madhya Pradesh,2018,insult to the modesty of women above 18,189
+Maharashtra,2018,insult to the modesty of women above 18,969
+Manipur,2018,insult to the modesty of women above 18,8
+Meghalaya,2018,insult to the modesty of women above 18,18
+Mizoram,2018,insult to the modesty of women above 18,3
+Nagaland,2018,insult to the modesty of women above 18,2
+Odisha,2018,insult to the modesty of women above 18,615
+Punjab,2018,insult to the modesty of women above 18,29
+Rajasthan,2018,insult to the modesty of women above 18,77
+Sikkim,2018,insult to the modesty of women above 18,0
+Tamil Nadu,2018,insult to the modesty of women above 18,30
+Telangana,2018,insult to the modesty of women above 18,678
+Tripura,2018,insult to the modesty of women above 18,2
+Uttar Pradesh,2018,insult to the modesty of women above 18,19
+Uttarakhand,2018,insult to the modesty of women above 18,43
+West Bengal,2018,insult to the modesty of women above 18,445
+A&N Islands,2018,insult to the modesty of women above 18,3
+Chandigarh,2018,insult to the modesty of women above 18,4
+D&N Haveli and Daman & Diu,2018,insult to the modesty of women above 18,3
+Delhi,2018,insult to the modesty of women above 18,418
+Jammu & Kashmir,2018,insult to the modesty of women above 18,35
+Ladakh,2018,insult to the modesty of women above 18,0
+Lakshadweep,2018,insult to the modesty of women above 18,1
+Puducherry,2018,insult to the modesty of women above 18,0
+TOTAL ,2018,insult to the modesty of women above 18,7118
+Andhra Pradesh,2018,insult to the modesty of women below 18,33
+Arunachal Pradesh,2018,insult to the modesty of women below 18,0
+Assam,2018,insult to the modesty of women below 18,0
+Bihar,2018,insult to the modesty of women below 18,0
+Chhattisgarh,2018,insult to the modesty of women below 18,7
+Goa,2018,insult to the modesty of women below 18,2
+Gujarat,2018,insult to the modesty of women below 18,0
+Haryana,2018,insult to the modesty of women below 18,0
+Himachal Pradesh,2018,insult to the modesty of women below 18,0
+Jharkhand,2018,insult to the modesty of women below 18,0
+Karnataka,2018,insult to the modesty of women below 18,0
+Kerala,2018,insult to the modesty of women below 18,35
+Madhya Pradesh,2018,insult to the modesty of women below 18,11
+Maharashtra,2018,insult to the modesty of women below 18,0
+Manipur,2018,insult to the modesty of women below 18,0
+Meghalaya,2018,insult to the modesty of women below 18,0
+Mizoram,2018,insult to the modesty of women below 18,0
+Nagaland,2018,insult to the modesty of women below 18,0
+Odisha,2018,insult to the modesty of women below 18,0
+Punjab,2018,insult to the modesty of women below 18,0
+Rajasthan,2018,insult to the modesty of women below 18,9
+Sikkim,2018,insult to the modesty of women below 18,0
+Tamil Nadu,2018,insult to the modesty of women below 18,1
+Telangana,2018,insult to the modesty of women below 18,23
+Tripura,2018,insult to the modesty of women below 18,1
+Uttar Pradesh,2018,insult to the modesty of women below 18,9
+Uttarakhand,2018,insult to the modesty of women below 18,0
+West Bengal,2018,insult to the modesty of women below 18,1
+A&N Islands,2018,insult to the modesty of women below 18,0
+Chandigarh,2018,insult to the modesty of women below 18,0
+D&N Haveli and Daman & Diu,2018,insult to the modesty of women below 18,0
+Delhi,2018,insult to the modesty of women below 18,0
+Jammu & Kashmir,2018,insult to the modesty of women below 18,0
+Ladakh,2018,insult to the modesty of women below 18,0
+Lakshadweep,2018,insult to the modesty of women below 18,0
+Puducherry,2018,insult to the modesty of women below 18,0
+TOTAL ,2018,insult to the modesty of women below 18,132
+Andhra Pradesh,2018,district,
+Arunachal Pradesh,2018,district,
+Assam,2018,district,
+Bihar,2018,district,
+Chhattisgarh,2018,district,
+Goa,2018,district,
+Gujarat,2018,district,
+Haryana,2018,district,
+Himachal Pradesh,2018,district,
+Jharkhand,2018,district,
+Karnataka,2018,district,
+Kerala,2018,district,
+Madhya Pradesh,2018,district,
+Maharashtra,2018,district,
+Manipur,2018,district,
+Meghalaya,2018,district,
+Mizoram,2018,district,
+Nagaland,2018,district,
+Odisha,2018,district,
+Punjab,2018,district,
+Rajasthan,2018,district,
+Sikkim,2018,district,
+Tamil Nadu,2018,district,
+Telangana,2018,district,
+Tripura,2018,district,
+Uttar Pradesh,2018,district,
+Uttarakhand,2018,district,
+West Bengal,2018,district,
+A&N Islands,2018,district,
+Chandigarh,2018,district,
+D&N Haveli and Daman & Diu,2018,district,
+Delhi,2018,district,
+Jammu & Kashmir,2018,district,
+Ladakh,2018,district,
+Lakshadweep,2018,district,
+Puducherry,2018,district,
+TOTAL ,2018,district,
+Andhra Pradesh,2018,city,
+Arunachal Pradesh,2018,city,
+Assam,2018,city,
+Bihar,2018,city,
+Chhattisgarh,2018,city,
+Goa,2018,city,
+Gujarat,2018,city,
+Haryana,2018,city,
+Himachal Pradesh,2018,city,
+Jharkhand,2018,city,
+Karnataka,2018,city,
+Kerala,2018,city,
+Madhya Pradesh,2018,city,
+Maharashtra,2018,city,
+Manipur,2018,city,
+Meghalaya,2018,city,
+Mizoram,2018,city,
+Nagaland,2018,city,
+Odisha,2018,city,
+Punjab,2018,city,
+Rajasthan,2018,city,
+Sikkim,2018,city,
+Tamil Nadu,2018,city,
+Telangana,2018,city,
+Tripura,2018,city,
+Uttar Pradesh,2018,city,
+Uttarakhand,2018,city,
+West Bengal,2018,city,
+A&N Islands,2018,city,
+Chandigarh,2018,city,
+D&N Haveli and Daman & Diu,2018,city,
+Delhi,2018,city,
+Jammu & Kashmir,2018,city,
+Ladakh,2018,city,
+Lakshadweep,2018,city,
+Puducherry,2018,city,
+TOTAL ,2018,city,

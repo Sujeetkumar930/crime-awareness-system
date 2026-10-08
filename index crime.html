@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fantastic Crime Awareness System</title>
+    <style>
+        body { font-family: Arial; background: linear-gradient(120deg, #89f7fe, #66a6ff); padding: 20px;}
+        h1 { text-align:center; color:#ff6347; animation: glow 2s infinite alternate;}
+        @keyframes glow {0%{text-shadow: 0 0 5px #ff6347;} 100%{text-shadow: 0 0 20px #ffa07a;}}
+        form { background:#fff; padding:20px; border-radius:20px; box-shadow:2px 2px 20px rgba(0,0,0,0.3); width:50%; margin:auto;}
+        select, input[type=number], input[type=submit] { width:100%; padding:10px; margin:10px 0; border-radius:8px; border:1px solid #ccc; transition:0.3s; }
+        select:hover,input[type=number]:hover,input[type=submit]:hover { box-shadow:0 0 10px #32cd32; }
+        h3 { text-align:center; color:#2e8b57;}
+        table { margin:20px auto; border-collapse: collapse; background:#fff; border-radius:10px; }
+        td, th { border:1px solid #999; padding:10px 15px; text-align:center; }
+        #chatbot { position:fixed; bottom:20px; right:20px; width:300px; }
+        #chatbox { height:300px; background:#fff; border-radius:15px; overflow-y:auto; padding:10px; box-shadow:2px 2px 15px rgba(0,0,0,0.3); }
+        #user-input { width:70%; padding:8px; border-radius:8px; border:1px solid #ccc;}
+        #send-btn { padding:8px 12px; border:none; background:#32cd32; color:#fff; border-radius:8px; cursor:pointer;}
+    </style>
+</head>
+<body>
+<h1>Fantastic Crime Awareness System</h1>
+<form method="post">
+    <label>State:</label>
+    <select name="state">
+        {% for s in states %}
+            <option value="{{s}}">{{s}}</option>
+        {% endfor %}
+    </select>
+
+    <label>District:</label>
+    <select name="district">
+        {% for d in districts %}
+            <option value="{{d}}">{{d}}</option>
+        {% endfor %}
+    </select>
+
+    <label>City:</label>
+    <select name="city">
+        {% for c in cities %}
+            <option value="{{c}}">{{c}}</option>
+        {% endfor %}
+    </select>
+
+    <label>Crime Type:</label>
+    <select name="crime_type">
+        {% for ct in crime_types %}
+            <option value="{{ct}}">{{ct}}</option>
+        {% endfor %}
+    </select>
+
+    <label>Year:</label>
+    <input type="number" name="year" value="2022">
+
+    <input type="submit" value="Predict Crime Count">
+</form>
+
+{% if prediction %}
+<h3>Predicted Crime Count: {{ prediction }}</h3>
+<h3>Total Crime Count (Selected Filters): {{ total_count }}</h3>
+
+<h3>State Info (From d6)</h3>
+<table>
+    <tr><th>No. of Police Stations</th><th>Literacy Rate (%)</th><th>Area (km²)</th><th>Population</th></tr>
+    <tr>
+        <td>{{ police }}</td>
+        <td>{{ literacy }}</td>
+        <td>{{ area }}</td>
+        <td>{{ population }}</td>
+    </tr>
+</table>
+{% endif %}
+
+<!-- Chatbot -->
+<div id="chatbot">
+    <div id="chatbox"></div>
+    <input type="text" id="user-input" placeholder="Ask me about crime awareness...">
+    <button id="send-btn">Send</button>
+</div>
+
+<script>
+const chatbox = document.getElementById('chatbox');
+const input = document.getElementById('user-input');
+const sendBtn = document.getElementById('send-btn');
+
+sendBtn.onclick = function() {
+    const userText = input.value;
+    if(!userText) return;
+    const userMsg = '<p><b>You:</b> '+userText+'</p>';
+    chatbox.innerHTML += userMsg;
+    input.value = '';
+
+    // Randomized bot replies
+    const replies = [
+        "Stay alert and report crimes to local authorities!",
+        "Police stations help maintain law and order in your area.",
+        "Always stay aware of your surroundings and follow safety rules.",
+        "Different crime types have different prevention measures.",
+        "Share information with your neighbors to reduce crime."
